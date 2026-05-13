@@ -36,12 +36,12 @@ cdn.jsdelivr.net:443#更多选择 | jsDelivr
 openai.com:443#更多选择 | OpenAI
 investor.apple.com:443#更多选择 | Apple
 virtualcommtraining.verizon.com:443#更多选择 | Verizon
-email.lg.com:443#更多选择 | LG
+1password.com:443#更多选择 | 1Password
 icook.hk:443#更多选择 | 爱料理香港
 staticdelivery.nexusmods.com:443#更多选择 | NexusMods
 markmonitor.com:443#更多选择 | MarkMonitor
 www.sage.com:443#更多选择 | Sage
-www.speedtest.net:443#更多选择 | SpeedTest
+www.speedtest.net:443#更多选择 | Ookla
 livescore.co.kr:443#更多选择 | LiveScore
 csgo.com:443#更多选择 | CSGO
 cloudflare.182682.xyz:443#更多选择 | WeTest
