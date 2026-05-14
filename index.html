@@ -31,19 +31,19 @@
 		h2 { font-size: 1.7rem; margin-bottom: 25px; color: #fff; display: flex; align-items: center; padding-top: 25px; }
 		h2::before { content: ""; width: 5px; height: 1.4rem; background: var(--accent-blue); margin-right: 15px; border-radius: 10px; box-shadow: 0 0 15px var(--accent-blue), 0 0 5px rgba(59, 130, 246, 0.5); }
 		.group-card { background-color: var(--card-bg); border: 1px solid var(--border-color); border-radius: 14px; padding: 26px; margin-bottom: 25px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);}
-		.group-name { font-size: 1.1rem; margin-bottom: 20px; color: #fff; font-weight: 700; border-bottom: 1px solid var(--border-color); padding-bottom: 12px; display: flex; align-items: center; gap: 10px; }
+		.group-name { font-size: 1.1rem; margin-bottom: 20px; color: #fff; font-weight: 700; border-bottom: 1px solid var(--border-color); padding-bottom: 12px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
 		.link-row { margin-bottom: 20px; }
 		.link-row:last-child { margin-bottom: 0; }
-		.item-header { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; }
-		.item-title { font-weight: 700; color: #fff; font-size: 1.1rem; line-height: 1; }
-		.tag { display: inline-flex; align-items: center; justify-content: center; font-size: 0.75rem; padding: 0 5px; height: 18px; border-radius: 4px; font-weight: 600; color: var(--accent-blue); border: 1px solid rgba(59, 130, 246, 0.4); line-height: 1; background: rgba(59, 130, 246, 0.1); vertical-align: middle; }
+		.item-header { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; flex-wrap: wrap; width: 100%; }
+		.item-title { font-weight: 700; color: #fff; font-size: 1.1rem; line-height: 1; flex-shrink: 0; }
+		.action-area { display: flex; align-items: center; gap: 12px; flex-wrap: nowrap; }
+		.tag { display: inline-flex; align-items: center; justify-content: center; font-size: 0.75rem; padding: 0 5px; height: 18px; border-radius: 4px; font-weight: 600; color: var(--accent-blue); border: 1px solid rgba(59, 130, 246, 0.4); line-height: 1; background: rgba(59, 130, 246, 0.1); vertical-align: middle; white-space: nowrap; flex-shrink: 0; }
 		.tag-featured { background-color: var(--accent-blue); color: #fff; border: none; height: 18px; }
-		.tag-date { display: inline-flex; align-items: center; justify-content: center; font-size: 0.75rem; padding: 0 5px; height: 18px; border-radius: 4px; font-weight: 600; color: var(--accent-blue); border: 1px solid rgba(59, 130, 246, 0.4); line-height: 1; background: rgba(59, 130, 246, 0.1); vertical-align: middle; }
-		.action-area { display: flex; align-items: center; gap: 12px; }
+		.tag-date { display: inline-flex; align-items: center; justify-content: center; font-size: 0.75rem; padding: 0 5px; height: 18px; border-radius: 4px; font-weight: 600; color: var(--accent-blue); border: 1px solid rgba(59, 130, 246, 0.4); line-height: 1; background: rgba(59, 130, 246, 0.1); vertical-align: middle; white-space: nowrap; flex-shrink: 0; }
 		.url-box { flex: 1; background-color: var(--code-bg); padding: 0 16px; height: 42px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); display: flex; align-items: center; position: relative; min-width: 0; }
 		.url-text { font-family: ui-monospace, SFMono-Regular, Monaco, Consolas, monospace; font-size: 1rem; color: var(--text-muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; user-select: all; width: 100%; }
 		.url-text::placeholder { color: var(--text-muted); }
-		.copy-btn, .open-btn { background: rgba(59, 130, 246, 0.15); color: var(--accent-blue); border: 1px solid rgba(59, 130, 246, 0.4); height: 42px; padding: 0 20px; border-radius: 8px; cursor: pointer; font-size: 0.9rem; font-weight: 700; transition: all 0.3s; white-space: nowrap; display: flex; align-items: center; justify-content: center; text-decoration: none; }
+		.copy-btn, .open-btn { background: rgba(59, 130, 246, 0.15); color: var(--accent-blue); border: 1px solid rgba(59, 130, 246, 0.4); height: 42px; padding: 0 20px; border-radius: 8px; cursor: pointer; font-size: 0.9rem; font-weight: 700; transition: all 0.3s; white-space: nowrap; display: flex; align-items: center; justify-content: center; text-decoration: none; flex-shrink: 0; }
 		.copy-btn:hover, .open-btn:hover { background: var(--accent-blue); color: #fff; box-shadow: 0 0 15px rgba(59, 130, 246, 0.3); }
 		.item-desc { display: block; font-size: 0.8rem; color: #94a3b8; line-height: 1.4; margin: 4px 0 12px 0; font-weight: normal; }      
 		@media (max-width: 600px) { .action-area { flex-direction: column; align-items: stretch; gap: 10px; } .url-box { height: 42px !important; min-height: 42px !important; display: flex !important; align-items: center !important; padding: 0 15px !important; } .open-btn, .copy-btn { height: 42px !important; line-height: 42px !important; display: flex !important; align-items: center !important; justify-content: center !important; padding: 0 !important; width: 100% !important; } .url-text { font-size: 0.8rem !important; } }
@@ -633,7 +633,7 @@
 				</div>
 			</div>
 			<div class="link-row">
-				<div class="item-header"><span class="item-title">IPv4</span><span class="tag">单IP列表</span></div>
+				<div class="item-header"><span class="item-title">IPv4</span><span class="tag">单IP</span></div>
 				<div class="action-area">
 					<div class="url-box"><span class="url-text">https://bestcf.pages.dev/mingyu/ipv4-onlyip.txt</span></div>
 					<button class="copy-btn" onclick="copy(this, 'https://bestcf.pages.dev/mingyu/ipv4-onlyip.txt')">复制链接</button>
@@ -641,21 +641,21 @@
 			</div>
 		</div>	
         <div class="group-card">
-            <div class="item-header"><span class="item-title">ZhiXuan</span><span class="tag">每半小时更新</span><span class="tag">单IP列表</span></div>
+            <div class="item-header"><span class="item-title">ZhiXuan</span><span class="tag">每半小时更新</span><span class="tag">单IP</span></div>
             <div class="action-area">
                 <div class="url-box"><span class="url-text">https://bestcf.pages.dev/zhixuanwang/ipv4-onlyip.txt</span></div>
                 <button class="copy-btn" onclick="copy(this, 'https://bestcf.pages.dev/zhixuanwang/ipv4-onlyip.txt')">复制链接</button>
             </div>
         </div>
         <div class="group-card">
-            <div class="item-header"><span class="item-title">Senflare</span><span class="tag">每3小时更新</span><span class="tag">单IP列表</span></div>
+            <div class="item-header"><span class="item-title">Senflare</span><span class="tag">3小时更新</span><span class="tag">单IP</span><span class="tag">采集混合</span></div>
             <div class="action-area">
                 <div class="url-box"><span class="url-text">https://raw.githubusercontent.com/Senflare/Senflare-IP/refs/heads/main/IPlist-Pro.txt</span></div>
                 <button class="copy-btn" onclick="copy(this, 'https://raw.githubusercontent.com/Senflare/Senflare-IP/refs/heads/main/IPlist-Pro.txt')">复制链接</button>
             </div>
         </div>								
 		<div class="group-card">
-			<div class="group-name">CM<span class="tag">每秒更新</span><span class="tag">随机优选</span><span class="tag">ips=数量自定义</span></div>
+			<div class="group-name">CM<span class="tag">每秒更新</span><span class="tag">随机优选</span><span class="tag">ips=数量自定义</span><span class="tag">555555555555</span></div>
 			<div class="link-row">
 				<div class="item-header"><span class="item-title">三网</span></div>
 				<div class="action-area">
@@ -735,7 +735,7 @@
             </div>
         </div>
         <div class="group-card">
-            <div class="item-header"><span class="item-title">MortezaBashsiz/CFScanner</span></div>
+            <div class="item-header"><span class="item-title">MB/CFScanner</span></div>
             <div class="action-area">
                 <div class="url-box"><span class="url-text">github.com/MortezaBashsiz/CFScanner</span></div>
                 <a href="https://github.com/MortezaBashsiz/CFScanner/releases" class="open-btn" target="_blank">打开链接</a>
@@ -1857,7 +1857,7 @@
 </div>
 <script>
 <!-- 底部导航 -->
-	document.addEventListener('DOMContentLoaded',()=>{const nav=document.getElementById('bottomNav'),indicator=document.getElementById('indicator'),items=document.querySelectorAll('.nav-item');function updateIndicator(el){if(!el)return;indicator.style.width=`${el.offsetWidth}px`;indicator.style.left=`${el.offsetLeft}px`;const scrollLeft=el.offsetLeft-(nav.offsetWidth/2)+(el.offsetWidth/2);nav.scrollTo({left:scrollLeft,behavior:'smooth'})}updateIndicator(document.querySelector('.nav-item.active'));items.forEach(item=>{item.addEventListener('click',function(e){e.preventDefault();const targetId=this.getAttribute('href'),targetElement=targetId==="#bodyTop"?document.body:document.querySelector(targetId);if(targetElement)targetElement.scrollIntoView({behavior:'smooth'})})});let isTicking=false;window.addEventListener('scroll',()=>{if(!isTicking){window.requestAnimationFrame(()=>{const scrollPos=window.scrollY+window.innerHeight/3;let currentActive=items[0];items.forEach(item=>{const id=item.getAttribute('href');if(id!=="#bodyTop"){const section=document.querySelector(id);if(section&&scrollPos>=section.offsetTop)currentActive=item}});if(!currentActive.classList.contains('active')){items.forEach(i=>i.classList.remove('active'));currentActive.classList.add('active');updateIndicator(currentActive)}isTicking=false});isTicking=true}},{passive:true})});
+	document.addEventListener('DOMContentLoaded',()=>{const nav=document.getElementById('bottomNav'),indicator=document.getElementById('indicator'),items=document.querySelectorAll('.nav-item');function updateIndicator(el){if(!el)return;indicator.style.width=`${el.offsetWidth}px`;indicator.style.left=`${el.offsetLeft}px`;const scrollLeft=el.offsetLeft-(nav.offsetWidth/2)+(el.offsetWidth/2);nav.scrollTo({left:scrollLeft,behavior:'smooth'})}updateIndicator(document.querySelector('.nav-item.active'));items.forEach((item,index)=>{item.addEventListener('click',function(e){if(index===0&&this.classList.contains('active')){window.location.href='/';return}e.preventDefault();const targetId=this.getAttribute('href'),targetElement=targetId==="#bodyTop"?document.body:document.querySelector(targetId);if(targetElement)targetElement.scrollIntoView({behavior:'smooth'})})});let isTicking=false;window.addEventListener('scroll',()=>{if(!isTicking){window.requestAnimationFrame(()=>{const scrollPos=window.scrollY+window.innerHeight/3;let currentActive=items[0];items.forEach(item=>{const id=item.getAttribute('href');if(id!=="#bodyTop"){const section=document.querySelector(id);if(section&&scrollPos>=section.offsetTop)currentActive=item}});if(!currentActive.classList.contains('active')){items.forEach(i=>i.classList.remove('active'));currentActive.classList.add('active');updateIndicator(currentActive)}isTicking=false});isTicking=true}},{passive:true})});
 </script>
 <script>
 <!-- EDT面板 -->
