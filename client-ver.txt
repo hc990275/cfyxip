@@ -8,6 +8,7 @@ MetaCubeX/ClashMetaForAndroid|2.11.27
 MetaCubeX/ClashX.Meta|1.4.34
 Openwrt-Passwall/openwrt-passwall|26.5.11-1
 Openwrt-Passwall/openwrt-passwall2|26.5.1-1
+ViRb3/wgcf|2.2.30
 chen08209/FlClash|0.8.92
 clash-verge-rev/clash-verge-rev|2.4.7
 getsurfboard/surfboard|mobile-2.30.0
