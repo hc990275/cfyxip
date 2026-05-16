@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-16 17:43 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-16 18:13 | YouTube@真香定律
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 www.swowd.com:443#www.swowd.com
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
-cnllm.com:443#cnllm.com
 01-cctv.com:443#01-cctv.com
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
+cnllm.com:443#cnllm.com
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 www.leics.police.uk:443#www.leics.police.uk
@@ -16,12 +16,10 @@ athome.com:443#athome.com
 stlouiscountymo.gov:443#stlouiscountymo.gov
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
-ys2046.cv:443#ys2046.cv
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 www.mlkj888.com:443#www.mlkj888.com
-hzytjy.cn:443#hzytjy.cn
-01-qq.com:443#01-qq.com
+ys2046.cv:443#ys2046.cv
 zeas.top:443#zeas.top
 yyurl.cc:443#yyurl.cc
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
@@ -31,9 +29,10 @@ cfsaas.080112.xyz:443#cfsaas.080112.xyz
 www.5h.com:443#www.5h.com
 cdn.2158.cc:443#cdn.2158.cc
 www.cdzxdz.com:443#www.cdzxdz.com
+hzytjy.cn:443#hzytjy.cn
 china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
+01-qq.com:443#01-qq.com
 www.visa.com.sg:443#www.visa.com.sg
-keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 www.nexusmods.com:443#www.nexusmods.com
 eii.at:443#eii.at
@@ -45,8 +44,9 @@ cdn.262832.xyz:443#cdn.262832.xyz
 dnew.cc:443#dnew.cc
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
+3.cf.3666888.xyz:443#3.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
-11.cf.3666888.xyz:443#11.cf.3666888.xyz
-baka.fun:443#baka.fun
 y508.com:443#y508.com
+cdn.091224.xyz:443#cdn.091224.xyz
+cdn.2020111.xyz:443#cdn.2020111.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
