@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 05-18 08:43 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP100 | 05-18 09:13 | YouTube@真香定律
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 cnllm.com:443#cnllm.com
@@ -32,7 +32,7 @@ api.gzcrtw.com:443#api.gzcrtw.com
 yyurl.cc:443#yyurl.cc
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cf.3666888.xyz:443#cf.3666888.xyz
-vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
+6.cf.3666888.xyz:443#6.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 cdn.204910.best:443#cdn.204910.best
@@ -41,13 +41,12 @@ dnew.cc:443#dnew.cc
 cf.mubaiovo.top:443#cf.mubaiovo.top
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
+vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
-6.cf.3666888.xyz:443#6.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
-101yaoye.com:443#101yaoye.com
 hzytjy.cn:443#hzytjy.cn
 01-qq.com:443#01-qq.com
 zeas.top:443#zeas.top
@@ -82,7 +81,6 @@ cf.godns.cc:443#cf.godns.cc
 bestcf.top:443#bestcf.top
 cu.877774.xyz:443#cu.877774.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
-fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 www.mfyx.cn:443#www.mfyx.cn
 cf.553314.xyz:443#cf.553314.xyz
@@ -90,6 +88,8 @@ cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
 play.mc.js.cool:443#play.mc.js.cool
 www.swowd.com:443#www.swowd.com
 d.lma.de5.net:443#d.lma.de5.net
+fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
+101yaoye.com:443#101yaoye.com
 cdn.31514926.xyz:443#cdn.31514926.xyz
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
