@@ -1,15 +1,15 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-19 14:12 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-19 14:42 | YouTube@真香定律
 test2.509666.xyz:443#test2.509666.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 yyurl.cc:443#yyurl.cc
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+networksolutions.com:443#networksolutions.com
 y508.com:443#y508.com
 cdns.doon.eu.org:443#cdns.doon.eu.org
 www.fastsoso.cn:443#www.fastsoso.cn
 cdn.262832.xyz:443#cdn.262832.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
-qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 cmcc.cc.cd:443#cmcc.cc.cd
 play.mc.js.cool:443#play.mc.js.cool
@@ -24,6 +24,7 @@ cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
+qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
@@ -36,7 +37,6 @@ baka.fun:443#baka.fun
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 zeas.top:443#zeas.top
 cf.553314.xyz:443#cf.553314.xyz
-cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 cf.3666888.xyz:443#cf.3666888.xyz
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cu.877774.xyz:443#cu.877774.xyz
