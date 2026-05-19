@@ -2,8 +2,9 @@ saas.sin.fan:443#▼ EDT导航精选域名 | 优选网BestCF.pages.dev
 162.159.198.1:443#官方域名 | WARP1
 162.159.198.1:8443#官方域名 | WARP2
 162.159.197.1:443#官方域名 | WARP3
-162.159.46.66:443#官方域名 | WARP4
-gateway.cloudflareaccess.com:443#官方域名 | WARP5
+162.159.197.1:8443#官方域名 | WARP4
+162.159.46.66:443#官方域名 | WARP5
+gateway.cloudflareaccess.com:443#官方域名 | Endpoint
 cloudflare-eth.com:443#官方域名 | ETH
 cloudflare.dev:443#官方域名 | Docs
 cloudflare.net:443#官方域名 | Business
