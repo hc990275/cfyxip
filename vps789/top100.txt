@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 05-21 04:13 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP100 | 05-21 04:43 | YouTube@真香定律
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
@@ -16,14 +16,14 @@ freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 visa.com.tw:443#visa.com.tw
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
-bbs.alipansou.com:443#bbs.alipansou.com
 d.lma.de5.net:443#d.lma.de5.net
 zeas.top:443#zeas.top
 vps.cheng2001.top:443#vps.cheng2001.top
 www.visa.com.hk:443#www.visa.com.hk
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
-mogas.com:443#mogas.com
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
+store.ubi.com:443#store.ubi.com
+mogas.com:443#mogas.com
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
@@ -34,8 +34,8 @@ cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 cdn.204910.best:443#cdn.204910.best
-store.ubi.com:443#store.ubi.com
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
+www.visa.com.tw:443#www.visa.com.tw
 openai.com:443#openai.com
 saas.sin.fan:443#saas.sin.fan
 www.sage.com:443#www.sage.com
@@ -48,12 +48,10 @@ cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 eii.at:443#eii.at
 y508.com:443#y508.com
 ping.ctrl.li:443#ping.ctrl.li
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
 ct.721660.xyz:443#ct.721660.xyz
 www.leics.police.uk:443#www.leics.police.uk
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 my.dnshe.com:443#my.dnshe.com
-www.visa.com.tw:443#www.visa.com.tw
 www.visa.com:443#www.visa.com
 cu.877774.xyz:443#cu.877774.xyz
 www.speedtest.net:443#www.speedtest.net
@@ -71,6 +69,7 @@ cmcc.cc.cd:443#cmcc.cc.cd
 cdn.091224.xyz:443#cdn.091224.xyz
 test2.509666.xyz:443#test2.509666.xyz
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
+cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 cf.v8.longsays.com:443#cf.v8.longsays.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
@@ -93,10 +92,11 @@ laitemi.com:443#laitemi.com
 digitalocean.com:443#digitalocean.com
 i.111666.best:443#i.111666.best
 nrtcfdns.zone.id:443#nrtcfdns.zone.id
-cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 cdn.262832.xyz:443#cdn.262832.xyz
 virtualcommtraining.verizon.com:443#virtualcommtraining.verizon.com
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 hzytjy.cn:443#hzytjy.cn
-store.ubisoft.com:443#store.ubisoft.com
+cdns.doon.eu.org:443#cdns.doon.eu.org
+www.visa.com.sg:443#www.visa.com.sg
+www.5199dy.com:443#www.5199dy.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
