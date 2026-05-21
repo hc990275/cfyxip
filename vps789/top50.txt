@@ -1,24 +1,23 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-21 10:13 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-21 10:43 | YouTube@真香定律
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
+5.cf.3666888.xyz:443#5.cf.3666888.xyz
 china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
 markmonitor.com:443#markmonitor.com
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
-www.mc.js.cool:443#www.mc.js.cool
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
-5.cf.3666888.xyz:443#5.cf.3666888.xyz
 my.dnshe.com:443#my.dnshe.com
+test.509666.xyz:443#test.509666.xyz
 investor.apple.com:443#investor.apple.com
 zeas.top:443#zeas.top
 vps.cheng2001.top:443#vps.cheng2001.top
 www.visa.com.hk:443#www.visa.com.hk
 store.ubi.com:443#store.ubi.com
 mogas.com:443#mogas.com
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
-test.509666.xyz:443#test.509666.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 athome.com:443#athome.com
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
@@ -27,12 +26,11 @@ a.lma.de5.net:443#a.lma.de5.net
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
-cdn.2158.cc:443#cdn.2158.cc
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
-mming.ggff.net:443#mming.ggff.net
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
+fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 www.visa.com.tw:443#www.visa.com.tw
 openai.com:443#openai.com
@@ -41,6 +39,7 @@ cu.877774.xyz:443#cu.877774.xyz
 cdn.204910.best:443#cdn.204910.best
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.3666888.xyz:443#cf.3666888.xyz
+nexusmods.com:443#nexusmods.com
 www.jimdo.com:443#www.jimdo.com
 www.leics.police.uk:443#www.leics.police.uk
 cf.mubaiovo.top:443#cf.mubaiovo.top
@@ -49,4 +48,5 @@ youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 eii.at:443#eii.at
+y508.com:443#y508.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
