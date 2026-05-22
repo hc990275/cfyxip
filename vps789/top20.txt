@@ -1,7 +1,6 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 05-23 05:43 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 05-23 06:13 | YouTube@真香定律
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-store.ubi.com:443#store.ubi.com
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
@@ -10,6 +9,7 @@ cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cmcc.cc.cd:443#cmcc.cc.cd
+china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
 cdn.2158.cc:443#cdn.2158.cc
 baka.fun:443#baka.fun
 stlouiscountymo.gov:443#stlouiscountymo.gov
