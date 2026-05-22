@@ -1,4 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-22 15:13 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-22 15:43 | YouTube@真香定律
+yyurl.cc:443#yyurl.cc
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 cf.3666888.xyz:443#cf.3666888.xyz
@@ -10,21 +11,19 @@ test2.509666.xyz:443#test2.509666.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
-cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 api.gzcrtw.com:443#api.gzcrtw.com
+cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 cf.mubaiovo.top:443#cf.mubaiovo.top
 openai.com:443#openai.com
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 f.lma.de5.net:443#f.lma.de5.net
-yyurl.cc:443#yyurl.cc
 saas.sin.fan:443#saas.sin.fan
 www.mc.js.cool:443#www.mc.js.cool
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 ys2046.cv:443#ys2046.cv
-zeas.top:443#zeas.top
 yapuyapu.com:443#yapuyapu.com
 nexusmods.com:443#nexusmods.com
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
@@ -33,12 +32,13 @@ fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 eii.at:443#eii.at
-investor.apple.com:443#investor.apple.com
+zeas.top:443#zeas.top
 play.mc.js.cool:443#play.mc.js.cool
 vps.cheng2001.top:443#vps.cheng2001.top
 dnew.cc:443#dnew.cc
 test.509666.xyz:443#test.509666.xyz
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
+www.whoer.net:443#www.whoer.net
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.godns.cc:443#cf.godns.cc
 www.fastsoso.cn:443#www.fastsoso.cn
