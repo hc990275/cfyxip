@@ -1,7 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-24 09:44 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-24 10:13 | YouTube@真香定律
 saas.sin.fan:443#saas.sin.fan
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 dnew.cc:443#dnew.cc
+5.cf.3666888.xyz:443#5.cf.3666888.xyz
+yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 baka.fun:443#baka.fun
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 bbs.alipansou.com:443#bbs.alipansou.com
@@ -17,6 +19,7 @@ cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 yyurl.cc:443#yyurl.cc
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cdn.2020111.xyz:443#cdn.2020111.xyz
+cloudflare.cnae.top:443#cloudflare.cnae.top
 cdn.262832.xyz:443#cdn.262832.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
@@ -28,7 +31,6 @@ www.cdzxdz.com:443#www.cdzxdz.com
 www.mfyx.cn:443#www.mfyx.cn
 www.sloomb.com:443#www.sloomb.com
 athome.com:443#athome.com
-www.visa.com.hk:443#www.visa.com.hk
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 zeas.top:443#zeas.top
@@ -41,8 +43,6 @@ vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
-5.cf.3666888.xyz:443#5.cf.3666888.xyz
-yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com

@@ -1,7 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 05-24 09:44 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP100 | 05-24 10:13 | YouTube@真香定律
 saas.sin.fan:443#saas.sin.fan
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 dnew.cc:443#dnew.cc
+5.cf.3666888.xyz:443#5.cf.3666888.xyz
+yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 baka.fun:443#baka.fun
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 bbs.alipansou.com:443#bbs.alipansou.com
@@ -17,6 +19,7 @@ cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 yyurl.cc:443#yyurl.cc
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cdn.2020111.xyz:443#cdn.2020111.xyz
+cloudflare.cnae.top:443#cloudflare.cnae.top
 cdn.262832.xyz:443#cdn.262832.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
@@ -28,7 +31,6 @@ www.cdzxdz.com:443#www.cdzxdz.com
 www.mfyx.cn:443#www.mfyx.cn
 www.sloomb.com:443#www.sloomb.com
 athome.com:443#athome.com
-www.visa.com.hk:443#www.visa.com.hk
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 zeas.top:443#zeas.top
@@ -41,8 +43,6 @@ vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
-5.cf.3666888.xyz:443#5.cf.3666888.xyz
-yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
@@ -51,14 +51,13 @@ cdn.091224.xyz:443#cdn.091224.xyz
 www.giannidelprete.it:443#www.giannidelprete.it
 test2.509666.xyz:443#test2.509666.xyz
 play.mc.js.cool:443#play.mc.js.cool
+www.visa.com.hk:443#www.visa.com.hk
 cdn.204910.best:443#cdn.204910.best
-store.epicgames.com:443#store.epicgames.com
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.godns.cc:443#cf.godns.cc
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
-cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
@@ -68,12 +67,15 @@ cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 cfip-cu.stoeaves.us.ci:443#cfip-cu.stoeaves.us.ci
 laitemi.com:443#laitemi.com
 vps.cheng2001.top:443#vps.cheng2001.top
+store.epicgames.com:443#store.epicgames.com
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 kniu.cc:443#kniu.cc
+visa.com.tw:443#visa.com.tw
 openai.com:443#openai.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
+cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -87,7 +89,6 @@ prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cf.553314.xyz:443#cf.553314.xyz
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 cf.3666888.xyz:443#cf.3666888.xyz
-visa.com.tw:443#visa.com.tw
 cdns.doon.eu.org:443#cdns.doon.eu.org
 cf.v8.longsays.com:443#cf.v8.longsays.com
 cu.877774.xyz:443#cu.877774.xyz
@@ -96,7 +97,6 @@ www.6i5.com:443#www.6i5.com
 cdn.2x.nz:443#cdn.2x.nz
 yidong.19931101.xyz:443#yidong.19931101.xyz
 www.sage.com:443#www.sage.com
-cf.998866.top:443#cf.998866.top
 01-cctv.com:443#01-cctv.com
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
