@@ -1,14 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-25 07:44 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-25 08:14 | YouTube@真香定律
 store.ubi.com:443#store.ubi.com
 openai.com:443#openai.com
 cu.877774.xyz:443#cu.877774.xyz
-y508.com:443#y508.com
 www.nexusmods.com:443#www.nexusmods.com
 www.cdzxdz.com:443#www.cdzxdz.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 gh-proxy.com:443#gh-proxy.com
 run.254301.xyz:443#run.254301.xyz
-eii.at:443#eii.at
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 cdns.doon.eu.org:443#cdns.doon.eu.org
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
@@ -25,9 +23,10 @@ cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
+eii.at:443#eii.at
+y508.com:443#y508.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
-laitemi.com:443#laitemi.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 www.visa.com:443#www.visa.com
@@ -42,6 +41,7 @@ cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 www.akasantech.com:443#www.akasantech.com
+laitemi.com:443#laitemi.com
 nexusmods.com:443#nexusmods.com
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 cf.3666888.xyz:443#cf.3666888.xyz
