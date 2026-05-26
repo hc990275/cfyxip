@@ -1,6 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-26 09:44 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-26 10:14 | YouTube@真香定律
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 gh-proxy.com:443#gh-proxy.com
@@ -13,11 +14,11 @@ chrono24.com:443#chrono24.com
 cfip-cu.stoeaves.us.ci:443#cfip-cu.stoeaves.us.ci
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
 dongbanghong.com:443#dongbanghong.com
-yd.hhhhh.eu.org:443#yd.hhhhh.eu.org
 stlouiscountymo.gov:443#stlouiscountymo.gov
+yd.hhhhh.eu.org:443#yd.hhhhh.eu.org
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cdn.204910.best:443#cdn.204910.best
 store.epicgames.com:443#store.epicgames.com
-bbs.alipansou.com:443#bbs.alipansou.com
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
@@ -25,11 +26,10 @@ www.nexusmods.com:443#www.nexusmods.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 cdns.doon.eu.org:443#cdns.doon.eu.org
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 saas.sin.fan:443#saas.sin.fan
 cu.877774.xyz:443#cu.877774.xyz
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.godns.cc:443#cf.godns.cc
+bbs.alipansou.com:443#bbs.alipansou.com
 cf.mubaiovo.top:443#cf.mubaiovo.top
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
