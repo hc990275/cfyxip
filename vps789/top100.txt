@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 05-26 11:45 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP100 | 05-26 12:15 | YouTube@真香定律
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
@@ -19,7 +19,6 @@ cdn.204910.best:443#cdn.204910.best
 store.epicgames.com:443#store.epicgames.com
 www.fastsoso.cn:443#www.fastsoso.cn
 bbs.alipansou.com:443#bbs.alipansou.com
-cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 www.nexusmods.com:443#www.nexusmods.com
@@ -29,6 +28,7 @@ saas.sin.fan:443#saas.sin.fan
 cu.877774.xyz:443#cu.877774.xyz
 cf.godns.cc:443#cf.godns.cc
 cf.mubaiovo.top:443#cf.mubaiovo.top
+cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
@@ -41,7 +41,6 @@ www.akasantech.com:443#www.akasantech.com
 www.giannidelprete.it:443#www.giannidelprete.it
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 www.visa.com.hk:443#www.visa.com.hk
-hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
@@ -73,6 +72,7 @@ www.shopify.com:443#www.shopify.com
 openai.com:443#openai.com
 cdn.262832.xyz:443#cdn.262832.xyz
 www.leics.police.uk:443#www.leics.police.uk
+hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
@@ -88,9 +88,9 @@ www.sloomb.com:443#www.sloomb.com
 play.mc.js.cool:443#play.mc.js.cool
 laitemi.com:443#laitemi.com
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
+email.lg.com:443#email.lg.com
 cf.v8.longsays.com:443#cf.v8.longsays.com
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-email.lg.com:443#email.lg.com
 networksolutions.com:443#networksolutions.com
 www.jimdo.com:443#www.jimdo.com
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
