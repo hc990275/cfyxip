@@ -41,7 +41,7 @@ jobs:
                   }
               )
               # 新接口 https://sub.xinyitang.dpdns.org/iplist
-              url = "https://sub.xinyitang.dpdns.org/sub?host=123&uuid=456"
+              url = "https://sub.xinyitang.dpdns.org/sub?host=bestcf.pages.dev&uuid=acc06942-ab63-4352-886a-c00a978862be"
               try:
                   res = scraper.get(url, timeout=10)
                   if res.status_code == 200:
