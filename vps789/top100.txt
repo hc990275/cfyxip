@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 05-27 09:41 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP100 | 05-27 10:11 | YouTube@真香定律
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
@@ -14,6 +14,7 @@ yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 cdn.091224.xyz:443#cdn.091224.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cu.877774.xyz:443#cu.877774.xyz
+777.ai7777777.xyz:443#777.ai7777777.xyz
 www.fastsoso.cn:443#www.fastsoso.cn
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
@@ -48,9 +49,7 @@ eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 www.swowd.com:443#www.swowd.com
-china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
-markmonitor.com:443#markmonitor.com
 zeas.top:443#zeas.top
 www.sloomb.com:443#www.sloomb.com
 www.vastnovel.com:443#www.vastnovel.com
@@ -81,7 +80,7 @@ www.mlkj888.com:443#www.mlkj888.com
 y508.com:443#y508.com
 cmcc.cc.cd:443#cmcc.cc.cd
 ping.ctrl.li:443#ping.ctrl.li
-shanghai.mfa.gov.ua:443#shanghai.mfa.gov.ua
+markmonitor.com:443#markmonitor.com
 2x.nz:443#2x.nz
 www.akasantech.com:443#www.akasantech.com
 api.gzcrtw.com:443#api.gzcrtw.com
@@ -96,6 +95,7 @@ test.509666.xyz:443#test.509666.xyz
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 cnllm.com:443#cnllm.com
 cdn.7zz.cn:443#cdn.7zz.cn
+shanghai.mfa.gov.ua:443#shanghai.mfa.gov.ua
 run.254301.xyz:443#run.254301.xyz
 cf.duun.eu.cc:443#cf.duun.eu.cc
 fk.hshwk.org:443#fk.hshwk.org
