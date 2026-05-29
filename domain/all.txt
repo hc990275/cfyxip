@@ -32,8 +32,6 @@ loreal.com:443#更多选择 | 欧莱雅
 162.159.198.1:443#官方域名 | MASQUE
 162.159.197.1:443#官方域名 | ZeroTrust
 engage.cloudflareclient.com:443#官方域名 | WireGuard
-gateway.cloudflareaccess.com:443#官方域名 | Gateway
-api.cloudflareclient.com:443#官方域名 | WARP API
 cloudflare-eth.com:443#官方域名 | Web3
 cloudflare.dev:443#官方域名 | Developers
 cloudflare.net:443#官方域名 | Business
@@ -63,4 +61,4 @@ lt.hhhhh.eu.org:443#按运营商 | 联通WuYa
 cmcc.877774.xyz:443#按运营商 | 移动QMS
 cm.cloudflare.byoip.top:443#按运营商 | 移动Byoip
 yd.hhhhh.eu.org:443#按运营商 | 移动WuYa
-bestcf.030101.xyz:443#▲ 精选域名 | 5-23 | 优选网BestCF.pages.dev
+bestcf.030101.xyz:443#▲ 精选域名 | 5-29 | 优选网BestCF.pages.dev
