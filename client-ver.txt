@@ -1,6 +1,6 @@
-2dust/v2rayN|7.22.3
+2dust/v2rayN|7.22.4
 2dust/v2rayNG|2.2.1
-2dust/v2rayn|7.22.3
+2dust/v2rayn|7.22.4
 GUI-for-Cores/GUI.for.SingBox|1.24.1
 Juwan-Hwang/Zephyr|2.3.3
 MatsuriDayo/NekoBoxForAndroid|1.4.2
