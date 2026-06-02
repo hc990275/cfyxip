@@ -5,7 +5,7 @@ GUI-for-Cores/GUI.for.SingBox|1.24.1
 Juwan-Hwang/Zephyr|2.3.4
 MatsuriDayo/NekoBoxForAndroid|1.4.2
 MetaCubeX/ClashMetaForAndroid|2.11.29
-MetaCubeX/ClashX.Meta|1.4.35
+MetaCubeX/ClashX.Meta|1.4.36
 MetaCubeX/mihomo|1.19.26
 Openwrt-Passwall/openwrt-passwall|26.6.2-1
 Openwrt-Passwall/openwrt-passwall2|26.5.19-1
