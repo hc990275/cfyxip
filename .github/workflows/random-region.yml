@@ -84,13 +84,14 @@ jobs:
               ports = item.get("port", [])
               meta = item.get("meta", {})
               country = meta.get("country")
+              if not ip or not country:
+                  continue
+              if country in ["CN", "Unknown"]:
+                  continue
               country_cn = meta.get("country_cn", country)
               
               colo_info = meta.get("colo", {})
               iata = colo_info.get("iata") if isinstance(colo_info, dict) else meta.get("iata", "UNK")
-
-              if not ip or not country:
-                  continue
 
               port = select_port(ports)
               line = f"{ip}:{port}#地区随机 | {country_cn} {country} | {iata} | {ip}:{port}"
