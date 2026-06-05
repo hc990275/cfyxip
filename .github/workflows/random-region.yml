@@ -149,6 +149,8 @@ jobs:
           country_list_lines = []
           if isinstance(country_order_dict, dict):
               for country_code, count in country_order_dict.items():
+                  if country_code in ["CN", "Unknown"]:
+                      continue
                   country_list_lines.append(f"{country_code}|{count}")
           
           if country_list_lines:
