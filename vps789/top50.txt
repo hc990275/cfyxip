@@ -1,6 +1,5 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 06-06 09:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 06-06 10:12 | BestCF.pages.dev
 openai.com:443#VPS789优选 | openai.com
-dnew.cc:443#VPS789优选 | dnew.cc
 eii.at:443#VPS789优选 | eii.at
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
 www.shopify.com:443#VPS789优选 | www.shopify.com
@@ -30,13 +29,14 @@ cfip-cm.stoeaves.us.ci:443#VPS789优选 | cfip-cm.stoeaves.us.ci
 3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
 freeyx.cloudflare88.eu.org:443#VPS789优选 | freeyx.cloudflare88.eu.org
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
-cf-ip-node.vov.moe:443#VPS789优选 | cf-ip-node.vov.moe
 prompt.gzcrtw.com:443#VPS789优选 | prompt.gzcrtw.com
 www.speedtest.net:443#VPS789优选 | www.speedtest.net
+cf-ip-node.vov.moe:443#VPS789优选 | cf-ip-node.vov.moe
 hfqek.cf.3666888.xyz:443#VPS789优选 | hfqek.cf.3666888.xyz
 saas.sin.fan:443#VPS789优选 | saas.sin.fan
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 bestcfv4.030101.xyz:443#VPS789优选 | bestcfv4.030101.xyz
+dnew.cc:443#VPS789优选 | dnew.cc
 www.leics.police.uk:443#VPS789优选 | www.leics.police.uk
 cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
