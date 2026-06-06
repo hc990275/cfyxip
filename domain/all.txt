@@ -30,10 +30,11 @@ mycareer.verizon.com:443#更多选择 | Verizon
 affirm.com:443#更多选择 | Affirm
 www.zendesk.com:443#更多选择 | Zendesk
 anadoluefes.com:443#更多选择 | AnadoluEfes
-ikea.com:443#更多选择 | 宜家IKEA
+ikea.com:443#更多选择 | 宜家
 loreal.com:443#更多选择 | 欧莱雅
 visit.honeywell.com:443#更多选择 | 霍尼韦尔
 homecare.stryker.com:443#更多选择 | 史赛克
+polestar.com:443#亚洲域名 | 极星
 www.kia.com:443#更多选择 | 起亚
 www.hyundai.com:443#更多选择 | 现代
 emerson.com:443#更多选择 | 艾默生
