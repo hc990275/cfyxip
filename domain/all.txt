@@ -15,7 +15,7 @@ jimdo.com:443#企业域名 | Jimdo
 www.visa.cn:443#金融域名 | VISA中国
 www.visa.com.hk:443#金融域名 | VISA香港
 usa.visa.com:443#金融域名 | VISA美国
-academy.mastercard.com:443#金融域名 | 万事达
+academy.mastercard.com:443#金融域名 | 万事达卡
 wealthpartners.jpmorgan.com:443#金融域名 | 摩根大通
 tradepro.wealthmanagement.scotiabank.com:443#金融域名 | 丰业银行
 www.wto.org:443#更多选择 | WTO世贸
