@@ -1,4 +1,4 @@
-name: tiancheng3
+name: luoli
 
 on:
   workflow_dispatch:
@@ -23,11 +23,10 @@ jobs:
 
       - name: Process and Compare
         run: |
-          # 1. 确保新目标文件夹存在
-          mkdir -p tiancheng3
+          # 1. 确保目标文件夹存在
+          mkdir -p luoli
           
-          # 2. 使用 Python 脚本绕过 CF 5秒盾并抓取
-          echo "正在通过 Python cloudscraper 抓取数据..."
+          # 2. 生成 Python 抓取脚本
           cat << 'EOF' > scraper.py
           import cloudscraper
           import sys
@@ -41,16 +40,11 @@ jobs:
                       'desktop': True
                   }
               )
-              url = "https://baidu.sosorg.nyc.mn/sub?uuid=00000000-0000-4000-8000-000000000000&host=example.com"
+              url = "https://sub.us.ci/sub?uuid=00000000-0000-4000-8000-000000000000&host=example.com"
               try:
                   res = scraper.get(url, timeout=10)
                   if res.status_code == 200:
-                      html = res.text
-                      if "<pre" in html:
-                          match = re.search(r'<pre[^>]*>(.*?)</pre>', html, re.S)
-                          if match:
-                              return match.group(1).strip()
-                      return html.strip()
+                      return res.text.strip()
                   else:
                       print(f"Error: Status code {res.status_code}", file=sys.stderr)
                       return None
@@ -65,7 +59,8 @@ jobs:
               sys.exit(1)
           EOF
 
-          MAX_RETRIES=3
+          # 最多重试 2 次
+          MAX_RETRIES=2
           RETRY_COUNT=0
           response=""
 
@@ -82,22 +77,15 @@ jobs:
           done
 
           if [ -z "$response" ]; then
-            echo "❌ 无法绕过防护，跳过执行。"
+            echo "❌ 无法抓取数据，跳过执行。"
             echo "changes_detected=false" >> $GITHUB_ENV
             exit 0
           fi
 
-          # 3. 解码并校验内容
+          # 3. 解码并提取节点
           decoded_data=$(echo "$response" | base64 -d 2>/dev/null)
-          if [[ ! "$decoded_data" =~ "vless://" ]]; then
-            echo "错误：解码数据格式非法。"
-            echo "changes_detected=false" >> $GITHUB_ENV
-            exit 0
-          fi
-
-          # 4. 解析节点并归类
-          echo "数据校验通过，开始解析节点..."
           rm -f new_nodes.tmp
+          touch new_nodes.tmp
           
           echo "$decoded_data" | while IFS= read -r line; do
             if [[ -z "$line" ]]; then continue; fi
@@ -151,61 +139,33 @@ jobs:
             # -----------------------
 
             if [[ -n "$ip_port" ]]; then
-              echo "${ip_port}#天诚优选3 | ${location} | ${ip_port}" >> new_nodes.tmp
+              echo "${ip_port}#洛璃优选 | ${location} | ${ip_port}" >> new_nodes.tmp
             fi
           done
 
-          # 5. 对比、构建文件与备份
-          OLD_FILE="tiancheng3/all.txt"
+          # 4. 对比内容变化
+          TARGET_FILE="luoli/all.txt"
           SHOULD_COMMIT=false
-          if [ -f "$OLD_FILE" ]; then
-            sed '1d;$d' "$OLD_FILE" > old_nodes.tmp
+          if [ -f "$TARGET_FILE" ]; then
+            sed '1d;$d' "$TARGET_FILE" > old_nodes.tmp
             if ! diff -q old_nodes.tmp new_nodes.tmp > /dev/null; then
-              echo "检测到内容更新，准备提交。"
               SHOULD_COMMIT=true
             fi
           else
-            echo "初次运行，准备创建新文件。"
             SHOULD_COMMIT=true
           fi
 
+          # 5. 构建文件
           if [ "$SHOULD_COMMIT" = true ]; then
             BJ_TIME=$(TZ='Asia/Shanghai' date +'%m-%d %H:%M')
-            FOOTER="162.159.197.1:443#天诚优选3 | 分享免费优选网 BestCF.pages.dev"
-            
-            # 备份
-            if [ -f "$OLD_FILE" ]; then
-              mkdir -p tiancheng3/old
-              cp "$OLD_FILE" "tiancheng3/old/$(TZ='Asia/Shanghai' date +%Y-%m-%d-%H_%M_%S).txt"
-            fi
-            
-            rm -f tiancheng3/hk.txt tiancheng3/sg.txt tiancheng3/jp.txt tiancheng3/tw.txt tiancheng3/kr.txt tiancheng3/us.txt
-
-            # 生成 All 版
-            echo "162.159.198.1:443#天诚优选3 全量版 | ${BJ_TIME} | BestCF.pages.dev" > "tiancheng3/all.txt"
-            [ -f new_nodes.tmp ] && cat new_nodes.tmp >> "tiancheng3/all.txt"
-            echo "$FOOTER" >> "tiancheng3/all.txt"
-
-            # 生成 Mini 版
-            echo "162.159.198.1:443#天诚优选3 迷你版 | ${BJ_TIME} | BestCF.pages.dev" > "tiancheng3/mini.txt"
-            if [ -f new_nodes.tmp ]; then
-                awk -F'|' '{l=$2; c[l]++; if(c[l]<=5) print $0}' new_nodes.tmp >> "tiancheng3/mini.txt"
-            fi
-            echo "$FOOTER" >> "tiancheng3/mini.txt"
-
-            # 生成分地区版
-            for loc in HK SG JP TW KR US; do
-              f=$(echo "$loc" | tr '[:upper:]' '[:lower:]')
-              if grep -q "| ${loc}" new_nodes.tmp 2>/dev/null; then
-                echo "162.159.198.1:443#天诚优选3 ${loc}版 | ${BJ_TIME} | BestCF.pages.dev" > "tiancheng3/${f}.txt"
-                grep "| ${loc}" new_nodes.tmp >> "tiancheng3/${f}.txt"
-                echo "$FOOTER" >> "tiancheng3/${f}.txt"
-              fi
-            done
+            echo "162.159.198.1:443#洛璃优选 | ${BJ_TIME} | BestCF.pages.dev" > "$TARGET_FILE"
+            cat new_nodes.tmp >> "$TARGET_FILE"
+            echo "162.159.197.1:443#洛璃优选 | 分享免费优选网 BestCF.pages.dev" >> "$TARGET_FILE"
             
             echo "COMMIT_TIME=$BJ_TIME" >> $GITHUB_ENV
             echo "changes_detected=true" >> $GITHUB_ENV
           else
+            echo "内容未变动，无需更新。"
             echo "changes_detected=false" >> $GITHUB_ENV
           fi
 
@@ -213,5 +173,5 @@ jobs:
         if: env.changes_detected == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "TianCheng3 ${{ env.COMMIT_TIME }}"
-          file_pattern: 'tiancheng3/'
+          commit_message: "luoli ${{ env.COMMIT_TIME }}"
+          file_pattern: 'luoli/all.txt'
