@@ -47,8 +47,8 @@ polestar.com:443#更多选择 | 极星
 www.hyundai.com:443#更多选择 | 现代
 www.kia.com:443#更多选择 | 起亚
 www.aeon.info:443#更多选择 | 永旺
-carrefour.com:443#更多选择  | 家乐福
-asda.com:443#更多选择  | 阿斯达
+carrefour.com:443#更多选择 | 家乐福
+asda.com:443#更多选择 | 阿斯达
 shiseido.com:443#更多选择 | 资生堂
 www.wto.org:443#更多选择 | WTO世贸
 w3.org:443#更多选择 | W3C万维
