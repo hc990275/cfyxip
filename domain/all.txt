@@ -35,9 +35,9 @@ affirm.com:443#更多选择 | Affirm
 www.zendesk.com:443#更多选择 | Zendesk
 anadoluefes.com:443#更多选择 | AnadoluEfes
 doordash.com:443#更多选择 | DoorDash
-www.razer.com:443#更多选择 | 雷蛇
 www.lego.com:443#更多选择 | 乐高
 ikea.com:443#更多选择 | 宜家
+www.razer.com:443#更多选择 | 雷蛇
 loreal.com:443#更多选择 | 欧莱雅
 visit.honeywell.com:443#更多选择 | 霍尼韦尔
 homecare.stryker.com:443#更多选择 | 史赛克
@@ -46,7 +46,6 @@ www.roche.com:443#更多选择 | 罗氏制药
 polestar.com:443#更多选择 | 极星
 www.hyundai.com:443#更多选择 | 现代
 www.kia.com:443#更多选择 | 起亚
-www.aeon.info:443#更多选择 | 永旺
 carrefour.com:443#更多选择 | 家乐福
 asda.com:443#更多选择 | 阿斯达
 shiseido.com:443#更多选择 | 资生堂
