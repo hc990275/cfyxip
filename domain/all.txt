@@ -9,7 +9,6 @@ serviceshub.samsclub.com:443#企业域名 | 山姆会员
 www.nestle.com:443#企业域名 | 雀巢集团
 www.allianz.com:443#企业域名 | 安联集团
 hongkongairport.com:443#企业域名 | 香港机场
-polestar.com:443#企业域名 | 极星汽车
 decathlon.com:443#企业域名 | 迪卡侬
 openai.com:443#企业域名 | OpenAI
 staticdelivery.nexusmods.com:443#企业域名 | NexusMods
@@ -40,10 +39,11 @@ www.lego.com:443#更多选择 | 乐高
 ikea.com:443#更多选择 | 宜家
 www.razer.com:443#更多选择 | 雷蛇
 loreal.com:443#更多选择 | 欧莱雅
-visit.honeywell.com:443#更多选择 | 霍尼韦尔
 homecare.stryker.com:443#更多选择 | 史赛克
 emerson.com:443#更多选择 | 艾默生
+visit.honeywell.com:443#更多选择 | 霍尼韦尔
 www.roche.com:443#更多选择 | 罗氏制药
+www.polestar.com:443#更多选择 | 极星
 www.hyundai.com:443#更多选择 | 现代
 www.kia.com:443#更多选择 | 起亚
 carrefour.com:443#更多选择 | 家乐福
