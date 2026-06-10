@@ -100,7 +100,8 @@
             </div>		
             <div id="edt-panel-container">
                 <div class="group-card">
-                    <div class="group-name">EDTunnel 管理面板</div>
+					<div class="item-header"><span class="item-title">EDTunnel 管理面板</span></div>
+					<div class="item-desc">面板地址和密码只存储在你的浏览器本地</div>
                     <div class="link-row" style="margin-bottom: 12px;">
                         <!-- <div class="item-header"><span class="item-title">链接</span></div> -->
                         <div class="action-area">
@@ -122,7 +123,7 @@
                         <!-- <div class="item-header"><span class="item-title">密码</span></div> -->
                         <div class="action-area">
                             <div class="url-box">
-                                <input type="text" id="edt-pwd-input" placeholder="输入你的面板密码 或 提示">
+                                <input type="text" id="edt-pwd-input" placeholder="输入你的面板密码或密码提示 (选填)">
                                 <div id="clear-pwd-btn" class="clear-btn-common"
                                     onclick="clearField('edt-pwd-input', 'edt_panel_pwd')">
                                     <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
@@ -135,7 +136,6 @@
                             <button class="copy-btn" onclick="copyPwd(this)">复制密码</button>
                         </div>
                     </div>
-                    <div class="item-desc">面板地址和密码只存储在你的浏览器本地</div>
                     <button class="add-more-btn" onclick="addNewGroup()"><svg width="16" height="16" viewBox="0 0 24 24"
                             fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"
                             stroke-linejoin="round">
@@ -169,7 +169,7 @@
 			</div>		
             <div class="group-card">
                 <div class="item-header"><span class="item-title">EDT 相关概念一览表</span><span class="tag tag-featured">新手必看</span></div>
-                <div class="item-desc">活到老学到老</div>
+                <!-- <div class="item-desc">活到老学到老</div> -->
                 <div class="action-area">
                     <div class="url-box"><span class="url-text">bestcf.pages.dev/tools/edt/</span></div>
                     <a href="tools/edt/" class="open-btn" target="_blank">打开链接</a>
