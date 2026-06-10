@@ -10,6 +10,7 @@ fictiv.com:443#亚洲域名 | Fictiv
 woodsbagot.com:443#亚洲域名 | 伍兹贝格
 jebsen.com:443#亚洲域名 | 中国香港捷成
 www.aeon.com.hk:443#亚洲域名 | 中国香港永旺
+www.aeon.info:443#亚洲域名 | 中国香港永旺
 tomleemusic.com.hk:443#亚洲域名 | 中国香港通利
 www.hthkh.com:443#亚洲域名 | 中国香港和记电讯
 www.caritas.org.hk:443#亚洲域名 | 中国香港明爱

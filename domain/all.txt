@@ -1,4 +1,7 @@
 162.159.198.1:443#▼ EDT导航精选域名 | BestCF.pages.dev
+162.159.198.1:443#官方域名 | MASQUE
+162.159.197.1:443#官方域名 | ZeroTrust
+engage.cloudflareclient.com:443#官方域名 | WireGuard
 visa.com:443#企业域名 | VISA
 shopify.com:443#企业域名 | Shopify
 store.ubi.com:443#企业域名 | 育碧商城
@@ -12,6 +15,7 @@ bluehost.com:443#企业域名 | BlueHost
 digitalocean.com:443#企业域名 | DigitalOcean
 glassdoor.com:443#企业域名 | Glassdoor
 jimdo.com:443#企业域名 | Jimdo
+decathlon.com:443#企业域名 | 迪卡侬
 www.broadcom.com:443#企业域名 | 博通
 www.visa.cn:443#金融域名 | VISA中国
 www.visa.com.hk:443#金融域名 | VISA香港
@@ -19,8 +23,6 @@ usa.visa.com:443#金融域名 | VISA美国
 academy.mastercard.com:443#金融域名 | 万事达卡
 wealthpartners.jpmorgan.com:443#金融域名 | 摩根大通
 tradepro.wealthmanagement.scotiabank.com:443#金融域名 | 丰业银行
-www.wto.org:443#更多选择 | WTO世贸
-w3.org:443#更多选择 | W3C万维
 www.sage.com:443#更多选择 | Sage
 www.speedtest.net:443#更多选择 | Ookla
 markmonitor.com:443#更多选择 | MarkMonitor
@@ -44,12 +46,12 @@ www.roche.com:443#更多选择 | 罗氏制药
 polestar.com:443#更多选择 | 极星
 www.hyundai.com:443#更多选择 | 现代
 www.kia.com:443#更多选择 | 起亚
-harley-davidson.com:443#更多选择 | 哈雷
-mclaren.com:443#更多选择 | 迈凯伦
-motorsport-id.porsche.com:443#更多选择 | 保时捷
-162.159.198.1:443#官方域名 | MASQUE
-162.159.197.1:443#官方域名 | ZeroTrust
-engage.cloudflareclient.com:443#官方域名 | WireGuard
+www.aeon.info:443#更多选择 | 永旺
+carrefour.com:443#更多选择  | 家乐福
+asda.com:443#更多选择  | 阿斯达
+shiseido.com:443#更多选择 | 资生堂
+www.wto.org:443#更多选择 | WTO世贸
+w3.org:443#更多选择 | W3C万维
 cloudflare-eth.com:443#官方域名 | Web3
 cloudflare.dev:443#官方域名 | Developers
 cloudflare.net:443#官方域名 | Business
@@ -77,4 +79,4 @@ cu.877774.xyz:443#按运营商 | 联通QMS
 cu.cloudflare.byoip.top:443#按运营商 | 联通Byoip
 cmcc.877774.xyz:443#按运营商 | 移动QMS
 cm.cloudflare.byoip.top:443#按运营商 | 移动Byoip
-162.159.197.1:443#▲ 精选域名 | 6-9 | 分享免费优选网BestCF.pages.dev
+162.159.197.1:443#▲ 精选域名 | 6-10 | 分享免费优选网BestCF.pages.dev
