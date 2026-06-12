@@ -21,14 +21,14 @@ investor.apple.com:443#更多选择 | Apple
 markmonitor.com:443#更多选择 | MarkMonitor
 www.epicgames.com:443#更多选择 | Epicgames
 mycareer.verizon.com:443#更多选择 | Verizon
+www.wto.org:443#更多选择 | WTO世贸
+w3.org:443#更多选择 | W3C万维
 affirm.com:443#更多选择 | Affirm
 www.zendesk.com:443#更多选择 | Zendesk
 doordash.com:443#更多选择 | DoorDash
 anadoluefes.com:443#更多选择 | AnadoluEfes
 digitalocean.com:443#企业域名 | DigitalOcean
 mskcc.org:443#更多选择 | MSKCC
-www.wto.org:443#更多选择 | WTO世贸
-w3.org:443#更多选择 | W3C万维
 cdn.jsdelivr.net:443#更多选择 | jsDelivr
 www.broadcom.com:443#更多选择 | 博通
 homecare.stryker.com:443#更多选择 | 史赛克
