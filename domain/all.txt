@@ -24,6 +24,7 @@ mycareer.verizon.com:443#更多选择 | Verizon
 www.wto.org:443#更多选择 | WTO世贸
 w3.org:443#更多选择 | W3C万维
 affirm.com:443#更多选择 | Affirm
+fossilchina.cn:443#企业域名 | Fossil
 www.zendesk.com:443#更多选择 | Zendesk
 doordash.com:443#更多选择 | DoorDash
 anadoluefes.com:443#更多选择 | AnadoluEfes
@@ -37,6 +38,7 @@ visit.honeywell.com:443#更多选择 | 霍尼韦尔
 www.roche.com:443#更多选择 | 罗氏制药
 www.polestar.com:443#更多选择 | 极星汽车
 asda.com:443#更多选择 | 阿斯达
+retaillink.supplier.wal-mart.com:443#更多选择 | 沃尔玛
 www.visa.cn:443#金融域名 | VISA中国
 usa.visa.com:443#金融域名 | VISA美国
 www.visa.com.hk:443#金融域名 | VISA香港
