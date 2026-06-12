@@ -15,12 +15,6 @@ staticdelivery.nexusmods.com:443#企业域名 | NexusMods
 bluehost.com:443#企业域名 | BlueHost
 glassdoor.com:443#企业域名 | Glassdoor
 jimdo.com:443#企业域名 | Jimdo
-www.visa.cn:443#金融域名 | VISA中国
-www.visa.com.hk:443#金融域名 | VISA香港
-usa.visa.com:443#金融域名 | VISA美国
-academy.mastercard.com:443#金融域名 | 万事达卡
-wealthpartners.jpmorgan.com:443#金融域名 | 摩根大通
-tradepro.wealthmanagement.scotiabank.com:443#金融域名 | 丰业银行
 www.sage.com:443#更多选择 | Sage
 www.speedtest.net:443#更多选择 | Ookla
 investor.apple.com:443#更多选择 | Apple
@@ -43,6 +37,12 @@ visit.honeywell.com:443#更多选择 | 霍尼韦尔
 www.roche.com:443#更多选择 | 罗氏制药
 www.polestar.com:443#更多选择 | 极星汽车
 asda.com:443#更多选择 | 阿斯达
+www.visa.cn:443#金融域名 | VISA中国
+usa.visa.com:443#金融域名 | VISA美国
+www.visa.com.hk:443#金融域名 | VISA香港
+academy.mastercard.com:443#金融域名 | 万事达卡
+tradepro.wealthmanagement.scotiabank.com:443#金融域名 | 丰业银行
+wealthpartners.jpmorgan.com:443#金融域名 | 摩根大通
 cloudflare-eth.com:443#官方域名 | Web3
 cloudflare.dev:443#官方域名 | Developers
 cloudflare.net:443#官方域名 | Business
