@@ -15,16 +15,16 @@ jobs:
 
       - name: 请求订阅并校验数据
         env:
-          luoli_URL: ${{ secrets.luoli_URL }}
+          LUOLI_URL: ${{ secrets.LUOLI_URL }}
         run: |
           echo "开始请求目标链接..."
           
-          if [ -z "$luoli_URL" ]; then
-            echo "错误：未检测到 luoli_URL"
+          if [ -z "$LUOLI_URL" ]; then
+            echo "错误：未检测到 LUOLI_URL"
             exit 1
           fi
           
-          if ! curl -sS -L -A "Clash" --retry 3 --retry-delay 3 "$luoli_URL" -o raw_nodes.txt; then
+          if ! curl -sS -L -A "Clash" --retry 3 --retry-delay 3 "$LUOLI_URL" -o raw_nodes.txt; then
             echo "错误：请求目标链接失败！"
             exit 1
           fi
