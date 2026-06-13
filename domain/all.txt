@@ -25,7 +25,6 @@ www.affirm.com:443#更多选择 | Affirm
 www.fossilchina.cn:443#更多选择 | Fossil
 www.zendesk.com:443#更多选择 | Zendesk
 www.doordash.com:443#更多选择 | DoorDash
-www.anadoluefes.com:443#更多选择 | AnadoluEfes
 www.cookiebot.com:443#更多选择 | Cookiebot
 www.digitalocean.com:443#更多选择 | DigitalOcean
 www.mskcc.org:443#更多选择 | MSKCC
@@ -36,8 +35,8 @@ www.asda.com:443#更多选择 | 阿斯达
 homecare.stryker.com:443#更多选择 | 史赛克
 www.emerson.com:443#更多选择 | 艾默生
 visit.honeywell.com:443#更多选择 | 霍尼韦尔
-www.roche.com:443#更多选择 | 罗氏制药
-www.polestar.com:443#更多选择 | 极星汽车
+roche.com:443#更多选择 | 罗氏制药
+polestar.com:443#更多选择 | 极星汽车
 auctions.ihg.com.cn:443#更多选择 | 洲际酒店
 woodsbagot.com:443#更多选择 | 伍兹贝格
 www.visa.cn:443#金融域名 | VISA中国
