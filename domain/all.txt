@@ -2,7 +2,7 @@
 162.159.198.1:443#官方入口 | MASQUE
 162.159.197.1:443#官方入口 | ZeroTrust
 engage.cloudflareclient.com:443#官方入口 | WireGuard
-shopify.com:443#企业域名 | Shopify
+www.shopify.com:443#企业域名 | Shopify
 store.ubi.com:443#企业域名 | 育碧商城
 serviceshub.samsclub.com:443#企业域名 | 山姆会员
 www.allianz.com:443#企业域名 | 安联集团
