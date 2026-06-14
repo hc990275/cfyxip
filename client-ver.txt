@@ -3,7 +3,7 @@
 2dust/v2rayn|7.22.7
 GUI-for-Cores/GUI.for.SingBox|1.25.1
 Happ-proxy/happ-desktop|2.17.1
-Juwan-Hwang/Zephyr|2.3.7
+Juwan-Hwang/Zephyr|2.3.8
 KaringX/karing|1.2.19.2209
 MatsuriDayo/NekoBoxForAndroid|1.4.2
 MetaCubeX/ClashMetaForAndroid|2.11.30
