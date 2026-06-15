@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 06-15 09:39 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 06-15 10:09 | BestCF.pages.dev
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
@@ -28,18 +28,19 @@ yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
 api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
 play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
 cdn.2020111.xyz:443#VPS789优选 | cdn.2020111.xyz
+cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 saas.sin.fan:443#VPS789优选 | saas.sin.fan
 store.epicgames.com:443#VPS789优选 | store.epicgames.com
 123.cf.3666888.xyz:443#VPS789优选 | 123.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#VPS789优选 | adnjv.cf.3666888.xyz
 eii.at:443#VPS789优选 | eii.at
 cmcc.cc.cd:443#VPS789优选 | cmcc.cc.cd
+cfgo.timelate.com:443#VPS789优选 | cfgo.timelate.com
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
 cf.nyanya.moe:443#VPS789优选 | cf.nyanya.moe
 edgeone.gh-proxy.org:443#VPS789优选 | edgeone.gh-proxy.org
 freeyx.cloudflare88.eu.org:443#VPS789优选 | freeyx.cloudflare88.eu.org
 cloudflare-ip.mofashi.ltd:443#VPS789优选 | cloudflare-ip.mofashi.ltd
-cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 www.jimdo.com:443#VPS789优选 | www.jimdo.com
 cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
@@ -48,5 +49,4 @@ fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 9.cf.3666888.xyz:443#VPS789优选 | 9.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#VPS789优选 | yg9.ygkkk.dpdns.org
 kniu.cc:443#VPS789优选 | kniu.cc
-cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
