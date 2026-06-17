@@ -22,7 +22,6 @@ clash-verge-rev/clash-verge-rev|2.5.1|2026-05-20
 getsurfboard/surfboard|mobile-2.31.1|2026-06-08
 hiddify/hiddify-next|4.1.1|2026-03-06
 likuai2010/auto-installer|3.1.0|2026-03-25
-metacubex/metacubexd|1.255.2|2026-06-15
 mihomo-party-org/clash-party|1.9.5|2026-05-11
 popsiclelmlm/Hey|1.1.0|2026-06-05
 shadowsocks/shadowsocks-android|5.3.5-nightly|2026-02-10
@@ -34,4 +33,3 @@ vernesong/mihomo|Pre-release
 xiaobaigroup/ClashBox|1.7.4|2026-04-02
 xishang0128/sparkle|1.26.5|2026-05-31
 yanue/v2rayu|4.2.8|2025-10-29
-zero-peak/ZeroOmega|3.5.0|2026-05-18
