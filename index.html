@@ -5,17 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="icon" href="favicon.svg" type="image/svg+xml">
 	<meta name="description" content="Cloudflare EDT 导航 - 搭建Cloudflare节点的第一站 - BestCF.pages.dev">
-	<meta name="keywords" content="Cloudflare, EDT, 优选IP, 优选域名, 免费节点, VLESS, VMess, Trojan, Hysteria2, Tuic, Shadowsocks, Reality, Workers, Pages, Snippets, WARP, v2rayN, Clash, Sing-box, Shadowrocket, NekoBox, Stash, Loon, Surfboard, BPB, CMLiu, YGKKK, zizifn, 真香定律, 网络加速, 科学上网, 翻墙">
+	<meta name="keywords" content="Cloudflare, EDT, BestIP, 优选IP, آی‌پی بهینه, Оптимальный IP, 优选域名, 免费节点, VLESS, VMess, Trojan, Hysteria2, Tuic, Shadowsocks, Reality, Workers, Pages, Snippets, WARP, v2rayN, Clash, Sing-box, Shadowrocket, NekoBox, Stash, Loon, Surfboard, BPB, CMLiu, YGKKK, zizifn, 真香定律, 网络加速, 科学上网, 翻墙">
 	<meta name="author" content="Cloudflare EDT 导航">
 	<link rel="canonical" href="https://bestcf.pages.dev/">
 	<meta property="og:type" content="website">
-	<meta property="og:title" content="Cloudflare EDT 导航">
+	<meta property="og:title" content="Cloudflare EDT 导航 | EDT AIO NAV">
 	<meta property="og:description" content="搭建CF节点的第一站">
 	<meta property="og:url" content="https://bestcf.pages.dev/">
-	<meta property="og:site_name" content="Cloudflare EDT 导航">
-	<meta name="twitter:title" content="Cloudflare EDT 导航">
+	<meta property="og:site_name" content="Cloudflare EDT 导航 | EDT AIO NAV">
+	<meta name="twitter:title" content="Cloudflare EDT 导航 | EDT AIO NAV">
 	<meta name="twitter:description" content="搭建CF节点的第一站">	
-    <title>EDT AIO 导航 - BestCF.pages.dev | Cloudflare EdgeTunnel</title>
+    <title>EDT 导航 | EDT AIO NAV - BestCF.pages.dev | Cloudflare EdgeTunnel</title>
 	<style>
 		:root { --bg-color: #0f172a; --card-bg: rgba(30, 41, 59, 0.5); --accent-blue: #3b82f6; --text-main: #f1f5f9; --text-muted: #94a3b8; --border-color: rgba(255, 255, 255, 0.08); --code-bg: rgba(15, 23, 42, 0.5); }
 		* { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
@@ -45,7 +45,7 @@
 		.copy-btn:hover, .open-btn:hover { background: var(--accent-blue); color: #fff; box-shadow: 0 0 15px rgba(59, 130, 246, 0.3); }
 		.item-desc { display: block; font-size: 0.8rem; color: #94a3b8; line-height: 1.4; margin: 4px 0 12px 0; font-weight: normal; }      
 		@media (max-width: 600px) { .action-area { flex-direction: column; align-items: stretch; gap: 10px; } .url-box { height: 42px !important; min-height: 42px !important; display: flex !important; align-items: center !important; padding: 0 15px !important; } .open-btn, .copy-btn { height: 42px !important; line-height: 42px !important; display: flex !important; align-items: center !important; justify-content: center !important; padding: 0 !important; width: 100% !important; } .url-text { font-size: 0.8rem !important; } }
-		@keyframes glow-breath { 0%, 100% { box-shadow: 0 0 5px #3b82f688; filter: brightness(1); } 50% { box-shadow: 0 0 25px #3b82f6, 0 0 10px #3b82f6; filter: brightness(1.5); } }
+		@keyframes glow-breath { 0%, 100% { box-shadow: 0 0 5px #3b82f688; filter: brightness(1); } 50% { box-shadow: 0 0 25px #3b82f6, 0 0 10px #3b82f6; filter: brightness(1.3); } }
 		h2.breath::before { animation: glow-breath 4s ease-in-out infinite !important; }
 		#edt-url-input,#edt-pwd-input,.more-url-input,.more-pwd-input{background:transparent!important;border:none!important;width:100%!important;outline:none!important;color:var(--text-muted)!important;font-family:inherit!important;font-size:14px!important;-webkit-text-fill-color:var(--text-muted)!important;padding-right:28px}#edt-url-input::placeholder,#edt-pwd-input::placeholder,.more-url-input::placeholder,.more-pwd-input::placeholder{color:var(--text-muted)!important;font-size:14px!important;opacity:0.6}.clear-btn-common{color: var(--text-muted);  fill: var(--text-muted); position:absolute;right:8px;top:50%;transform:translateY(-50%);cursor:pointer;display:none;opacity:0.6;line-height:0;transition:opacity .2s;z-index:5}.clear-btn-common:hover{opacity:1}.url-box{flex:1;background-color:var(--code-bg);padding:0 16px;height:42px;border-radius:8px;border:1px solid rgba(255,255,255,.05);display:flex;align-items:center;position:relative}.add-more-btn{margin-top:15px;background:transparent;color:var(--text-muted);border:1px dashed var(--border-color);width:100%;height:40px;border-radius:8px;cursor:pointer;font-size:.85rem;transition:.3s;display:flex;align-items:center;justify-content:center;gap:5px}.add-more-btn:hover{border-color:var(--accent-blue);color:var(--accent-blue);background:rgba(59,130,246,.05)}
 		.bottom-nav-container{position:fixed;bottom:30px;left:50%;transform:translateX(-50%);z-index:9999;width:100%;max-width:860px;display:flex;justify-content:center;pointer-events:none;box-sizing:border-box}.nav-bar{display:flex;align-items:center;background:rgba(15,23,42,0.3);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);padding:5px;border-radius:50px;border:1px solid rgba(255,255,255,0.08);box-shadow:0 12px 40px rgba(0,0,0,0.5);position:relative;overflow-x:auto;overflow-y:hidden;scrollbar-width:none;-ms-overflow-style:none;pointer-events:auto;width:fit-content;max-width:calc(100% - 40px);justify-content:flex-start;cursor:grab}.nav-bar:active{cursor:grabbing}.nav-bar::-webkit-scrollbar{display:none}.nav-item{position:relative;padding:8px 24px;color:#94a3b8;text-decoration:none;font-size:0.9rem;font-weight:700;white-space:nowrap;transition:color 0.3s ease;z-index:2;cursor:pointer;flex-shrink:0}.nav-item.active{color:#fff}.nav-indicator{position:absolute;height:calc(100% - 10px);top:5px;left:0;background:linear-gradient(135deg,#3b82f6 0%,#1d4ed8 100%);border-radius:50px;transition:all 0.5s cubic-bezier(0.16,1,0.3,1);z-index:1;box-shadow:0 4px 20px rgba(59,130,246,0.5);will-change:left,width;backface-visibility:hidden}
@@ -233,7 +233,7 @@
         </section>
 
         <section id="hxjb">
-            <h2>EDT 混淆脚本</h2>
+            <h2>EDT混淆 Obfuscated</h2>
             <div style="font-size: 0.8rem; color: var(--text-muted); margin: -15px 0 20px 20px;">每日混淆目的是避免万人骑同一文件，减少1101
                 <br>混淆过程在Github公开透明，与一键部署同文件
                 <!-- <br>若上传Pages部署，外层必须要有文件夹，JS文件名必须为"_worker.js" -->
@@ -291,7 +291,7 @@
         </section>
 		
         <section id="jiaocheng">
-            <h2>教程</h2>
+            <h2>教程 Tutorials</h2>
             <div class="group-card">
                 <div class="item-header"><span class="item-title">真香定律</span><span class="tag">包教废</span></div>
                 <div class="item-desc">0基础1分钟搭建Cloudflare永久免费魔法</div>
@@ -352,7 +352,7 @@
             </div>						
         </section>
         <section id="yxym">
-            <h2>优选域名</h2>
+            <h2>优选域名 BestDomain</h2>
             <div style="font-size: 0.8rem; color: var(--text-muted); margin: -15px 0 20px 20px;">兼容多个脚本的通用格式
                 "域名:端口#备注信息"<br>EDT面板或变量中添加txt链接，客户端更新订阅</div>
             <div class="group-card">
@@ -498,7 +498,7 @@
         </section>
 
         <section id="yxip">
-            <h2>优选IP</h2>
+            <h2>优选IP BestIP</h2>
             <div style="font-size: 0.8rem; color: var(--text-muted); margin: -15px 0 20px 20px;">
 				兼容多个脚本的通用格式"IP:端口#备注信息"<br>
 				EDT面板或变量中添加txt链接，客户端更新订阅
@@ -1316,7 +1316,7 @@
         </section>
 
         <section id="yxgj">
-            <h2>优选工具</h2>
+            <h2>优选工具 Scanner</h2>
 			<div style="font-size: 0.8rem; color: var(--text-muted); margin: -15px 0 20px 20px;">新手勿用，建议用现成的优选IP/优选域名</div>
             <div class="group-card">
                 <div class="item-header"><span class="item-title">XIU2/CloudflareST</span></div>
@@ -1997,7 +1997,7 @@
         </section>
 
         <section id="jcgj">
-            <h2>检测工具</h2>
+            <h2>检测工具 Checker</h2>
             <div class="group-card">
                 <div class="item-header"><span class="item-title">BrowserLeaks</span><span class="tag">综合</span><span class="tag tag-featured">推荐</span></div>
                 <div class="action-area">
@@ -2123,7 +2123,7 @@
         </section>		
 		
         <section id="csgj">
-            <h2>测速工具</h2>
+            <h2>测速工具 SpeedTest</h2>
             <div class="group-card">
                 <div class="item-header"><span class="item-title">Ookla</span></div>
                 <div class="action-area">
@@ -2176,7 +2176,7 @@
         </section>
 		
         <section id="gzj">
-            <h2>规则集</h2>			
+            <h2>规则集 Rules</h2>			
             <div class="group-card">
                 <div class="item-header"><span class="item-title">Loyalsoldier</span><span class="tag">Clash</span><span class="tag">v2ray</span><span class="tag">Surge</span></div>
                 <div class="action-area">
@@ -2335,7 +2335,7 @@
         </section>
 
 		<section id="dyzh">
-            <h2>订阅转换</h2>
+            <h2>订阅转换 SubConverter</h2>
 			<div style="font-size: 0.8rem; color: var(--text-muted); margin: -15px 0 20px 20px;">注意节点隐私，建议自建或使用带混淆的前端或本地转换</div>
             <div class="group-card">
                 <div class="item-header"><span class="item-title">ACL4SSR</span><span class="tag">在线</span></div>
@@ -2460,7 +2460,7 @@
         </section>
 
         <section id="gdgj">
-            <h2>更多工具</h2>
+            <h2>更多工具 More</h2>
             <div class="group-card">
                 <div class="item-header"><span class="item-title">UUID生成器</span></div>
                 <div class="action-area">
@@ -2550,7 +2550,7 @@
             </div>
         </section>
         <section id="khd">
-            <h2>客户端</h2>
+            <h2>客户端 Client</h2>
 			<style>
 			.client-table-box { width: 100%; margin-top: 10px; }
 			.client-table { width: 100%; border-collapse: collapse; border-spacing: 0; }
@@ -2564,7 +2564,7 @@
 			.status-none { color: rgba(255, 255, 255, 0.05); text-align: center; }
 			</style>
             <div class="group-card">
-                <div class="group-name"><span class="item-title">各平台一览表</span></div>
+                <div class="group-name"><span class="item-title">支持平台列表 Support List</span></div>
                 <div class="client-table-box">
                     <table class="client-table">
                         <thead><tr><th>应用名</th><th>Win</th><th>And</th><th>Mac</th><th>iOS</th></tr></thead>
@@ -2661,7 +2661,7 @@
                 </div>
             </div>
             <div class="group-card">
-                <div class="group-name">安卓</div>
+                <div class="group-name">Android</div>
                 <div class="link-row">
                     <div class="item-header"><span class="item-title">FlClash</span></div>
                     <div class="action-area">
@@ -2743,7 +2743,7 @@
                 </div>				
             </div>
             <div class="group-card">
-                <div class="group-name">原生鸿蒙</div>
+                <div class="group-name">HarmonyOS 鸿蒙</div>
                 <div class="link-row">
                     <div class="item-header"><span class="item-title">ClashBox</span></div>
                     <div class="action-area">
@@ -2771,7 +2771,7 @@
                 </div>				
             </div>
             <div class="group-card">
-                <div class="group-name">Mac</div>
+                <div class="group-name">MacOS</div>
                 <div class="link-row">
                     <div class="item-header"><span class="item-title">Clash Verge Rev</span></div>
                     <div class="action-area">
@@ -2901,7 +2901,7 @@
                 </div>
             </div>
             <div class="group-card">
-                <div class="group-name">路由器</div>
+                <div class="group-name">路由器 Router</div>
                 <div class="link-row">
                     <div class="item-header"><span class="item-title">PassWall</span></div>
                     <div class="action-area">
@@ -2943,7 +2943,7 @@
                 </div>				
             </div>
             <div class="group-card">
-                <div class="group-name">内核</div>
+                <div class="group-name">内核 Core</div>
                 <div class="link-row">
                     <div class="item-header"><span class="item-title">Xray Core</span></div>
                     <div class="action-area">
@@ -2988,7 +2988,7 @@
                 </div>	
             </div>			
             <div class="group-card">
-                <div class="group-name">浏览器</div>
+                <div class="group-name">浏览器 Browser</div>
                 <div class="link-row">
                     <div class="item-header"><span class="item-title">Chrome 中文离线安装包</span></div>
                     <div class="action-area">
@@ -3046,7 +3046,7 @@
                 </div>
             </div>			
             <div class="group-card">
-                <div class="group-name">新手学习</div>				
+                <div class="group-name">新手学习 Guide</div>				
                 <div class="link-row">
                     <div class="item-header"><span class="item-title">v2ray</span></div>
                     <div class="action-area">
@@ -3110,6 +3110,13 @@
                         <a href="https://sing-box.sagernet.org/zh/" class="open-btn" target="_blank">开始学习</a>
                     </div>
                 </div>
+                <div class="link-row">
+                    <div class="item-header"><span class="item-title">Surfboard</span></div>
+                    <div class="action-area">
+                        <div class="url-box"><span class="url-text">getsurfboard.com/zh-Hans/</span></div>
+                        <a href="https://getsurfboard.com/zh-Hans/" class="open-btn" target="_blank">开始学习</a>
+                    </div>
+                </div>				
             </div>
             <div class="group-card">
                 <div class="item-header"><span class="item-title">WARP / ONE</span><span class="tag tag-featured">EDT姐妹花</span></div>
