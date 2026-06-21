@@ -1,12 +1,12 @@
 cu.877774.xyz
 cdn.091224.xyz
 cfyx.qdqqd.com
+eteaf.cf.3666888.xyz
 3.cf.3666888.xyz
 youxuan.cf.3666888.xyz
 cfip-ct.stoeaves.us.ci
 cf1s.cf.3666888.xyz
 y508.com
-aistudio.zabc.net
 snipaste5.speedip.eu.org
 cloudflare.rainyfall.com
 idc.urkeji.com
@@ -18,7 +18,6 @@ uac.cf.3666888.xyz
 11.cf.3666888.xyz
 yg9.ygkkk.dpdns.org
 cf.3666888.xyz
-www.nexusmods.com
 101yaoye.com
 www.mc.js.cool
 8.cf.3666888.xyz
@@ -55,10 +54,10 @@ hk.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 youxuan.cf.636949.xyz
 2.cf.3666888.xyz
-eteaf.cf.3666888.xyz
 7.cf.3666888.xyz
 yg1.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org
+www.nexusmods.com
 www.swowd.com
 01-qq.com
 www.sloomb.com
@@ -90,6 +89,7 @@ cf.553314.xyz
 cfip-cu.stoeaves.us.ci
 www.shopify.com
 cloudflare.cfgo.cc
+aistudio.zabc.net
 cfsaas.080112.xyz
 gh-proxy.com
 cdn.cf.3666888.xyz
@@ -101,7 +101,7 @@ www.xflash.vip
 ping.pe
 cf.cf.3666888.xyz
 123.cf.3666888.xyz
-cnllm.com
+6.cf.3666888.xyz
 china-mobile.cname.cloudflare.468123.xyz
 reader.sudorm.su
 cf.v8.longsays.com
@@ -109,7 +109,6 @@ www.galgamex.net
 laitemi.com
 cloudflare.182682.xyz
 1.cf.3666888.xyz
-6.cf.3666888.xyz
 store.ubisoft.com
 cf.92555.xyz
 bestcfv4.030101.xyz
@@ -121,6 +120,7 @@ kuaidianlian.com.cn
 a.lma.de5.net
 isp.254301.xyz
 run.254301.xyz
+cnllm.com
 china-telecom.cname.cloudflare.468123.xyz
 zeas.top
 cfip-cm.stoeaves.us.ci
@@ -151,15 +151,15 @@ investor.apple.com
 bestcf.top
 ct.090227.xyz
 cf.996616.xyz
-cf.cdn.smallbottle2.top
 ip.skk.moe
 icook.hk
 x.com
 versantstore.pearson.com
+virtualcommtraining.verizon.com
 stackoverflow.com
 m.iyf.tv
-b.lma.de5.net
 f.lma.de5.net
+www.broadcom.com
 www.4429.com.cn
 www.6i5.com
 shanghai.mfa.gov.ua
@@ -178,9 +178,7 @@ redis.io
 sourceforge.net
 networksolutions.com
 www.sofi.com
-da.mfa.gov.ua
 www.cancilleria.gov.co
-virtualcommtraining.verizon.com
 crowdstrike.com
 jobsdb.com
 absen.com
@@ -191,6 +189,7 @@ zero-trust-client.cloudflareclient.com
 www.visa.com.tw
 bestcf.030101.xyz
 www.visa.com.sg
+img.dexbug.com
 www.whatismyip.com
 encryptedsni.com
 www.elysee.fr
@@ -198,3 +197,4 @@ www.apnic.net
 www.acces-maroc.ma
 cfip.1323123.xyz
 chat.hashi.sbs
+tajikistan.mfa.gov.ua
