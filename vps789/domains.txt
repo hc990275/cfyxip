@@ -11,7 +11,6 @@ www.mc.js.cool
 cu.877774.xyz
 snipaste5.speedip.eu.org
 www.6i5.com
-cf.cf.3666888.xyz
 cloudflare.182682.xyz
 www.shopify.com
 jp.cf.3666888.xyz
@@ -33,7 +32,6 @@ cmcc.cc.cd
 coke.cf.3666888.xyz
 cfsaas.080112.xyz
 nexusmods.com
-vip.cf.3666888.xyz
 qocu.cf.3666888.xyz
 uac.cf.3666888.xyz
 6.cf.3666888.xyz
@@ -57,6 +55,7 @@ cloudflare.idc.rocks
 www.jimdo.com
 www.leics.police.uk
 sanwang.cf.3666888.xyz
+vip.cf.3666888.xyz
 cloudflare.rainyfall.com
 avido.cf.3666888.xyz
 9.cf.3666888.xyz
@@ -65,18 +64,20 @@ yg5.ygkkk.dpdns.org
 cf-ip-node.vov.moe
 www.xiaoshuofen.com
 api.gzcrtw.com
+cloudflare-ip.mofashi.ltd
 ping.pe
 cf.godns.cc
 cloudflare.468123.xyz
-cloudflare-ip.mofashi.ltd
 aistudio.zabc.net
 cdn.204910.best
 gh-proxy.com
 dnew.cc
+cf.cf.3666888.xyz
 cf1s.cf.3666888.xyz
 10.cf.3666888.xyz
 baka.fun
 101yaoye.com
+www.bangbenjiaju.com
 01-cctv.com
 01-qq.com
 www.giannidelprete.it
@@ -97,15 +98,14 @@ www.cdzxdz.com
 cfip-ct.stoeaves.us.ci
 cf.nyanya.moe
 cf.itv888.cn
+da.mfa.gov.ua
 encryptedsni.com
 a.lma.de5.net
 idc.urkeji.com
 cloudflare.cfgo.cc
 www.5199dy.com
 store.epicgames.com
-www.bangbenjiaju.com
 china-telecom.cname.cloudflare.468123.xyz
-da.mfa.gov.ua
 cf.92555.xyz
 ddk.cfyx.20237737.xyz
 page.mercer.com
@@ -129,7 +129,6 @@ run.254301.xyz
 cfip-cm.stoeaves.us.ci
 mskcc.org
 www.5h.com
-www.galgamex.net
 yxip.xxxxxxxx.tk
 cmcc.877774.xyz
 mogas.com
@@ -138,7 +137,6 @@ laitemi.com
 cf.v8.longsays.com
 www.visa.com.tw
 networksolutions.com
-cf.998866.top
 cf.1o.ee
 my.dnshe.com
 china-unicom.cname.cloudflare.468123.xyz
@@ -153,6 +151,7 @@ i.111666.best
 www.whoer.net
 www.speedtest.net
 virtualcommtraining.verizon.com
+cf.998866.top
 yd.hhhhh.eu.org
 redis.io
 investor.apple.com
@@ -182,7 +181,6 @@ visa.com.tw
 funko.com
 visa.com
 videodelivery.net
-www.epicgames.com
 yapuyapu.com
 ct.721660.xyz
 duckybot.xyz
@@ -195,6 +193,8 @@ elron.ee
 athome.com
 cfip.1323123.xyz
 nrtcfdns.zone.id
+www.epicgames.com
 jquery.com
 stackoverflow.com
 dns.0662.de5.net
+www.trumpinternationalrealty.com
