@@ -1,11 +1,17 @@
-162.159.198.1:443#NiREvil优选IPv4 | 06-23 17:31 | BestCF.pages.dev
-198.41.209.162:443#NiREvil优选 | 移动 | 198.41.209.162 | Default | 53ms | 260mbps
-198.41.209.41:443#NiREvil优选 | 移动 | 198.41.209.41 | Default | 52ms | 255mbps
-104.19.223.102:443#NiREvil优选 | 电信 | 104.19.223.102 | Default | 136ms | 295mbps
-162.159.193.150:443#NiREvil优选 | 电信 | 162.159.193.150 | Default | 133ms | 295mbps
-104.18.4.172:443#NiREvil优选 | 电信 | 104.18.4.172 | Default | 141ms | 250mbps
-104.17.191.66:443#NiREvil优选 | 电信 | 104.17.191.66 | Default | 145ms | 245mbps
-104.18.131.92:443#NiREvil优选 | 电信 | 104.18.131.92 | Default | 143ms | 210mbps
-198.41.209.162:443#NiREvil优选 | 联通 | 198.41.209.162 | Default | 53ms | 260mbps
-198.41.209.41:443#NiREvil优选 | 联通 | 198.41.209.41 | Default | 52ms | 255mbps
+162.159.198.1:443#NiREvil优选IPv4 | 06-24 17:01 | BestCF.pages.dev
+198.41.209.148:443#NiREvil优选 | 移动 | 198.41.209.148 | Default | 51ms | 270mbps
+198.41.209.170:443#NiREvil优选 | 移动 | 198.41.209.170 | Default | 52ms | 265mbps
+198.41.208.201:443#NiREvil优选 | 移动 | 198.41.208.201 | Default | 54ms | 265mbps
+198.41.208.112:443#NiREvil优选 | 移动 | 198.41.208.112 | Default | 52ms | 260mbps
+198.41.208.55:443#NiREvil优选 | 移动 | 198.41.208.55 | Default | 52ms | 260mbps
+162.159.36.65:443#NiREvil优选 | 电信 | 162.159.36.65 | Default | 69ms | 290mbps
+104.16.254.63:443#NiREvil优选 | 电信 | 104.16.254.63 | Default | 151ms | 260mbps
+104.18.139.133:443#NiREvil优选 | 电信 | 104.18.139.133 | Default | 142ms | 235mbps
+162.159.241.208:443#NiREvil优选 | 电信 | 162.159.241.208 | Default | 151ms | 220mbps
+104.16.85.124:443#NiREvil优选 | 电信 | 104.16.85.124 | Default | 148ms | 215mbps
+198.41.209.148:443#NiREvil优选 | 联通 | 198.41.209.148 | Default | 51ms | 270mbps
+198.41.209.170:443#NiREvil优选 | 联通 | 198.41.209.170 | Default | 52ms | 265mbps
+198.41.208.201:443#NiREvil优选 | 联通 | 198.41.208.201 | Default | 54ms | 265mbps
+198.41.208.112:443#NiREvil优选 | 联通 | 198.41.208.112 | Default | 52ms | 260mbps
+198.41.208.55:443#NiREvil优选 | 联通 | 198.41.208.55 | Default | 52ms | 260mbps
 162.159.197.1:443#NiREvil优选IPv4 | 分享免费优选网 BestCF.pages.dev
