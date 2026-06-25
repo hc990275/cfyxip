@@ -81,6 +81,7 @@ jobs:
               ignore_list = {
                 "kenzok8/openwrt-packages",
                 "bcseputetto/Are-u-ok",
+                "hq450/fancyss",
                 "zero-peak/ZeroOmega",
                 "MetaCubeX/Yacd-meta",
                 "metacubex/metacubexd",
