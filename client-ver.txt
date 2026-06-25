@@ -7,7 +7,7 @@ Juwan-Hwang/Zephyr|2.3.9|2026-06-17
 KaringX/karing|1.2.20.2308|2026-06-23
 MatsuriDayo/NekoBoxForAndroid|1.4.2|2026-02-09
 MetaCubeX/ClashMetaForAndroid|2.11.30|2026-06-06
-MetaCubeX/ClashX.Meta|1.4.39|2026-06-25
+MetaCubeX/ClashX.Meta|1.4.40|2026-06-26
 MetaCubeX/mihomo|1.19.27|2026-06-06
 Nemu-x/SlothClash|0.6.2|2026-06-17
 Openwrt-Passwall/openwrt-passwall|26.6.2-1|2026-06-02
