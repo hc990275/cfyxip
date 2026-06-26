@@ -1,9 +1,8 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 06-26 19:10 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 06-26 19:40 | BestCF.pages.dev
 cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 hk.cf.3666888.xyz:443#VPS789优选 | hk.cf.3666888.xyz
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
 bbs.alipansou.com:443#VPS789优选 | bbs.alipansou.com
-www.nexusmods.com:443#VPS789优选 | www.nexusmods.com
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 11.cf.3666888.xyz:443#VPS789优选 | 11.cf.3666888.xyz
 6.cf.3666888.xyz:443#VPS789优选 | 6.cf.3666888.xyz
@@ -13,6 +12,7 @@ chrono24.com:443#VPS789优选 | chrono24.com
 www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
 www.jimdo.com:443#VPS789优选 | www.jimdo.com
+cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#VPS789优选 | qocu.cf.3666888.xyz
 3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
 cf-ip-node.vov.moe:443#VPS789优选 | cf-ip-node.vov.moe
