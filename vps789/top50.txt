@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 06-27 02:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 06-27 03:10 | BestCF.pages.dev
 dnew.cc:443#VPS789优选 | dnew.cc
 1.cf.3666888.xyz:443#VPS789优选 | 1.cf.3666888.xyz
 zeas.top:443#VPS789优选 | zeas.top
@@ -8,23 +8,21 @@ eii.at:443#VPS789优选 | eii.at
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 freeyx.cloudflare88.eu.org:443#VPS789优选 | freeyx.cloudflare88.eu.org
 ct.090227.xyz:443#VPS789优选 | ct.090227.xyz
-nexusmods.com:443#VPS789优选 | nexusmods.com
 coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
 cf.itv888.cn:443#VPS789优选 | cf.itv888.cn
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
-11.cf.3666888.xyz:443#VPS789优选 | 11.cf.3666888.xyz
 stlouiscountymo.gov:443#VPS789优选 | stlouiscountymo.gov
+11.cf.3666888.xyz:443#VPS789优选 | 11.cf.3666888.xyz
+api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
 baka.fun:443#VPS789优选 | baka.fun
-cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
+ping.pe:443#VPS789优选 | ping.pe
+www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 avido.cf.3666888.xyz:443#VPS789优选 | avido.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#VPS789优选 | yg9.ygkkk.dpdns.org
-api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
 cmcc.877774.xyz:443#VPS789优选 | cmcc.877774.xyz
 yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
 cf.553314.xyz:443#VPS789优选 | cf.553314.xyz
 cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
-ping.pe:443#VPS789优选 | ping.pe
-www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 www.shopify.com:443#VPS789优选 | www.shopify.com
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
@@ -33,6 +31,7 @@ www.akasantech.com:443#VPS789优选 | www.akasantech.com
 store.ubi.com:443#VPS789优选 | store.ubi.com
 www.jimdo.com:443#VPS789优选 | www.jimdo.com
 vip.cf.3666888.xyz:443#VPS789优选 | vip.cf.3666888.xyz
+cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
 8.cf.3666888.xyz:443#VPS789优选 | 8.cf.3666888.xyz
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
@@ -40,6 +39,7 @@ dongbanghong.com:443#VPS789优选 | dongbanghong.com
 www.xflash.vip:443#VPS789优选 | www.xflash.vip
 hk.cf.3666888.xyz:443#VPS789优选 | hk.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#VPS789优选 | adnjv.cf.3666888.xyz
+4.cf.3666888.xyz:443#VPS789优选 | 4.cf.3666888.xyz
 cf-ip-node.vov.moe:443#VPS789优选 | cf-ip-node.vov.moe
 www.swowd.com:443#VPS789优选 | www.swowd.com
 cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
