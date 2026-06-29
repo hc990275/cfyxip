@@ -7,14 +7,14 @@ serviceshub.samsclub.com:443#企业域名 | 山姆会员
 www.allianz.com:443#企业域名 | 安联集团
 www.decathlon.com:443#企业域名 | 迪卡侬
 www.asda.com:443#企业域名 | 阿斯达
-shopify.com:443#企业域名 | Shopify
+www.shopify.com:443#企业域名 | Shopify
 openai.com:443#企业域名 | OpenAI
 cookiebot.com:443#企业域名 | Cookiebot
 nexusmods.com:443#企业域名 | NexusMods
 bluehost.com:443#企业域名 | BlueHost
 glassdoor.com:443#企业域名 | Glassdoor
 jimdo.com:443#企业域名 | Jimdo
-sage.com:443#更多选择 | Sage
+www.sage.com:443#更多选择 | Sage
 www.speedtest.net:443#更多选择 | Ookla
 investor.apple.com:443#更多选择 | Apple
 markmonitor.com:443#更多选择 | MarkMonitor
