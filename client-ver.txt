@@ -32,5 +32,5 @@ v2fly/v2ray-core|5.49.0|2026-04-13
 vernesong/OpenClash|0.47.110|2026-06-29
 vernesong/mihomo|Pre-release
 xiaobaigroup/ClashBox|1.7.4|2026-04-02
-xishang0128/sparkle|1.26.5|2026-05-31
+xishang0128/sparkle|1.26.6|2026-07-01
 yanue/v2rayu|5.1.0|2026-06-21
