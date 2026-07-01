@@ -2,7 +2,6 @@ www.nexusmods.com
 cf-cname.xingpingcn.top
 yg5.ygkkk.dpdns.org
 cloudflare.468123.xyz
-coke.cf.3666888.xyz
 baka.fun
 prompt.gzcrtw.com
 snipaste5.speedip.eu.org
@@ -13,11 +12,9 @@ www.swowd.com
 my.dnshe.com
 ping.pe
 yg1.ygkkk.dpdns.org
-www.leics.police.uk
 2.cf.3666888.xyz
 uac.cf.3666888.xyz
 eteaf.cf.3666888.xyz
-cdn.2158.cc
 cu.877774.xyz
 cloudflare.rainyfall.com
 10.cf.3666888.xyz
@@ -50,12 +47,14 @@ zeas.top
 www.xflash.vip
 cf.553314.xyz
 cf.nyanya.moe
+coke.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd
 ct.090227.xyz
 staticdelivery.nexusmods.com
 keji.cf.3666888.xyz
 sanwang.cf.3666888.xyz
 isp.254301.xyz
+cdn.2158.cc
 yg11.ygkkk.dpdns.org
 cf.727672.xyz
 dongbanghong.com
@@ -103,6 +102,7 @@ cf.itv888.cn
 www.mc.js.cool
 sg.cf.3666888.xyz
 cfip-cu.stoeaves.us.ci
+www.leics.police.uk
 a.lma.de5.net
 adnjv.cf.3666888.xyz
 api.gzcrtw.com
@@ -114,11 +114,11 @@ cmcc.090227.xyz
 www.ntu.edu.sg
 yxip.xxxxxxxx.tk
 cmcc.877774.xyz
-bestcfv4.030101.xyz
 cf.3666888.xyz
 cmcc.hw.090227.xyz
 cf1.v8.longsays.com
 cf.92555.xyz
+bestcfv4.030101.xyz
 www.speedtest.net
 yd.zhuqq.qzz.io
 www.ox.ac.uk
@@ -150,7 +150,6 @@ www.trumpinternationalrealty.com
 cnamefuckxxs.yuchen.icu
 cf.996616.xyz
 www.visa.cn
-www.udacity.com
 cf.tencentapp.cn
 b3.cfyx.20237737.xyz
 da.mfa.gov.ua
@@ -174,11 +173,11 @@ help.x.com
 virtualcommtraining.verizon.com
 development.ihg.com
 hubspot.com
+networksolutions.com
 stonexbullion.com
 yd.hhhhh.eu.org
 i.pages.dev
 komga.aqua-aria.company
-networksolutions.com
 elron.ee
 www.trumpgolf.com
 aandd.co.jp
@@ -197,4 +196,5 @@ xiaoqi.de
 nrtcfdns.zone.id
 www.libvio.site
 dx.doi.org
-www.cancilleria.gov.co
+mskcc.org
+hitcon.org
