@@ -1,17 +1,17 @@
 162.159.198.1:443#▼ 精选域名 迷你版 | 优选网BestCF.pages.dev
-www.nestle.com:443#企业域名 | 雀巢集团
-www.allianz.com:443#企业域名 | 安联集团
-hongkongairport.com:443#企业域名 | 香港机场
+www.decathlon.com:443#企业域名 | 迪卡侬
+www.asda.com:443#企业域名 | 阿斯达
 serviceshub.samsclub.com:443#企业域名 | 山姆会员
+www.allianz.com:443#企业域名 | 安联集团
 store.ubi.com:443#企业域名 | 育碧商城
 saas.sin.fan:443#大佬维护 | MIYU
 skk.moe:443#大佬维护 | Sukka
-cf.877774.xyz:443#大佬维护 | QMS
+cloudflare.182682.xyz:443#大佬维护 | WeTest
 cf.090227.xyz:443#大佬维护 | CMLiu
-cf.tencentapp.cn:443#大佬维护 | KTFF
+yg1.ygkkk.dpdns.org:443#大佬维护 | YGKKK
 cloudflare-eth.com:443#官方域名 | Web3
 162.159.198.1:443#官方域名 | MASQUE
 162.159.197.1:443#官方域名 | ZeroTrust
 pages.dev:443#官方域名 | Pages
 r2.dev:443#官方域名 | R2
-162.159.197.1:443#▲ 精选域名 | 6-1 | 分享免费优选网 BestCF.pages.dev
+162.159.197.1:443#▲ 精选域名 | 7-2 | 分享免费优选网 BestCF.pages.dev
