@@ -1,8 +1,7 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 07-03 05:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 07-03 06:10 | BestCF.pages.dev
 kuaidianlian.com.cn:443#VPS789优选 | kuaidianlian.com.cn
 yg5.ygkkk.dpdns.org:443#VPS789优选 | yg5.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#VPS789优选 | yg9.ygkkk.dpdns.org
-baka.fun:443#VPS789优选 | baka.fun
 cf.92555.xyz:443#VPS789优选 | cf.92555.xyz
 store.ubi.com:443#VPS789优选 | store.ubi.com
 youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
@@ -16,6 +15,7 @@ www.5199dy.com:443#VPS789优选 | www.5199dy.com
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
 cmcc.cc.cd:443#VPS789优选 | cmcc.cc.cd
 5.cf.3666888.xyz:443#VPS789优选 | 5.cf.3666888.xyz
+qy.cf.727672.xyz:443#VPS789优选 | qy.cf.727672.xyz
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
 cmcc.877774.xyz:443#VPS789优选 | cmcc.877774.xyz
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
