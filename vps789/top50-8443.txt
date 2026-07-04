@@ -1,11 +1,9 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 07-05 06:40 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 07-05 07:10 | BestCF.pages.dev
 saas.sin.fan:8443#VPS789优选 | saas.sin.fan
 nexusmods.com:8443#VPS789优选 | nexusmods.com
-adnjv.cf.3666888.xyz:8443#VPS789优选 | adnjv.cf.3666888.xyz
 keji.cf.3666888.xyz:8443#VPS789优选 | keji.cf.3666888.xyz
 2.cf.3666888.xyz:8443#VPS789优选 | 2.cf.3666888.xyz
 www.vastnovel.com:8443#VPS789优选 | www.vastnovel.com
-coke.cf.3666888.xyz:8443#VPS789优选 | coke.cf.3666888.xyz
 cu.877774.xyz:8443#VPS789优选 | cu.877774.xyz
 6.cf.3666888.xyz:8443#VPS789优选 | 6.cf.3666888.xyz
 9.cf.3666888.xyz:8443#VPS789优选 | 9.cf.3666888.xyz
@@ -13,7 +11,6 @@ ex.warspite.dpdns.org:8443#VPS789优选 | ex.warspite.dpdns.org
 snipaste5.speedip.eu.org:8443#VPS789优选 | snipaste5.speedip.eu.org
 cmcc.cc.cd:8443#VPS789优选 | cmcc.cc.cd
 cdn.091224.xyz:8443#VPS789优选 | cdn.091224.xyz
-dongbanghong.com:8443#VPS789优选 | dongbanghong.com
 api.gzcrtw.com:8443#VPS789优选 | api.gzcrtw.com
 f.lma.de5.net:8443#VPS789优选 | f.lma.de5.net
 freeyx.cloudflare88.eu.org:8443#VPS789优选 | freeyx.cloudflare88.eu.org
@@ -49,4 +46,7 @@ cf.nyanya.moe:8443#VPS789优选 | cf.nyanya.moe
 edgeone.gh-proxy.org:8443#VPS789优选 | edgeone.gh-proxy.org
 cf.mubaiovo.top:8443#VPS789优选 | cf.mubaiovo.top
 cfvip.cf.3666888.xyz:8443#VPS789优选 | cfvip.cf.3666888.xyz
+8.cf.3666888.xyz:8443#VPS789优选 | 8.cf.3666888.xyz
+test.509666.xyz:8443#VPS789优选 | test.509666.xyz
+yxip.xxxxxxxx.tk:8443#VPS789优选 | yxip.xxxxxxxx.tk
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
