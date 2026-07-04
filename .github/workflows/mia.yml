@@ -42,8 +42,14 @@ jobs:
                   }
               )
               url = "https://sub.mia.xx.kg/sub?uuid=00000000-0000-4000-8000-000000000000&host=example.com"
+              
+              headers = {
+                  'User-Agent': 'clash',
+                  'Accept': '*/*'
+              }
+              
               try:
-                  res = scraper.get(url, timeout=10)
+                  res = scraper.get(url, headers=headers, timeout=10)
                   if res.status_code == 200:
                       html = res.text
                       if "<pre" in html:
