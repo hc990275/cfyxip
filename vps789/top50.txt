@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 07-05 08:10 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 07-05 08:40 | BestCF.pages.dev
 saas.sin.fan:443#VPS789优选 | saas.sin.fan
 keji.cf.3666888.xyz:443#VPS789优选 | keji.cf.3666888.xyz
 2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
@@ -13,7 +13,6 @@ api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
 f.lma.de5.net:443#VPS789优选 | f.lma.de5.net
 freeyx.cloudflare88.eu.org:443#VPS789优选 | freeyx.cloudflare88.eu.org
 ct.090227.xyz:443#VPS789优选 | ct.090227.xyz
-5.cf.3666888.xyz:443#VPS789优选 | 5.cf.3666888.xyz
 my.dnshe.com:443#VPS789优选 | my.dnshe.com
 china-unicom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-unicom.cname.cloudflare.468123.xyz
 cfip-cu.stoeaves.us.ci:443#VPS789优选 | cfip-cu.stoeaves.us.ci
@@ -24,7 +23,6 @@ cf.nyanya.moe:443#VPS789优选 | cf.nyanya.moe
 bbs.alipansou.com:443#VPS789优选 | bbs.alipansou.com
 www.jimdo.com:443#VPS789优选 | www.jimdo.com
 qocu.cf.3666888.xyz:443#VPS789优选 | qocu.cf.3666888.xyz
-y508.com:443#VPS789优选 | y508.com
 prompt.gzcrtw.com:443#VPS789优选 | prompt.gzcrtw.com
 1.cloudflare.19931110.xyz:443#VPS789优选 | 1.cloudflare.19931110.xyz
 sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
@@ -34,7 +32,6 @@ www.trumpgolf.com:443#VPS789优选 | www.trumpgolf.com
 cdn.2020111.xyz:443#VPS789优选 | cdn.2020111.xyz
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
-1.cf.3666888.xyz:443#VPS789优选 | 1.cf.3666888.xyz
 edgeone.gh-proxy.org:443#VPS789优选 | edgeone.gh-proxy.org
 cf.090227.xyz:443#VPS789优选 | cf.090227.xyz
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
@@ -45,6 +42,9 @@ www.sloomb.com:443#VPS789优选 | www.sloomb.com
 cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
 cf.mubaiovo.top:443#VPS789优选 | cf.mubaiovo.top
 cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
+adnjv.cf.3666888.xyz:443#VPS789优选 | adnjv.cf.3666888.xyz
+1.cf.3666888.xyz:443#VPS789优选 | 1.cf.3666888.xyz
+7.cf.3666888.xyz:443#VPS789优选 | 7.cf.3666888.xyz
 8.cf.3666888.xyz:443#VPS789优选 | 8.cf.3666888.xyz
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
 yxip.xxxxxxxx.tk:443#VPS789优选 | yxip.xxxxxxxx.tk
