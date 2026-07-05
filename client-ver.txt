@@ -6,7 +6,7 @@ GtxFury/FlyClash|0.2.9|2026-05-17
 GtxFury/FlyClash-Android|0.2.1.7-Alpha|2026-06-22
 Happ-proxy/happ-desktop|2.18.3|2026-06-25
 Juwan-Hwang/Zephyr|2.3.9|2026-06-17
-KaringX/karing|1.2.21.2407|2026-07-03
+KaringX/karing|1.2.21.2408|2026-07-05
 Kindness-Kismet/stelliberty|2.0.0-beta3|2026-07-04
 MatsuriDayo/NekoBoxForAndroid|1.4.2|2026-02-09
 MetaCubeX/ClashMetaForAndroid|2.11.30|2026-06-06
@@ -23,7 +23,7 @@ Zzz-IT/GoclashZ|1.2.2|2026-07-01
 appshubcc/Bettbox|1.18.3|2026-06-28
 chen08209/FlClash|0.8.93|2026-05-29
 clash-verge-rev/clash-verge-rev|2.5.1|2026-05-20
-getsurfboard/surfboard|mobile-2.32.3|2026-07-02
+getsurfboard/surfboard|mobile-2.32.4|2026-07-05
 hiddify/hiddify-next|4.1.1|2026-03-06
 likuai2010/auto-installer|3.1.0|2026-03-25
 mihomo-party-org/clash-party|1.9.6|2026-06-21
