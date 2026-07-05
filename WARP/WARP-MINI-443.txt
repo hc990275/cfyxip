@@ -7,4 +7,5 @@
 162.159.196.1:443#WARP迷你 | 162.159.196.1
 162.159.194.1:443#WARP迷你 | 162.159.194.1
 162.159.199.1:443#WARP迷你 | 162.159.199.1
+engage.cloudflareclient.com:443#WARP迷你 | engage.cloudflareclient.com
 162.159.197.1:8443#WARP通用优选 迷你版 | BestCF.pages.dev

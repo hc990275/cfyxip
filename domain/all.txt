@@ -1,6 +1,8 @@
 162.159.197.1:8443#EDT导航优选域名 | BestCF.pages.dev
 162.159.198.1:443#官方入口 | MASQUE
 162.159.197.1:443#官方入口 | ZeroTrust
+162.159.193.1:443#官方入口 | WireGuard
+162.159.192.1:443#官方入口 | WARP
 engage.cloudflareclient.com:443#官方入口 | WireGuard
 store.ubi.com:443#企业域名 | 育碧商城
 serviceshub.samsclub.com:443#企业域名 | 山姆会员
