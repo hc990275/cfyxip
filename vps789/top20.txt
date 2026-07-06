@@ -1,8 +1,7 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 07-06 07:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 07-06 08:10 | BestCF.pages.dev
 yg5.ygkkk.dpdns.org:443#VPS789优选 | yg5.ygkkk.dpdns.org
 cf.nyanya.moe:443#VPS789优选 | cf.nyanya.moe
 saas.sin.fan:443#VPS789优选 | saas.sin.fan
-123.cf.3666888.xyz:443#VPS789优选 | 123.cf.3666888.xyz
 6.cf.3666888.xyz:443#VPS789优选 | 6.cf.3666888.xyz
 coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
@@ -15,8 +14,9 @@ cf-ip-node.vov.moe:443#VPS789优选 | cf-ip-node.vov.moe
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cloudflare-ip.mofashi.ltd:443#VPS789优选 | cloudflare-ip.mofashi.ltd
 auto.dolby.dpdns.org:443#VPS789优选 | auto.dolby.dpdns.org
-bestcfv4.030101.xyz:443#VPS789优选 | bestcfv4.030101.xyz
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 cf.mubaiovo.top:443#VPS789优选 | cf.mubaiovo.top
 cfip-cu.stoeaves.us.ci:443#VPS789优选 | cfip-cu.stoeaves.us.ci
+gh-proxy.com:443#VPS789优选 | gh-proxy.com
+www.speedtest.net:443#VPS789优选 | www.speedtest.net
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev

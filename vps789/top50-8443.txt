@@ -1,8 +1,7 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 07-06 07:40 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 07-06 08:10 | BestCF.pages.dev
 yg5.ygkkk.dpdns.org:8443#VPS789优选 | yg5.ygkkk.dpdns.org
 cf.nyanya.moe:8443#VPS789优选 | cf.nyanya.moe
 saas.sin.fan:8443#VPS789优选 | saas.sin.fan
-123.cf.3666888.xyz:8443#VPS789优选 | 123.cf.3666888.xyz
 6.cf.3666888.xyz:8443#VPS789优选 | 6.cf.3666888.xyz
 coke.cf.3666888.xyz:8443#VPS789优选 | coke.cf.3666888.xyz
 cf.3666888.xyz:8443#VPS789优选 | cf.3666888.xyz
@@ -15,7 +14,6 @@ cf-ip-node.vov.moe:8443#VPS789优选 | cf-ip-node.vov.moe
 cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cloudflare-ip.mofashi.ltd:8443#VPS789优选 | cloudflare-ip.mofashi.ltd
 auto.dolby.dpdns.org:8443#VPS789优选 | auto.dolby.dpdns.org
-bestcfv4.030101.xyz:8443#VPS789优选 | bestcfv4.030101.xyz
 snipaste5.speedip.eu.org:8443#VPS789优选 | snipaste5.speedip.eu.org
 cf.mubaiovo.top:8443#VPS789优选 | cf.mubaiovo.top
 cfip-cu.stoeaves.us.ci:8443#VPS789优选 | cfip-cu.stoeaves.us.ci
@@ -49,4 +47,6 @@ zeas.top:8443#VPS789优选 | zeas.top
 cf.92555.xyz:8443#VPS789优选 | cf.92555.xyz
 1.cloudflare.19931110.xyz:8443#VPS789优选 | 1.cloudflare.19931110.xyz
 cdn.2020111.xyz:8443#VPS789优选 | cdn.2020111.xyz
+cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
+store.ubi.com:8443#VPS789优选 | store.ubi.com
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev

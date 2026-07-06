@@ -1,7 +1,6 @@
 yg5.ygkkk.dpdns.org
 cf.nyanya.moe
 saas.sin.fan
-123.cf.3666888.xyz
 6.cf.3666888.xyz
 coke.cf.3666888.xyz
 cf.3666888.xyz
@@ -14,7 +13,6 @@ cf-ip-node.vov.moe
 cfip-avg.stoeaves.us.ci
 cloudflare-ip.mofashi.ltd
 auto.dolby.dpdns.org
-bestcfv4.030101.xyz
 snipaste5.speedip.eu.org
 cf.mubaiovo.top
 cfip-cu.stoeaves.us.ci
@@ -54,7 +52,6 @@ dnew.cc
 www.jimdo.com
 youxuan.cf.3666888.xyz
 cfvip.cf.3666888.xyz
-2.cf.3666888.xyz
 avido.cf.3666888.xyz
 isp.254301.xyz
 3.cf.3666888.xyz
@@ -75,6 +72,8 @@ cmcc.vvvv.ee
 bestbuyfillers.com
 sanwang.cf.3666888.xyz
 vip.cf.3666888.xyz
+123.cf.3666888.xyz
+2.cf.3666888.xyz
 adnjv.cf.3666888.xyz
 hfqek.cf.3666888.xyz
 4.cf.3666888.xyz
@@ -137,7 +136,6 @@ cfgo.timelate.com
 i.111666.best
 www.visa.com.sg
 dango.co
-cf.998866.top
 kniu.cc
 cf.duun.eu.cc
 www.visa.com.tw
@@ -145,11 +143,12 @@ f.lma.de5.net
 cf.727672.xyz
 my.dnshe.com
 ct.721660.xyz
+bestcfv4.030101.xyz
 tajikistan.mfa.gov.ua
 virtualcommtraining.verizon.com
+cf.998866.top
 china-unicom.cname.cloudflare.468123.xyz
 www.government.is
-cf.090227.xyz
 cmcc.090227.xyz
 serviceshub.samsclub.com
 mogas.com
@@ -164,15 +163,17 @@ cloudflare.cfgo.cc
 dynadot.com
 www.ox.ac.uk
 mskcc.org
+www.5h.com
+e.lma.de5.net
 www.cdzxdz.com
 api.gzcrtw.com
+cf.090227.xyz
 nrt.xxxxxxxx.nyc.mn
 www.mlkj888.com
 cmcc.hw.090227.xyz
 cfip.1323123.xyz
 yapuyapu.com
 networksolutions.com
-www.5h.com
 www.yutank.com
 visa.com.tw
 cf.itv888.cn
@@ -188,7 +189,6 @@ www.epicgames.com
 redis.io
 01-qq.com
 cf.553314.xyz
-e.lma.de5.net
 dns.163189.xyz
 www.visa.com
 yg3.ygkkk.dpdns.org
