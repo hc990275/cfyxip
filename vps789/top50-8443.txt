@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 07-08 06:41 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 07-08 07:11 | BestCF.pages.dev
 snipaste5.speedip.eu.org:8443#VPS789优选 | snipaste5.speedip.eu.org
 freeyx.cloudflare88.eu.org:8443#VPS789优选 | freeyx.cloudflare88.eu.org
 staticdelivery.nexusmods.com:8443#VPS789优选 | staticdelivery.nexusmods.com
@@ -38,7 +38,6 @@ bbs.alipansou.com:8443#VPS789优选 | bbs.alipansou.com
 gh-proxy.com:8443#VPS789优选 | gh-proxy.com
 nexusmods.com:8443#VPS789优选 | nexusmods.com
 www.leics.police.uk:8443#VPS789优选 | www.leics.police.uk
-cf1s.cf.3666888.xyz:8443#VPS789优选 | cf1s.cf.3666888.xyz
 cdn.555586.xyz:8443#VPS789优选 | cdn.555586.xyz
 www.giannidelprete.it:8443#VPS789优选 | www.giannidelprete.it
 prompt.gzcrtw.com:8443#VPS789优选 | prompt.gzcrtw.com
@@ -46,6 +45,7 @@ ct.hw.090227.xyz:8443#VPS789优选 | ct.hw.090227.xyz
 cf.92555.xyz:8443#VPS789优选 | cf.92555.xyz
 cf.v8.longsays.com:8443#VPS789优选 | cf.v8.longsays.com
 cdn.204910.best:8443#VPS789优选 | cdn.204910.best
+cf1s.cf.3666888.xyz:8443#VPS789优选 | cf1s.cf.3666888.xyz
 cloudflare.rainyfall.com:8443#VPS789优选 | cloudflare.rainyfall.com
 cfdl.3666888.xyz:8443#VPS789优选 | cfdl.3666888.xyz
 6.cf.3666888.xyz:8443#VPS789优选 | 6.cf.3666888.xyz
