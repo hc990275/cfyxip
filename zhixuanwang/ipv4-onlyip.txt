@@ -1,3 +1,9 @@
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights
- please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+172.64.52.232
+162.159.44.150
+172.64.53.87
+162.159.45.159
+162.159.38.136
+162.159.39.165
+108.162.198.26
+104.21.230.115
+104.21.234.61
