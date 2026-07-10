@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 07-11 05:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 07-11 06:10 | BestCF.pages.dev
 coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
 run.254301.xyz:443#VPS789优选 | run.254301.xyz
 5.cf.3666888.xyz:443#VPS789优选 | 5.cf.3666888.xyz
@@ -70,7 +70,7 @@ edgeone.gh-proxy.org:443#VPS789优选 | edgeone.gh-proxy.org
 freeyx.cloudflare88.eu.org:443#VPS789优选 | freeyx.cloudflare88.eu.org
 cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
 11.cf.3666888.xyz:443#VPS789优选 | 11.cf.3666888.xyz
-www.galgamex.net:443#VPS789优选 | www.galgamex.net
+cf.553314.xyz:443#VPS789优选 | cf.553314.xyz
 cloudflare.182682.xyz:443#VPS789优选 | cloudflare.182682.xyz
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
 saas.sin.fan:443#VPS789优选 | saas.sin.fan
