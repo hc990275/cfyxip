@@ -1,10 +1,11 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 07-11 05:10 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 07-11 05:40 | BestCF.pages.dev
 coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
 run.254301.xyz:443#VPS789优选 | run.254301.xyz
 5.cf.3666888.xyz:443#VPS789优选 | 5.cf.3666888.xyz
 6.cf.3666888.xyz:443#VPS789优选 | 6.cf.3666888.xyz
 china-telecom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
 cdn.667891.xyz:443#VPS789优选 | cdn.667891.xyz
+ex.warspite.dpdns.org:443#VPS789优选 | ex.warspite.dpdns.org
 bbs.alipansou.com:443#VPS789优选 | bbs.alipansou.com
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
@@ -15,7 +16,6 @@ cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
 cf.nyanya.moe:443#VPS789优选 | cf.nyanya.moe
 3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
-www.shopify.com:443#VPS789优选 | www.shopify.com
 www.jimdo.com:443#VPS789优选 | www.jimdo.com
 eii.at:443#VPS789优选 | eii.at
 kniu.cc:443#VPS789优选 | kniu.cc
