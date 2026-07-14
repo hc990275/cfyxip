@@ -1,11 +1,10 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 07-14 09:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 07-14 10:10 | BestCF.pages.dev
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cdn.204910.best:443#VPS789优选 | cdn.204910.best
 nexusmods.com:443#VPS789优选 | nexusmods.com
 8.cf.3666888.xyz:443#VPS789优选 | 8.cf.3666888.xyz
 9.cf.3666888.xyz:443#VPS789优选 | 9.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
-snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 store.ubi.com:443#VPS789优选 | store.ubi.com
 cf.mubaiovo.top:443#VPS789优选 | cf.mubaiovo.top
 vip.cf.3666888.xyz:443#VPS789优选 | vip.cf.3666888.xyz
@@ -19,6 +18,7 @@ cloudflare.cfgo.cc:443#VPS789优选 | cloudflare.cfgo.cc
 www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 cmcc.877774.xyz:443#VPS789优选 | cmcc.877774.xyz
+snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 7.cf.3666888.xyz:443#VPS789优选 | 7.cf.3666888.xyz
 ys2046.cv:443#VPS789优选 | ys2046.cv
 prompt.gzcrtw.com:443#VPS789优选 | prompt.gzcrtw.com
