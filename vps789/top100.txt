@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 07-15 09:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 07-15 10:10 | BestCF.pages.dev
 kuaidianlian.com.cn:443#VPS789优选 | kuaidianlian.com.cn
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
@@ -30,7 +30,6 @@ avido.cf.3666888.xyz:443#VPS789优选 | avido.cf.3666888.xyz
 9.cf.3666888.xyz:443#VPS789优选 | 9.cf.3666888.xyz
 www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
 www.mlkj888.com:443#VPS789优选 | www.mlkj888.com
-cdn.091224.xyz:443#VPS789优选 | cdn.091224.xyz
 cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
 api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
@@ -46,11 +45,11 @@ test.509666.xyz:443#VPS789优选 | test.509666.xyz
 cf.727672.xyz:443#VPS789优选 | cf.727672.xyz
 qy.cf.727672.xyz:443#VPS789优选 | qy.cf.727672.xyz
 01-cctv.com:443#VPS789优选 | 01-cctv.com
+01-qq.com:443#VPS789优选 | 01-qq.com
 dongbanghong.com:443#VPS789优选 | dongbanghong.com
 www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 www.dg22.top:443#VPS789优选 | www.dg22.top
 prompt.gzcrtw.com:443#VPS789优选 | prompt.gzcrtw.com
-cfip-cu.stoeaves.us.ci:443#VPS789优选 | cfip-cu.stoeaves.us.ci
 coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
 ex.warspite.dpdns.org:443#VPS789优选 | ex.warspite.dpdns.org
 cdn-1.dogeggo.us.ci:443#VPS789优选 | cdn-1.dogeggo.us.ci
@@ -59,7 +58,6 @@ eteaf.cf.3666888.xyz:443#VPS789优选 | eteaf.cf.3666888.xyz
 run.254301.xyz:443#VPS789优选 | run.254301.xyz
 www.swowd.com:443#VPS789优选 | www.swowd.com
 cnllm.com:443#VPS789优选 | cnllm.com
-01-qq.com:443#VPS789优选 | 01-qq.com
 bbs.alipansou.com:443#VPS789优选 | bbs.alipansou.com
 yg9.ygkkk.dpdns.org:443#VPS789优选 | yg9.ygkkk.dpdns.org
 cloudflare.182682.xyz:443#VPS789优选 | cloudflare.182682.xyz
@@ -78,6 +76,7 @@ ys2046.cv:443#VPS789优选 | ys2046.cv
 cfip-cm.stoeaves.us.ci:443#VPS789优选 | cfip-cm.stoeaves.us.ci
 cf.itv888.cn:443#VPS789优选 | cf.itv888.cn
 cf.mubaiovo.top:443#VPS789优选 | cf.mubaiovo.top
+www.speedtest.net:443#VPS789优选 | www.speedtest.net
 d.lma.de5.net:443#VPS789优选 | d.lma.de5.net
 5.cf.3666888.xyz:443#VPS789优选 | 5.cf.3666888.xyz
 kniu.cc:443#VPS789优选 | kniu.cc
@@ -85,18 +84,19 @@ hzytjy.cn:443#VPS789优选 | hzytjy.cn
 ctlmt.info:443#VPS789优选 | ctlmt.info
 www.shopify.com:443#VPS789优选 | www.shopify.com
 y508.com:443#VPS789优选 | y508.com
-cmcc.877774.xyz:443#VPS789优选 | cmcc.877774.xyz
-www.speedtest.net:443#VPS789优选 | www.speedtest.net
 4.cf.3666888.xyz:443#VPS789优选 | 4.cf.3666888.xyz
 cf-ip-node.vov.moe:443#VPS789优选 | cf-ip-node.vov.moe
 china-telecom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
 1.cloudflare.19931110.xyz:443#VPS789优选 | 1.cloudflare.19931110.xyz
-cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
+www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
+cmcc.877774.xyz:443#VPS789优选 | cmcc.877774.xyz
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 www.ox.ac.uk:443#VPS789优选 | www.ox.ac.uk
 cdn.cf.3666888.xyz:443#VPS789优选 | cdn.cf.3666888.xyz
 isp.254301.xyz:443#VPS789优选 | isp.254301.xyz
 my.dnshe.com:443#VPS789优选 | my.dnshe.com
-china-mobile.cname.cloudflare.468123.xyz:443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
 cfgo.timelate.com:443#VPS789优选 | cfgo.timelate.com
+store.ubi.com:443#VPS789优选 | store.ubi.com
+sg.cf.3666888.xyz:443#VPS789优选 | sg.cf.3666888.xyz
+2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
