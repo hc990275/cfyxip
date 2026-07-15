@@ -28,7 +28,7 @@ jobs:
             "luoli.yml|20"
             "cmliu.yml|20"
             "cmliu2.yml|20"
-            "s5gy.yml|20"
+            # "s5gy-cf.yml|20"
             # "idk.yml|20"
             "lajiao.yml|20" 
             "moistr.yml|20"
@@ -39,6 +39,7 @@ jobs:
             "cfyes.yml|40"
             "github-client-ver.yml|40"
             "tiancheng1.yml|40"
+            "s5gy.yml|40"
             "uouin.yml|60"
             "vps789.yml|0"
           )
