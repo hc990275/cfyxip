@@ -1,10 +1,10 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 07-17 20:10 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP10 | 07-17 20:41 | BestCF.pages.dev
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
 cf.xycf.asia:443#VPS789优选 | cf.xycf.asia
 uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
+cf-ip-node.vov.moe:443#VPS789优选 | cf-ip-node.vov.moe
 www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
-cf-ip-node.vov.moe:443#VPS789优选 | cf-ip-node.vov.moe
 cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
 www.swowd.com:443#VPS789优选 | www.swowd.com
 www.shopify.com:443#VPS789优选 | www.shopify.com
