@@ -1,8 +1,4 @@
 162.159.198.1:443#Fiatnorm优选 | 优选网BestCF.pages.dev
-cm.cdn.djx-ybelove.pp.ua:443#Fiatnorm优选 | 移动 (CM) · 低延迟专线，告别卡顿
-ct.cdn.djx-ybelove.pp.ua:443#Fiatnorm优选 | 电信 (CT) · CN2 GIA 高端直连
-cu.cdn.djx-ybelove.pp.ua:443#Fiatnorm优选 | 联通 (CU) · 双线护航，全速满跑
-avg.cdn.djx-ybelove.pp.ua:443#Fiatnorm优选 | 三网 BGP · 智能均衡，永远在线
-cdn.djx-ybelove.pp.ua:443#Fiatnorm优选 | GeoIP 默认路由 · 贴心的兜底保护
-bestcf.cdn.djx-ybelove.pp.ua:443#Fiatnorm优选 | Wildcard · 泛解析无惧网络污染
+cdn.fiatnorm.us.kg:443#Fiatnorm优选 | 三网 BGP · 智能均衡，永远在线
+bestcf.cdn.fiatnorm.us.kg:443#Fiatnorm优选 | Wildcard · 泛解析无惧网络污染
 162.159.197.1:443#Fiatnorm优选 | 优选网BestCF.pages.dev
