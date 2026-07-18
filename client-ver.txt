@@ -25,7 +25,7 @@ appshubcc/Bettbox|1.18.6|2026-07-19
 chen08209/FlClash|0.8.94|2026-07-11
 clash-verge-rev/clash-verge-rev|2.5.1|2026-05-20
 flowvy-proxy/desktop|0.3.4|2026-07-09
-getsurfboard/surfboard|mobile-2.32.4|2026-07-05
+getsurfboard/surfboard|mobile-2.33.0|2026-07-19
 hiddify/hiddify-next|4.1.1|2026-03-06
 likuai2010/auto-installer|3.1.0|2026-03-25
 maxin0324/ClashHM|0.1.0|2026-07-17
