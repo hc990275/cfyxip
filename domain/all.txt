@@ -59,6 +59,7 @@ www.ntu.edu.sg:443#教育域名 | 南洋理工
 www.ox.ac.uk:443#教育域名 | 牛津大学
 columbia.edu:443#教育域名 | 哥伦比亚
 www.udacity.com:443#教育域名 | Udacity
+for.edu.sg:443#教育域名 | ForEduSG
 www.researchgate.net:443#教育域名 | ResearchGate
 saas.sin.fan:443#大佬维护 | MIYU
 cloudflare.182682.xyz:443#大佬维护 | WeTest
@@ -74,4 +75,4 @@ cu.877774.xyz:443#按运营商 | 联通QMS
 cu.cloudflare.byoip.top:443#按运营商 | 联通Byoip
 cmcc.877774.xyz:443#按运营商 | 移动QMS
 cm.cloudflare.byoip.top:443#按运营商 | 移动Byoip
-162.159.198.1:8443#优选域名 | 7-9 | 分享免费优选网BestCF.pages.dev
+162.159.198.1:8443#优选域名 | 7-21 | 分享免费优选网BestCF.pages.dev
