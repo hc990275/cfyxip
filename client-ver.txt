@@ -17,6 +17,7 @@ Nemu-x/SlothClash|0.8.0|2026-07-20
 Openwrt-Passwall/openwrt-passwall|26.7.16-1|2026-07-16
 Openwrt-Passwall/openwrt-passwall2|26.7.16-1|2026-07-16
 PhoenixNil/XrayUI-dev|1.17|2026-07-14
+RoperYoung/clash-mihomo-for-haymonyos|2.11.27-meta-harmony-r1|2026-05-25
 SagerNet/sing-box|1.13.14|2026-06-25
 Sitoi/ClashBar|0.3.2|2026-07-19
 XTLS/Xray-core|26.3.27|2026-03-28
