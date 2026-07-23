@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 07-23 09:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 07-23 10:10 | BestCF.pages.dev
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 cloudflare.182682.xyz:443#VPS789优选 | cloudflare.182682.xyz
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
@@ -8,6 +8,7 @@ vip.cf.3666888.xyz:443#VPS789优选 | vip.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 eii.at:443#VPS789优选 | eii.at
 coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
+cdn.2020111.xyz:443#VPS789优选 | cdn.2020111.xyz
 www.shopify.com:443#VPS789优选 | www.shopify.com
 cdn.204910.best:443#VPS789优选 | cdn.204910.best
 staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
@@ -19,7 +20,6 @@ www.leics.police.uk:443#VPS789优选 | www.leics.police.uk
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
 cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
-2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#VPS789优选 | qocu.cf.3666888.xyz
 uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
@@ -31,10 +31,12 @@ cmcc.cc.cd:443#VPS789优选 | cmcc.cc.cd
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
 www.xflash.vip:443#VPS789优选 | www.xflash.vip
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
+fk.hshwk.org:443#VPS789优选 | fk.hshwk.org
+prompt.gzcrtw.com:443#VPS789优选 | prompt.gzcrtw.com
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
-cdn.2020111.xyz:443#VPS789优选 | cdn.2020111.xyz
+2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
 store.ubi.com:443#VPS789优选 | store.ubi.com
 cf.godns.cc:443#VPS789优选 | cf.godns.cc
 www.sage.com:443#VPS789优选 | www.sage.com
@@ -47,6 +49,4 @@ api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
 www.nexusmods.com:443#VPS789优选 | www.nexusmods.com
 sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
-www.swowd.com:443#VPS789优选 | www.swowd.com
-kniu.cc:443#VPS789优选 | kniu.cc
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
