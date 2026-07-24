@@ -1,9 +1,9 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 07-24 14:40 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 07-24 15:10 | BestCF.pages.dev
 snipaste5.speedip.eu.org:8443#VPS789优选 | snipaste5.speedip.eu.org
+cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 www.jimdo.com:8443#VPS789优选 | www.jimdo.com
 youxuan.cf.3666888.xyz:8443#VPS789优选 | youxuan.cf.3666888.xyz
 ex.warspite.dpdns.org:8443#VPS789优选 | ex.warspite.dpdns.org
-cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 cmcc.vvvv.ee:8443#VPS789优选 | cmcc.vvvv.ee
 cf.3666888.xyz:8443#VPS789优选 | cf.3666888.xyz
 bbs.alipansou.com:8443#VPS789优选 | bbs.alipansou.com
@@ -14,6 +14,7 @@ cfvip.cf.3666888.xyz:8443#VPS789优选 | cfvip.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:8443#VPS789优选 | fw8je9.cf.3666888.xyz
 4.cf.3666888.xyz:8443#VPS789优选 | 4.cf.3666888.xyz
 5.cf.3666888.xyz:8443#VPS789优选 | 5.cf.3666888.xyz
+7.cf.3666888.xyz:8443#VPS789优选 | 7.cf.3666888.xyz
 9.cf.3666888.xyz:8443#VPS789优选 | 9.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:8443#VPS789优选 | yg5.ygkkk.dpdns.org
 www.nexusmods.com:8443#VPS789优选 | www.nexusmods.com
@@ -29,7 +30,6 @@ vip.cf.3666888.xyz:8443#VPS789优选 | vip.cf.3666888.xyz
 123.cf.3666888.xyz:8443#VPS789优选 | 123.cf.3666888.xyz
 avido.cf.3666888.xyz:8443#VPS789优选 | avido.cf.3666888.xyz
 eteaf.cf.3666888.xyz:8443#VPS789优选 | eteaf.cf.3666888.xyz
-7.cf.3666888.xyz:8443#VPS789优选 | 7.cf.3666888.xyz
 8.cf.3666888.xyz:8443#VPS789优选 | 8.cf.3666888.xyz
 test.509666.xyz:8443#VPS789优选 | test.509666.xyz
 www.akasantech.com:8443#VPS789优选 | www.akasantech.com
@@ -41,12 +41,12 @@ cdn.091224.xyz:8443#VPS789优选 | cdn.091224.xyz
 coke.cf.3666888.xyz:8443#VPS789优选 | coke.cf.3666888.xyz
 edgeone.gh-proxy.org:8443#VPS789优选 | edgeone.gh-proxy.org
 www.xflash.vip:8443#VPS789优选 | www.xflash.vip
-d.lma.de5.net:8443#VPS789优选 | d.lma.de5.net
+baka.fun:8443#VPS789优选 | baka.fun
 api.gzcrtw.com:8443#VPS789优选 | api.gzcrtw.com
 cfip-cm.stoeaves.us.ci:8443#VPS789优选 | cfip-cm.stoeaves.us.ci
 cloudflare.rainyfall.com:8443#VPS789优选 | cloudflare.rainyfall.com
-freeyx.cloudflare88.eu.org:8443#VPS789优选 | freeyx.cloudflare88.eu.org
-baka.fun:8443#VPS789优选 | baka.fun
 markmonitor.com:8443#VPS789优选 | markmonitor.com
+freeyx.cloudflare88.eu.org:8443#VPS789优选 | freeyx.cloudflare88.eu.org
+cloudflare.468123.xyz:8443#VPS789优选 | cloudflare.468123.xyz
 cf.v8.longsays.com:8443#VPS789优选 | cf.v8.longsays.com
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
