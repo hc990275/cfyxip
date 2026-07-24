@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 07-24 10:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 07-24 11:10 | BestCF.pages.dev
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 www.jimdo.com:443#VPS789优选 | www.jimdo.com
 youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
@@ -9,6 +9,7 @@ staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
 bbs.alipansou.com:443#VPS789优选 | bbs.alipansou.com
 cloudflare.idc.rocks:443#VPS789优选 | cloudflare.idc.rocks
+kuaidianlian.com.cn:443#VPS789优选 | kuaidianlian.com.cn
 sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
 hk.cf.3666888.xyz:443#VPS789优选 | hk.cf.3666888.xyz
 sg.cf.3666888.xyz:443#VPS789优选 | sg.cf.3666888.xyz
@@ -40,7 +41,6 @@ eteaf.cf.3666888.xyz:443#VPS789优选 | eteaf.cf.3666888.xyz
 10.cf.3666888.xyz:443#VPS789优选 | 10.cf.3666888.xyz
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
 cdn.2158.cc:443#VPS789优选 | cdn.2158.cc
-run.254301.xyz:443#VPS789优选 | run.254301.xyz
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
 fk.hshwk.org:443#VPS789优选 | fk.hshwk.org
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
