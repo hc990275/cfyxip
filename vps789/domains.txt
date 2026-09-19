@@ -48,6 +48,7 @@ yg9.ygkkk.dpdns.org
 yx.cf.090227.xyz
 www.sloomb.com
 www.vastnovel.com
+cf.553314.xyz
 cf.xycf.asia
 1.cloudflare.19931110.xyz
 w3.org
@@ -62,6 +63,7 @@ uac.cf.3666888.xyz
 hzytjy.cn
 www.dg22.top
 prompt.gzcrtw.com
+mfa.gov.ua
 cf.3666888.xyz
 www.vmware.com
 hk.cf.3666888.xyz
@@ -72,7 +74,6 @@ ct.721660.xyz
 cdn.2020111.xyz
 cloudflare.com
 bestcf.top
-mfa.gov.ua
 dynadot.com
 hostinger.com
 cfvip.cf.3666888.xyz
@@ -107,7 +108,6 @@ nodejs.org
 dash.cloudflare.com
 da.mfa.gov.ua
 dnew.cc
-youxuan.cf.090227.xyz
 yg13.ygkkk.dpdns.org
 uspto.gov
 china-unicom.cname.cloudflare.468123.xyz
@@ -131,6 +131,8 @@ cnamefuckxxs.yuchen.icu
 cdnjs.com
 www.wto.org
 uptimerobot.com
+youxuan.cf.090227.xyz
+easylist.to
 cfyx.qdqqd.com
 eteaf.cf.3666888.xyz
 hfqek.cf.3666888.xyz
@@ -145,7 +147,6 @@ racerseseries.sky.com
 jquery.com
 sourceforge.net
 stonexbullion.com
-easylist.to
 mox.moxing.lol
 store.ubisoft.com
 registry.npmjs.org
@@ -193,7 +194,6 @@ esm.run
 api.producthunt.com
 time.is
 ct.877774.xyz
-cmcc.vvvv.ee
 sci-hub.al
 duggal.com
 jp.cf.3666888.xyz
