@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 09-20 03:11 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 09-20 03:41 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 cf.godns.cc:443#VPS789优选 | cf.godns.cc
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
@@ -18,5 +18,5 @@ cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
 www.shopify.com:443#VPS789优选 | www.shopify.com
 openai.com:443#VPS789优选 | openai.com
 cf.877771.xyz:443#VPS789优选 | cf.877771.xyz
-staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
+fn.130519.xyz:443#VPS789优选 | fn.130519.xyz
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
