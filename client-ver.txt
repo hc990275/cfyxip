@@ -46,7 +46,7 @@ richerfu/Paws|1.1.0|2026-09-16
 shadowsocks/shadowsocks-android|5.3.5-nightly|2026-02-10
 shadowsocks/shadowsocks-rust|1.25.0|2026-08-27
 shadowsocks/shadowsocks-windows|4.4.1.0|2022-02-08
-shtorm-7/sing-box-extended|1.14.0-extended-2.7.1|2026-09-05
+shtorm-7/sing-box-extended|1.14.1-extended-2.7.2|2026-09-21
 snakem982/Pandora-Box|1.0.23|2026-08-22
 songzhengpei/Slclash|2.2.3|2026-09-12
 starifly/NekoBoxForAndroid|1.4.2-rev-24|2026-08-22
