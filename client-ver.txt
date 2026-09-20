@@ -33,7 +33,7 @@ clash-verge-rev/clash-verge-rev|2.5.4|2026-09-20
 dododook/FlowZ|4.3.3|2026-08-26
 flowvy-proxy/desktop|0.3.5|2026-08-27
 genyleap/GenyConnect|1.4.950|2026-09-14
-getsurfboard/surfboard|tv-1.1.1|2026-05-27
+getsurfboard/surfboard|mobile-2.35.1|2026-09-21
 hiddify/hiddify-next|4.1.1|2026-03-06
 likuai2010/auto-installer|3.1.0|2026-03-25
 maxin0324/ClashHM|0.1.0|2026-07-17
