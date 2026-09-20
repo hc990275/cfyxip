@@ -72,6 +72,7 @@ www.mlkj888.com
 hzytjy.cn
 dongbanghong.com
 www.xflash.vip
+131.youxuan.cf.090227.xyz
 www.elysee.fr
 qoj.ac
 a.pub.network
@@ -87,7 +88,6 @@ jp.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 chinwa.cf.090227.xyz
 cf.vvhan.com
-131.youxuan.cf.090227.xyz
 kick.com
 api.producthunt.com
 videodelivery.net
@@ -102,7 +102,6 @@ registry.yarnpkg.com
 cmcc.090227.xyz
 cloudflare.net
 i.111666.best
-ip.skk.moe
 ippure.com
 easylist.to
 cdnjs.cloudflare.com
@@ -124,6 +123,7 @@ hentaiverse.org
 kali.download
 s.bookcdn.com
 t.213891.xyz
+ip.skk.moe
 666.cf.cname.vvhan.com
 cmcc.877774.xyz
 hostinger.com
@@ -137,7 +137,6 @@ www.xiaoshuofen.com
 cmcc.hw.090227.xyz
 china-mobile.cname.cloudflare.468123.xyz
 cdn.jwcmdr.top
-moodle.org
 clickhouse.com
 blog.cloudflare.com
 www.copilot.com
@@ -145,6 +144,7 @@ www.speedtest.net
 redis.io
 dnew.cc
 www.npmjs.com
+moodle.org
 www.ventusky.com
 3.cf.3666888.xyz
 10.cf.3666888.xyz
@@ -195,6 +195,6 @@ i.pixiv.re
 cloudflare.182682.xyz
 ip.sb
 moegirl.icu
-cf.877774.xyz
 singapore.com
 cf.godns.cc
+cn.vuejs.org
