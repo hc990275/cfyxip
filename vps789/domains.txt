@@ -106,6 +106,7 @@ i.111666.best
 ippure.com
 easylist.to
 cdnjs.cloudflare.com
+cnllm.com
 cdn.7zz.cn
 ct.721660.xyz
 cf.553314.xyz
@@ -131,7 +132,6 @@ www.broadcom.com
 ikankeji.com
 securecircle.com
 www.xiaoshuofen.com
-cnllm.com
 cmcc.hw.090227.xyz
 china-mobile.cname.cloudflare.468123.xyz
 cdn.jwcmdr.top
@@ -149,6 +149,7 @@ www.ventusky.com
 yg6.ygkkk.dpdns.org
 mox.moxing.lol
 www.carousell.sg
+cdn.2x.nz
 cdnjs.loli.net
 cf.777791.xyz
 static.elfsight.com
@@ -197,4 +198,3 @@ moegirl.icu
 cf.877774.xyz
 singapore.com
 cf.godns.cc
-cn.vuejs.org
