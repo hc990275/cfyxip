@@ -72,7 +72,6 @@ www.mlkj888.com
 hzytjy.cn
 dongbanghong.com
 www.xflash.vip
-131.youxuan.cf.090227.xyz
 gitlab.com
 www.elysee.fr
 qoj.ac
@@ -90,9 +89,11 @@ jp.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 chinwa.cf.090227.xyz
 cf.vvhan.com
+131.youxuan.cf.090227.xyz
 kick.com
 api.producthunt.com
 videodelivery.net
+codeforces.com
 yg4.ygkkk.dpdns.org
 api.cloudflare.com
 registry.npmjs.org
@@ -102,7 +103,6 @@ cmcc.090227.xyz
 cloudflare.net
 i.111666.best
 cdnjs.com
-codeforces.com
 ippure.com
 easylist.to
 cdnjs.cloudflare.com
@@ -191,10 +191,10 @@ pt.btschool.club
 www.6i5.com
 linkvertise.com
 i.pixiv.re
+cloudflare.182682.xyz
 ip.sb
 moegirl.icu
 cf.877774.xyz
 cdn.nodeimage.com
 singapore.com
 cf.godns.cc
-cn.vuejs.org
