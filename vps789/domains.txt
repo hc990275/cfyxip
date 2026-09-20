@@ -106,6 +106,7 @@ nodejs.org
 a.pub.network
 cloudflare-ip.mofashi.ltd
 dash.cloudflare.com
+bestcf.030101.xyz
 dnew.cc
 virtualcommtraining.verizon.com
 www.npmjs.com
@@ -197,4 +198,3 @@ cdnjs.loli.net
 api.producthunt.com
 db-ip.com
 s.bookcdn.com
-www.hugedomains.com
