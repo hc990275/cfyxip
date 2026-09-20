@@ -72,7 +72,6 @@ www.mlkj888.com
 hzytjy.cn
 dongbanghong.com
 www.xflash.vip
-gitlab.com
 www.elysee.fr
 qoj.ac
 a.pub.network
@@ -81,7 +80,6 @@ digitalocean.com
 bestcf.top
 cnamefuckxxs.yuchen.icu
 bestcf.030101.xyz
-ip.skk.moe
 fbi.gov
 cfyx.aliyun.20237737.xyz
 www.ox.ac.uk
@@ -94,6 +92,7 @@ kick.com
 api.producthunt.com
 videodelivery.net
 cdnjs.com
+gitlab.com
 codeforces.com
 yg4.ygkkk.dpdns.org
 api.cloudflare.com
@@ -103,11 +102,13 @@ registry.yarnpkg.com
 cmcc.090227.xyz
 cloudflare.net
 i.111666.best
+ip.skk.moe
 ippure.com
 easylist.to
 cdnjs.cloudflare.com
 cnllm.com
 cdn.7zz.cn
+cdn.2x.nz
 ct.721660.xyz
 cf.553314.xyz
 funko.com
@@ -128,6 +129,7 @@ cmcc.877774.xyz
 hostinger.com
 www.jimdo.com
 challenges.cloudflare.com
+yg6.ygkkk.dpdns.org
 www.broadcom.com
 ikankeji.com
 securecircle.com
@@ -146,10 +148,8 @@ www.npmjs.com
 www.ventusky.com
 3.cf.3666888.xyz
 10.cf.3666888.xyz
-yg6.ygkkk.dpdns.org
 mox.moxing.lol
 www.carousell.sg
-cdn.2x.nz
 cdnjs.loli.net
 cf.777791.xyz
 static.elfsight.com
