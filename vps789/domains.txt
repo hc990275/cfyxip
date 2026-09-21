@@ -120,6 +120,7 @@ crowdstrike.com
 hostinger.com
 unpkg.com
 sourceforge.net
+www.elysee.fr
 www.crazygames.fr
 yg3.ygkkk.dpdns.org
 111.cf.cname.vvhan.com
@@ -132,7 +133,6 @@ blog.cloudflare.com
 a.pub.network
 visa.com
 dx.doi.org
-www.elysee.fr
 yd.hhhhh.eu.org
 codexradar.com
 kick.com
@@ -176,6 +176,7 @@ cfip-cm.stoeaves.us.ci
 codeforces.com
 duggal.com
 www.revechat.com
+yg5.ygkkk.dpdns.org
 www.apnic.net
 s.bookcdn.com
 ping.pe
@@ -186,13 +187,12 @@ dev.graco.com
 www.jimdo.com
 www.bis.gov
 qoj.ac
-ippure.com
 123.cf.3666888.xyz
-yg5.ygkkk.dpdns.org
 www.dg22.top
 appstorrent.ru
 www.spacex.com
 www.visa.com.hk
+ippure.com
 carpt.net
 investor.apple.com
 2x.nz
