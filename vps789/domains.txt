@@ -86,7 +86,6 @@ videodelivery.net
 cfyx.aliyun.20237737.xyz
 coreweave.com
 mvnrepository.com
-tinyurl.com
 cdnjs.cloudflare.com
 cf.cf.3666888.xyz
 uac.cf.3666888.xyz
@@ -107,6 +106,7 @@ japan.com
 www.whatismyip.com
 www.hugedomains.com
 racerseseries.sky.com
+tinyurl.com
 challenges.cloudflare.com
 www.chess.com
 nodejs.org
@@ -136,7 +136,6 @@ dx.doi.org
 yd.hhhhh.eu.org
 codexradar.com
 kick.com
-cloudflare.182682.xyz
 dash.cloudflare.com
 bestcf.030101.xyz
 www.visa.com.sg
@@ -182,7 +181,7 @@ www.revechat.com
 yg5.ygkkk.dpdns.org
 www.apnic.net
 s.bookcdn.com
-www.visa.com.hk
+cloudflare.182682.xyz
 ping.pe
 cloudflare.net
 cdn.nodeimage.com
@@ -196,5 +195,6 @@ ippure.com
 www.dg22.top
 appstorrent.ru
 www.spacex.com
+cfip.1323123.xyz
+www.visa.com.hk
 carpt.net
-investor.apple.com
