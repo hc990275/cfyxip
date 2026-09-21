@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 09-21 07:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 09-21 08:11 | BestCF.pages.dev
 linear.app:443#VPS789优选 | linear.app
 www.udacity.com:443#VPS789优选 | www.udacity.com
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
@@ -84,7 +84,6 @@ cnamefuckxxs.yuchen.icu:443#VPS789优选 | cnamefuckxxs.yuchen.icu
 bestcf.030101.xyz:443#VPS789优选 | bestcf.030101.xyz
 fbi.gov:443#VPS789优选 | fbi.gov
 cfyx.aliyun.20237737.xyz:443#VPS789优选 | cfyx.aliyun.20237737.xyz
-www.ox.ac.uk:443#VPS789优选 | www.ox.ac.uk
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
 chinwa.cf.090227.xyz:443#VPS789优选 | chinwa.cf.090227.xyz
@@ -94,6 +93,7 @@ api.producthunt.com:443#VPS789优选 | api.producthunt.com
 videodelivery.net:443#VPS789优选 | videodelivery.net
 cdnjs.com:443#VPS789优选 | cdnjs.com
 gitlab.com:443#VPS789优选 | gitlab.com
+www.ox.ac.uk:443#VPS789优选 | www.ox.ac.uk
 codeforces.com:443#VPS789优选 | codeforces.com
 yg4.ygkkk.dpdns.org:443#VPS789优选 | yg4.ygkkk.dpdns.org
 api.cloudflare.com:443#VPS789优选 | api.cloudflare.com
