@@ -83,6 +83,7 @@ cnamefuckxxs.yuchen.icu
 bestcf.030101.xyz
 fbi.gov
 cfyx.aliyun.20237737.xyz
+www.ox.ac.uk
 jp.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 chinwa.cf.090227.xyz
@@ -92,7 +93,6 @@ api.producthunt.com
 videodelivery.net
 cdnjs.com
 gitlab.com
-www.ox.ac.uk
 codeforces.com
 yg4.ygkkk.dpdns.org
 api.cloudflare.com
@@ -136,6 +136,7 @@ www.xiaoshuofen.com
 cmcc.hw.090227.xyz
 china-mobile.cname.cloudflare.468123.xyz
 cdn.jwcmdr.top
+moodle.org
 clickhouse.com
 blog.cloudflare.com
 www.copilot.com
@@ -144,19 +145,16 @@ www.speedtest.net
 redis.io
 dnew.cc
 www.npmjs.com
-moodle.org
 www.ventusky.com
 3.cf.3666888.xyz
 10.cf.3666888.xyz
 mox.moxing.lol
 www.carousell.sg
-cdn.2x.nz
 cdnjs.loli.net
 cf.777791.xyz
 static.elfsight.com
 fonts.cdnfonts.com
 ping.pe
-debot.ai
 mvnrepository.com
 sourceforge.net
 moondroplab.com
@@ -173,6 +171,7 @@ visa.com
 dash.cloudflare.com
 www.whatismyip.com
 dynadot.com
+debot.ai
 virtualcommtraining.verizon.com
 crowdstrike.com
 sci-hub.al
@@ -180,7 +179,6 @@ img.css.sd
 yg3.ygkkk.dpdns.org
 111.cf.cname.vvhan.com
 china-unicom.cname.cloudflare.468123.xyz
-dns.163189.xyz
 prizepicks.com
 cf.cloudflare.182682.xyz
 v.recipes
@@ -198,3 +196,5 @@ moegirl.icu
 singapore.com
 cf.godns.cc
 cn.vuejs.org
+racerseseries.sky.com
+jquery.com
