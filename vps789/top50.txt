@@ -1,9 +1,10 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 09-22 17:13 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 09-22 17:41 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 greim.no:443#VPS789优选 | greim.no
 cfyx.aliyun.20237737.xyz:443#VPS789优选 | cfyx.aliyun.20237737.xyz
 ahrefs.com:443#VPS789优选 | ahrefs.com
 www.nexusmods.com:443#VPS789优选 | www.nexusmods.com
+cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
 www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 openai.com:443#VPS789优选 | openai.com
@@ -13,7 +14,6 @@ markmonitor.com:443#VPS789优选 | markmonitor.com
 www.xflash.vip:443#VPS789优选 | www.xflash.vip
 www.deepl.com:443#VPS789优选 | www.deepl.com
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
-cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
 www.shopify.com:443#VPS789优选 | www.shopify.com
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 store.ubi.com:443#VPS789优选 | store.ubi.com
@@ -21,6 +21,7 @@ staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
 linear.app:443#VPS789优选 | linear.app
 w3.org:443#VPS789优选 | w3.org
 m.iyf.tv:443#VPS789优选 | m.iyf.tv
+cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
 cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
 yg12.ygkkk.dpdns.org:443#VPS789优选 | yg12.ygkkk.dpdns.org
@@ -28,7 +29,6 @@ yg13.ygkkk.dpdns.org:443#VPS789优选 | yg13.ygkkk.dpdns.org
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
 cdn.091224.xyz:443#VPS789优选 | cdn.091224.xyz
 cfgo.timelate.com:443#VPS789优选 | cfgo.timelate.com
-ctsg.cfyx.aliyun.20237737.xyz:443#VPS789优选 | ctsg.cfyx.aliyun.20237737.xyz
 www.dg22.top:443#VPS789优选 | www.dg22.top
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
 www.giannidelprete.it:443#VPS789优选 | www.giannidelprete.it
@@ -41,7 +41,7 @@ nexusmods.com:443#VPS789优选 | nexusmods.com
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 keji.cf.3666888.xyz:443#VPS789优选 | keji.cf.3666888.xyz
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
-cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
+cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
 cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
 adnjv.cf.3666888.xyz:443#VPS789优选 | adnjv.cf.3666888.xyz
 10.cf.3666888.xyz:443#VPS789优选 | 10.cf.3666888.xyz
