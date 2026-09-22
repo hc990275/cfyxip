@@ -80,7 +80,6 @@ cmcc.vvvv.ee
 jp.cf.3666888.xyz
 1.cf.3666888.xyz
 securecircle.com
-cloudflare.468123.xyz
 cf.xycf.asia
 www.dbs.com.sg
 fn.130519.xyz
@@ -90,6 +89,7 @@ hk.cf.3666888.xyz
 123.cf.3666888.xyz
 eteaf.cf.3666888.xyz
 uspto.gov
+cloudflare.468123.xyz
 dongbanghong.com
 prompt.gzcrtw.com
 play.mc.js.cool
@@ -116,6 +116,7 @@ da.mfa.gov.ua
 www.sage.com
 tinyurl.com
 mogas.com
+dexari.com
 sanwang.cf.3666888.xyz
 sg.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
@@ -152,7 +153,6 @@ sourceforge.net
 leawo.org
 investor.apple.com
 a.pub.network
-s.bookcdn.com
 666.cf.cname.vvhan.com
 zabc.net
 cmcc.877774.xyz
@@ -161,14 +161,16 @@ redis.io
 dnew.cc
 crowdstrike.com
 www.crazygames.fr
-dexari.com
+jobsdb.com
 4.cf.3666888.xyz
 10.cf.3666888.xyz
 yg4.ygkkk.dpdns.org
 4gxb7l7p40.cloudflare-gateway.com
 www.mediafire.com
 nodejs.org
+www.090902.xyz
 www.elegantthemes.com
+s.bookcdn.com
 cnamefuckxxs.yuchen.icu
 www.hugedomains.com
 mvnrepository.com
@@ -178,6 +180,7 @@ store.epicgames.com
 absen.com
 zen-browser.app
 static.elfsight.com
+www.copilot.com
 singapore.com
 fbi.gov
 dynadot.com
@@ -187,7 +190,6 @@ racerseseries.sky.com
 dev.graco.com
 jquery.com
 themeisle.com
-jobsdb.com
 2.cf.3666888.xyz
 3.cf.3666888.xyz
 6.cf.3666888.xyz
@@ -196,5 +198,3 @@ yg6.ygkkk.dpdns.org
 store.ubisoft.com
 01-qq.com
 shanghai.mfa.gov.ua
-yx.cf.090227.xyz
-grass.io
