@@ -153,6 +153,7 @@ sourceforge.net
 leawo.org
 investor.apple.com
 a.pub.network
+cloudflare.182682.xyz
 666.cf.cname.vvhan.com
 zabc.net
 cmcc.877774.xyz
@@ -197,4 +198,3 @@ yg5.ygkkk.dpdns.org
 yg6.ygkkk.dpdns.org
 store.ubisoft.com
 01-qq.com
-shanghai.mfa.gov.ua
