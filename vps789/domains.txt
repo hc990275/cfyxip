@@ -128,12 +128,12 @@ api.cloudflare.com
 mail.murata.com
 images.chesscomfiles.com
 53.fs1.hubspotusercontent-na1.net
+example.com
 www.whatismyip.com
 gitlab.com
 qoj.ac
 api.producthunt.com
 tracker.metricool.com
-example.com
 www.visa.com.hk
 ip.skk.moe
 hostinger.com
