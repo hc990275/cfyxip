@@ -30,6 +30,7 @@ www.giannidelprete.it
 coke.cf.3666888.xyz
 www.deepl.com
 cf.xreak.top
+ip.skk.moe
 cf.877771.xyz
 staticdelivery.nexusmods.com
 cf.3666888.xyz
@@ -45,7 +46,6 @@ www.mlkj888.com
 01-qq.com
 www.akasantech.com
 1.cloudflare.19931110.xyz
-ip.skk.moe
 nexusmods.com
 spring.io
 www.mc.js.cool
@@ -105,7 +105,6 @@ alternativeto.net
 static.elfsight.com
 example.com
 www.whatismyip.com
-www.hugedomains.com
 racerseseries.sky.com
 challenges.cloudflare.com
 www.chess.com
@@ -116,6 +115,7 @@ v.recipes
 cmcc.877774.xyz
 japan.com
 dynadot.com
+www.hugedomains.com
 crowdstrike.com
 hostinger.com
 unpkg.com
@@ -156,14 +156,16 @@ yfvsdf.cf.3666888.xyz
 www.copilot.com
 time.is
 www.whoer.net
+redis.io
 debot.ai
 china-unicom.cname.cloudflare.468123.xyz
 cf.090227.xyz
 mfa.gov.ua
-redis.io
 www.ox.ac.uk
 www.npmjs.com
 www.sage.com
+www.bis.gov
+youxuan.cf.090227.xyz
 hk.cf.3666888.xyz
 hfqek.cf.3666888.xyz
 1.cf.3666888.xyz
@@ -188,13 +190,11 @@ cdn.nodeimage.com
 www.wto.org
 dev.graco.com
 www.jimdo.com
-www.bis.gov
 qoj.ac
-youxuan.cf.090227.xyz
 123.cf.3666888.xyz
 china.mfa.gov.ua
+yg11.ygkkk.dpdns.org
+yx.cf.090227.xyz
+cdn.2x.nz
 www.dg22.top
 appstorrent.ru
-www.spacex.com
-www.visa.com.hk
-ippure.com
