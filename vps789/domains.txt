@@ -76,13 +76,13 @@ www.deepl.com
 top-fast.cf.3666888.xyz
 cf.v8.longsays.com
 cf.130519.xyz
-cmcc.vvvv.ee
 jp.cf.3666888.xyz
 1.cf.3666888.xyz
 securecircle.com
 cf.xycf.asia
 www.dbs.com.sg
 fn.130519.xyz
+cmcc.vvvv.ee
 aftership.com
 www.jimdo.com
 hk.cf.3666888.xyz
@@ -135,6 +135,7 @@ qoj.ac
 api.producthunt.com
 tracker.metricool.com
 example.com
+cloudflare.182682.xyz
 www.visa.com.hk
 ip.skk.moe
 hostinger.com
@@ -153,7 +154,7 @@ sourceforge.net
 leawo.org
 investor.apple.com
 a.pub.network
-cloudflare.182682.xyz
+s.bookcdn.com
 666.cf.cname.vvhan.com
 zabc.net
 cmcc.877774.xyz
@@ -162,16 +163,13 @@ redis.io
 dnew.cc
 crowdstrike.com
 www.crazygames.fr
-jobsdb.com
 4.cf.3666888.xyz
 10.cf.3666888.xyz
 yg4.ygkkk.dpdns.org
 4gxb7l7p40.cloudflare-gateway.com
 www.mediafire.com
 nodejs.org
-www.090902.xyz
 www.elegantthemes.com
-s.bookcdn.com
 cnamefuckxxs.yuchen.icu
 www.hugedomains.com
 mvnrepository.com
@@ -191,6 +189,7 @@ racerseseries.sky.com
 dev.graco.com
 jquery.com
 themeisle.com
+jobsdb.com
 2.cf.3666888.xyz
 3.cf.3666888.xyz
 6.cf.3666888.xyz
@@ -198,3 +197,4 @@ yg5.ygkkk.dpdns.org
 yg6.ygkkk.dpdns.org
 store.ubisoft.com
 01-qq.com
+shanghai.mfa.gov.ua
