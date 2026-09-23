@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 09-23 10:12 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 09-23 10:42 | BestCF.pages.dev
 www.shopify.com:8443#VPS789优选 | www.shopify.com
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 linear.app:8443#VPS789优选 | linear.app
@@ -9,7 +9,6 @@ cfgo.timelate.com:8443#VPS789优选 | cfgo.timelate.com
 cf.92555.xyz:8443#VPS789优选 | cf.92555.xyz
 cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
 openai.com:8443#VPS789优选 | openai.com
-store.ubi.com:8443#VPS789优选 | store.ubi.com
 cf.godns.cc:8443#VPS789优选 | cf.godns.cc
 www.mc.js.cool:8443#VPS789优选 | www.mc.js.cool
 cfvip.cf.3666888.xyz:8443#VPS789优选 | cfvip.cf.3666888.xyz
@@ -24,10 +23,12 @@ www.carousell.sg:8443#VPS789优选 | www.carousell.sg
 ct.721660.xyz:8443#VPS789优选 | ct.721660.xyz
 coke.cf.3666888.xyz:8443#VPS789优选 | coke.cf.3666888.xyz
 funko.com:8443#VPS789优选 | funko.com
+edgeone.gh-proxy.org:8443#VPS789优选 | edgeone.gh-proxy.org
 cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 www.udacity.com:8443#VPS789优选 | www.udacity.com
 cu.877774.xyz:8443#VPS789优选 | cu.877774.xyz
 b3.cfyx.20237737.xyz:8443#VPS789优选 | b3.cfyx.20237737.xyz
+store.ubi.com:8443#VPS789优选 | store.ubi.com
 staticdelivery.nexusmods.com:8443#VPS789优选 | staticdelivery.nexusmods.com
 cf.3666888.xyz:8443#VPS789优选 | cf.3666888.xyz
 gh-proxy.com:8443#VPS789优选 | gh-proxy.com
@@ -38,6 +39,7 @@ cdn.cf.3666888.xyz:8443#VPS789优选 | cdn.cf.3666888.xyz
 youxuan.cf.3666888.xyz:8443#VPS789优选 | youxuan.cf.3666888.xyz
 keji.cf.3666888.xyz:8443#VPS789优选 | keji.cf.3666888.xyz
 cf.cf.3666888.xyz:8443#VPS789优选 | cf.cf.3666888.xyz
+uac.cf.3666888.xyz:8443#VPS789优选 | uac.cf.3666888.xyz
 www.nexusmods.com:8443#VPS789优选 | www.nexusmods.com
 cdn.7zz.cn:8443#VPS789优选 | cdn.7zz.cn
 www.blibli.com:8443#VPS789优选 | www.blibli.com
@@ -47,6 +49,4 @@ www.vastnovel.com:8443#VPS789优选 | www.vastnovel.com
 www.dg22.top:8443#VPS789优选 | www.dg22.top
 www.akasantech.com:8443#VPS789优选 | www.akasantech.com
 cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
-edgeone.gh-proxy.org:8443#VPS789优选 | edgeone.gh-proxy.org
-www.ntu.edu.sg:8443#VPS789优选 | www.ntu.edu.sg
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
