@@ -82,7 +82,6 @@ securecircle.com
 cf.xycf.asia
 www.dbs.com.sg
 fn.130519.xyz
-cmcc.vvvv.ee
 aftership.com
 www.jimdo.com
 hk.cf.3666888.xyz
@@ -110,8 +109,8 @@ cloudflare.19931110.xyz
 digitalocean.com
 mskcc.org
 dash.cloudflare.com
-videodelivery.net
 bestcf.030101.xyz
+cmcc.vvvv.ee
 da.mfa.gov.ua
 www.sage.com
 tinyurl.com
@@ -137,6 +136,7 @@ tracker.metricool.com
 example.com
 cloudflare.182682.xyz
 www.visa.com.hk
+videodelivery.net
 ip.skk.moe
 hostinger.com
 www.ventusky.com
@@ -150,16 +150,14 @@ yd.hhhhh.eu.org
 cf.vvhan.com
 kick.com
 registry.npmjs.org
+www.whoer.net
 sourceforge.net
 leawo.org
 investor.apple.com
 a.pub.network
-s.bookcdn.com
 666.cf.cname.vvhan.com
 zabc.net
 cmcc.877774.xyz
-www.whoer.net
-redis.io
 dnew.cc
 crowdstrike.com
 www.crazygames.fr
@@ -171,6 +169,7 @@ www.mediafire.com
 nodejs.org
 www.elegantthemes.com
 cnamefuckxxs.yuchen.icu
+redis.io
 www.hugedomains.com
 mvnrepository.com
 unpkg.com
@@ -198,3 +197,4 @@ yg6.ygkkk.dpdns.org
 store.ubisoft.com
 01-qq.com
 shanghai.mfa.gov.ua
+yx.cf.090227.xyz
