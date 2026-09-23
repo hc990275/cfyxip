@@ -68,13 +68,13 @@ hk.cf.3666888.xyz
 vip.cf.3666888.xyz
 uac.cf.3666888.xyz
 6.cf.3666888.xyz
-cnllm.com
 cdn.7zz.cn
 yx.cf.090227.xyz
 www.carousell.sg
 www.blibli.com
 ctsg.cfyx.aliyun.20237737.xyz
 www.xflash.vip
+cfip-cm.stoeaves.us.ci
 coke.cf.3666888.xyz
 cloudflare.com
 cdns.doon.eu.org
@@ -82,6 +82,7 @@ cf-cname.xingpingcn.top
 www.vmware.com
 jp.cf.3666888.xyz
 cfyx.qdqqd.com
+cnllm.com
 cmcc.cc.cd
 imooo.de
 ctlmt.info
@@ -95,6 +96,7 @@ cf.xycf.asia
 cf.xreak.top
 mfa.gov.ua
 fn.130519.xyz
+www.5199dy.com
 www.dentoncounty.gov
 guide.for.edu.sg
 www.crazygames.fr
@@ -168,6 +170,7 @@ shen6011.pages.dev
 www.elegantthemes.com
 cnamefuckxxs.yuchen.icu
 bestcf.030101.xyz
+ncc.gov.ng
 linear.app
 stlouiscountymo.gov
 crowdstrike.com
@@ -181,7 +184,6 @@ jobsdb.com
 youxuan.cf.090227.xyz
 cfdl.3666888.xyz
 yg2.ygkkk.dpdns.org
-yg6.ygkkk.dpdns.org
 cmcc.hw.090227.xyz
 webn.cc
 01-cctv.com
@@ -196,5 +198,3 @@ cloudflare.tv
 moodle.org
 clickhouse.com
 yg5.ygkkk.dpdns.org
-www.acces-maroc.ma
-visa.com.tw
