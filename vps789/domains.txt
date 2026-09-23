@@ -97,7 +97,6 @@ fn.130519.xyz
 www.dentoncounty.gov
 guide.for.edu.sg
 www.crazygames.fr
-sanwang.cf.3666888.xyz
 isp.254301.xyz
 1.cf.3666888.xyz
 3.cf.3666888.xyz
@@ -133,15 +132,16 @@ aftership.com
 tinyurl.com
 sourceforge.net
 hsl.upstate.edu
+sanwang.cf.3666888.xyz
 www.broadcom.com
 www.xiaoshuofen.com
 ct.hw.090227.xyz
 cloudflare.468123.xyz
 www.trump.com
-yd.zhuqq.qzz.io
 nodejs.org
 cloudflare.19931110.xyz
 redis.io
+yd.zhuqq.qzz.io
 registry.yarnpkg.com
 666.cf.cname.vvhan.com
 www.wto.org
@@ -153,7 +153,6 @@ absen.com
 cdnjs.cloudflare.com
 challenges.cloudflare.com
 yg11.ygkkk.dpdns.org
-ex.warspite.dpdns.org
 yx.oracle-img.eu.org
 digitalocean.com
 ip.skk.moe
@@ -164,7 +163,6 @@ networksolutions.com
 api.cloudflare.com
 shen6011.pages.dev
 cnamefuckxxs.yuchen.icu
-cloudflare.net
 bestcf.030101.xyz
 linear.app
 stlouiscountymo.gov
@@ -181,6 +179,7 @@ cfdl.3666888.xyz
 yg2.ygkkk.dpdns.org
 yg6.ygkkk.dpdns.org
 cmcc.hw.090227.xyz
+webn.cc
 01-cctv.com
 linkvertise.com
 1.cloudflare.19931110.xyz
@@ -198,3 +197,4 @@ www.acces-maroc.ma
 visa.com.tw
 oxylabs.io
 crypto.cloudflare.com
+www.roche.com
