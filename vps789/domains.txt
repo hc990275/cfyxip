@@ -41,6 +41,7 @@ www.leics.police.uk
 cf.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 2.cf.3666888.xyz
+adnjv.cf.3666888.xyz
 5.cf.3666888.xyz
 7.cf.3666888.xyz
 10.cf.3666888.xyz
@@ -100,7 +101,6 @@ www.crazygames.fr
 isp.254301.xyz
 1.cf.3666888.xyz
 3.cf.3666888.xyz
-8.cf.3666888.xyz
 china.mfa.gov.ua
 www.sofi.com
 china-mobile.cname.cloudflare.468123.xyz
@@ -115,6 +115,7 @@ cmcc.090227.xyz
 ct.090227.xyz
 yxip.xxxxxxxx.tk
 eteaf.cf.3666888.xyz
+8.cf.3666888.xyz
 www.donaldjtrump.com
 cdn.2x.nz
 www.chess.com
@@ -126,6 +127,7 @@ dash.cloudflare.com
 zabc.net
 www.whatismyip.com
 fbi.gov
+flightradar24.com
 tajikistan.mfa.gov.ua
 dynadot.com
 aftership.com
@@ -138,6 +140,7 @@ www.xiaoshuofen.com
 ct.hw.090227.xyz
 cloudflare.468123.xyz
 www.trump.com
+kick.com
 nodejs.org
 cloudflare.19931110.xyz
 redis.io
@@ -162,6 +165,7 @@ www.mc.js.cool
 networksolutions.com
 api.cloudflare.com
 shen6011.pages.dev
+www.elegantthemes.com
 cnamefuckxxs.yuchen.icu
 bestcf.030101.xyz
 linear.app
@@ -191,10 +195,6 @@ sunkist.com
 cloudflare.tv
 moodle.org
 clickhouse.com
-adnjv.cf.3666888.xyz
 yg5.ygkkk.dpdns.org
 www.acces-maroc.ma
 visa.com.tw
-oxylabs.io
-crypto.cloudflare.com
-www.roche.com
