@@ -79,6 +79,7 @@ cloudflare.com
 cdns.doon.eu.org
 cf-cname.xingpingcn.top
 www.vmware.com
+www.5h.com
 jp.cf.3666888.xyz
 cfyx.qdqqd.com
 cmcc.cc.cd
@@ -89,10 +90,10 @@ cf.130519.xyz
 www.mastervolt.com
 hubspot.com
 w3.org
-www.5h.com
 cf1s.cf.3666888.xyz
 cf.xycf.asia
 cf.xreak.top
+mfa.gov.ua
 fn.130519.xyz
 www.dentoncounty.gov
 guide.for.edu.sg
@@ -105,14 +106,13 @@ china.mfa.gov.ua
 www.sofi.com
 china-mobile.cname.cloudflare.468123.xyz
 cf.468123.xyz
-yx.oracle-img.eu.org
 yfvsdf.cf.3666888.xyz
 top-fast.cf.3666888.xyz
 cf.v8.longsays.com
+trump.com
 bestcf.top
 cmcc.090227.xyz
 ct.090227.xyz
-mfa.gov.ua
 yxip.xxxxxxxx.tk
 eteaf.cf.3666888.xyz
 www.donaldjtrump.com
@@ -139,6 +139,7 @@ ct.hw.090227.xyz
 cloudflare.468123.xyz
 www.trump.com
 yd.zhuqq.qzz.io
+yx.oracle-img.eu.org
 nodejs.org
 cloudflare.19931110.xyz
 redis.io
@@ -197,4 +198,3 @@ hentaiverse.org
 liziye.pages.dev
 www.epicgames.com
 ncc.gov.ng
-blog.raindew.576555.xyz
