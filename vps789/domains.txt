@@ -57,12 +57,12 @@ play.mc.js.cool
 www.shopify.com
 b3.cfyx.20237737.xyz
 cf.godns.cc
-coreweave.com
 www.sage.com
 youxuan.cf.3666888.xyz
 www.nexusmods.com
 101yaoye.com
 fn.130519.xyz
+coreweave.com
 china-telecom.cname.cloudflare.468123.xyz
 www.blibli.com
 cf.v8.longsays.com
@@ -136,6 +136,7 @@ visa.com
 www.epicgames.com
 debot.ai
 www.ox.ac.uk
+registry.npmjs.org
 cloudflare.com
 da.mfa.gov.ua
 redis.io
@@ -176,7 +177,6 @@ kali.download
 cf.777791.xyz
 cf.0sm.com
 www.postman.com
-oxylabs.io
 a.pub.network
 cloudflare.182682.xyz
 www.visa.com.hk
@@ -192,9 +192,9 @@ cmcc.hw.090227.xyz
 ctlmt.info
 www.donaldjtrump.com
 grass.io
+oxylabs.io
 kick.com
 garuda-indonesia.com
 www.chess.com
 cf.xreak.top
 static.elfsight.com
-www.copilot.com
