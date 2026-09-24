@@ -80,7 +80,9 @@ coke.cf.3666888.xyz
 cloudflare.com
 cdns.doon.eu.org
 cf-cname.xingpingcn.top
+www.5199dy.com
 cf.130519.xyz
+w3.org
 www.5h.com
 jp.cf.3666888.xyz
 cfyx.qdqqd.com
@@ -90,10 +92,8 @@ cmcc.cc.cd
 imooo.de
 ctlmt.info
 cdn.091224.xyz
-www.5199dy.com
 www.mastervolt.com
 hubspot.com
-w3.org
 cf1s.cf.3666888.xyz
 china.mfa.gov.ua
 www.sofi.com
@@ -121,6 +121,7 @@ flightradar24.com
 eteaf.cf.3666888.xyz
 8.cf.3666888.xyz
 yg8.ygkkk.dpdns.org
+www.trump.com
 www.donaldjtrump.com
 cdn.2x.nz
 www.chess.com
@@ -146,7 +147,6 @@ www.broadcom.com
 www.xiaoshuofen.com
 ct.hw.090227.xyz
 cloudflare.468123.xyz
-www.trump.com
 kick.com
 nodejs.org
 redis.io
@@ -160,6 +160,7 @@ thebeat.gehealthcare.com
 envato.com
 hostinger.com
 www.sage.com
+themeisle.com
 www.jimdo.com
 zoominfo.com
 jobsdb.com
@@ -171,6 +172,7 @@ ip.skk.moe
 api.uniapi.io
 encryptedsni.com
 www.mc.js.cool
+yg5.ygkkk.dpdns.org
 api.cloudflare.com
 shen6011.pages.dev
 www.elegantthemes.com
@@ -181,20 +183,18 @@ www.wto.org
 stlouiscountymo.gov
 crowdstrike.com
 coreweave.com
-themeisle.com
 networksolutions.com
-elegantthemes.com
 qoj.ac
 mogas.com
 youxuan.cf.090227.xyz
 yg2.ygkkk.dpdns.org
 cmcc.hw.090227.xyz
-webn.cc
 01-cctv.com
 linkvertise.com
 registry.npmjs.org
 blog.cloudflare.com
 cfip.1323123.xyz
 nist.gov
+debot.ai
 cloudflare.tv
 www.moc.gov.tw
