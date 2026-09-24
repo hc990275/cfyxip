@@ -13,7 +13,7 @@ Juwan-Hwang/Zephyr|2.4.4|2026-08-22
 KaringX/clashmi|1.0.30.1605|2026-09-22
 KaringX/karing|1.2.25.2802|2026-09-10
 Kindness-Kismet/stelliberty|2.0.35|2026-09-24
-Leadaxe/sing-box-lx|1.14.1-lx.12|2026-09-24
+Leadaxe/sing-box-lx|1.14.1-lx.13|2026-09-24
 MatsuriDayo/NekoBoxForAndroid|1.4.2|2026-02-09
 MetaCubeX/ClashMetaForAndroid|2.11.34|2026-09-14
 MetaCubeX/ClashX.Meta|1.4.45|2026-09-14
@@ -64,4 +64,4 @@ xishang0128/sparkle|1.26.8|2026-09-03
 yabi-zzh/HoKit|1.8.9|2026-09-15
 yanue/v2rayu|5.2.0|2026-08-02
 yaog6700-bit/Swell-Proxy|3.3.6|2026-09-14
-zn0wii/satelite-proxy|1.0.43|2026-09-24
+zn0wii/satelite-proxy|1.0.44|2026-09-24
