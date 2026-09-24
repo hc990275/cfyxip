@@ -35,6 +35,7 @@ flowvy-proxy/desktop|0.3.5|2026-08-27
 genyleap/GenyConnect|1.4.950|2026-09-14
 getsurfboard/surfboard|mobile-2.35.1|2026-09-21
 hiddify/hiddify-next|4.1.1|2026-03-06
+ks-lm-kf/harmony-kslmkf-karing-hap|1.10.0|2026-09-24
 likuai2010/auto-installer|3.1.0|2026-03-25
 maxin0324/ClashHM|0.1.0|2026-07-17
 meow-rs/meow-android|1.0.8|2026-08-17
