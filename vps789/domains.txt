@@ -41,7 +41,6 @@ spring.io
 ahrefs.com
 cfyx.qdqqd.com
 isp.254301.xyz
-9.cf.3666888.xyz
 yg12.ygkkk.dpdns.org
 www.broadcom.com
 cmcc.cc.cd
@@ -59,13 +58,13 @@ b3.cfyx.20237737.xyz
 cf.godns.cc
 www.sage.com
 youxuan.cf.3666888.xyz
+9.cf.3666888.xyz
 yg9.ygkkk.dpdns.org
 www.nexusmods.com
 101yaoye.com
 coreweave.com
 china-telecom.cname.cloudflare.468123.xyz
 www.blibli.com
-cf.v8.longsays.com
 fn.130519.xyz
 www.jimdo.com
 fw8je9.cf.3666888.xyz
@@ -73,6 +72,7 @@ cf.553314.xyz
 cfip-avg.stoeaves.us.ci
 cfip-cu.stoeaves.us.ci
 cf.xycf.asia
+cf.v8.longsays.com
 ip.skk.moe
 cf.877771.xyz
 www.5199dy.com
@@ -128,7 +128,6 @@ challenges.cloudflare.com
 run.254301.xyz
 www.mfyx.cn
 www.mlkj888.com
-china-mobile.cname.cloudflare.468123.xyz
 api.cloudflare.com
 api.producthunt.com
 visa.com
@@ -148,6 +147,7 @@ virtualcommtraining.verizon.com
 hostinger.com
 m.iyf.tv
 cdnjs.cloudflare.com
+china-mobile.cname.cloudflare.468123.xyz
 cf1.v8.longsays.com
 yd.hhhhh.eu.org
 example.com
@@ -155,6 +155,7 @@ api.uniapi.io
 investor.apple.com
 webn.cc
 cnamefuckxxs.yuchen.icu
+cloudflare.182682.xyz
 dash.cloudflare.com
 kickstarter.com
 www.visa.com
@@ -171,14 +172,12 @@ chrono24.com
 pubs.acs.org
 cf.qq.ms
 alternativeto.net
-images.chesscomfiles.com
 lt.1930812.xyz
 kali.download
 cf.0sm.com
 www.postman.com
 oxylabs.io
 a.pub.network
-cloudflare.182682.xyz
 www.visa.com.hk
 yxip.xxxxxxxx.tk
 bestcfv4.030101.xyz
@@ -198,3 +197,4 @@ garuda-indonesia.com
 www.chess.com
 cf.xreak.top
 cf.777791.xyz
+static.elfsight.com

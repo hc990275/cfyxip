@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP100 | 09-25 07:42 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP100 | 09-25 08:12 | BestCF.pages.dev
 staticdelivery.nexusmods.com:8443#VPS789优选 | staticdelivery.nexusmods.com
 cfyx.aliyun.20237737.xyz:8443#VPS789优选 | cfyx.aliyun.20237737.xyz
 cfgo.timelate.com:8443#VPS789优选 | cfgo.timelate.com
@@ -42,7 +42,6 @@ spring.io:8443#VPS789优选 | spring.io
 ahrefs.com:8443#VPS789优选 | ahrefs.com
 cfyx.qdqqd.com:8443#VPS789优选 | cfyx.qdqqd.com
 isp.254301.xyz:8443#VPS789优选 | isp.254301.xyz
-9.cf.3666888.xyz:8443#VPS789优选 | 9.cf.3666888.xyz
 yg12.ygkkk.dpdns.org:8443#VPS789优选 | yg12.ygkkk.dpdns.org
 www.broadcom.com:8443#VPS789优选 | www.broadcom.com
 cmcc.cc.cd:8443#VPS789优选 | cmcc.cc.cd
@@ -60,13 +59,13 @@ b3.cfyx.20237737.xyz:8443#VPS789优选 | b3.cfyx.20237737.xyz
 cf.godns.cc:8443#VPS789优选 | cf.godns.cc
 www.sage.com:8443#VPS789优选 | www.sage.com
 youxuan.cf.3666888.xyz:8443#VPS789优选 | youxuan.cf.3666888.xyz
+9.cf.3666888.xyz:8443#VPS789优选 | 9.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:8443#VPS789优选 | yg9.ygkkk.dpdns.org
 www.nexusmods.com:8443#VPS789优选 | www.nexusmods.com
 101yaoye.com:8443#VPS789优选 | 101yaoye.com
 coreweave.com:8443#VPS789优选 | coreweave.com
 china-telecom.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
 www.blibli.com:8443#VPS789优选 | www.blibli.com
-cf.v8.longsays.com:8443#VPS789优选 | cf.v8.longsays.com
 fn.130519.xyz:8443#VPS789优选 | fn.130519.xyz
 www.jimdo.com:8443#VPS789优选 | www.jimdo.com
 fw8je9.cf.3666888.xyz:8443#VPS789优选 | fw8je9.cf.3666888.xyz
@@ -74,6 +73,7 @@ cf.553314.xyz:8443#VPS789优选 | cf.553314.xyz
 cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cfip-cu.stoeaves.us.ci:8443#VPS789优选 | cfip-cu.stoeaves.us.ci
 cf.xycf.asia:8443#VPS789优选 | cf.xycf.asia
+cf.v8.longsays.com:8443#VPS789优选 | cf.v8.longsays.com
 ip.skk.moe:8443#VPS789优选 | ip.skk.moe
 cf.877771.xyz:8443#VPS789优选 | cf.877771.xyz
 www.5199dy.com:8443#VPS789优选 | www.5199dy.com
