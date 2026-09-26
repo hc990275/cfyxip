@@ -1,10 +1,10 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 09-27 03:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP10 | 09-27 03:42 | BestCF.pages.dev
 4gxb7l7p40.cloudflare-gateway.com:443#VPS789优选 | 4gxb7l7p40.cloudflare-gateway.com
 linear.app:443#VPS789优选 | linear.app
 greim.no:443#VPS789优选 | greim.no
 cfgo.timelate.com:443#VPS789优选 | cfgo.timelate.com
 www.udacity.com:443#VPS789优选 | www.udacity.com
-constitution.congress.gov:443#VPS789优选 | constitution.congress.gov
+cf.godns.cc:443#VPS789优选 | cf.godns.cc
 ahrefs.com:443#VPS789优选 | ahrefs.com
 www.broadcom.com:443#VPS789优选 | www.broadcom.com
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
