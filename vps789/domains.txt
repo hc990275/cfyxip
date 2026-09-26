@@ -98,7 +98,6 @@ cloudflare.19931110.xyz
 aimagazine.com
 cf-cname.xingpingcn.top
 virtualcommtraining.verizon.com
-cf.090227.xyz
 time.is
 ip.skk.moe
 dogechain.info
@@ -136,6 +135,7 @@ visa.com.tw
 oxylabs.io
 rargb.to
 a.pub.network
+cf.090227.xyz
 ct.090227.xyz
 ping.pe
 v.recipes
@@ -144,7 +144,6 @@ cdnjs.com
 coreweave.com
 ovpnspider.com
 codeforces.com
-www.applevis.com
 easylist.to
 cdn.cf.3666888.xyz
 4.cf.3666888.xyz
@@ -155,6 +154,7 @@ lt.1930812.xyz
 chat.hashi.sbs
 www.jsdelivr.com
 www.ventusky.com
+www.applevis.com
 11.cf.3666888.xyz
 yg3.ygkkk.dpdns.org
 mox.moxing.lol
@@ -173,12 +173,12 @@ kernelsu.com
 sg.102198.xyz
 hentaiverse.org
 cf.777791.xyz
+cu.zxy88.eu.org
 ip.sb
 singapore.com
 networksolutions.com
 helium.computer
 cdnjs.loli.net
-cu.zxy88.eu.org
 xiaoqi.de
 t.213891.xyz
 cdn.nodeimage.com
@@ -186,15 +186,15 @@ japan.com
 egov.uscis.gov
 www.bis.gov
 jobsdb.com
+cf1s.cf.3666888.xyz
 carpt.net
 pttime.org
 wppaunz.com
 www.mlkj888.com
+ct.hw.090227.xyz
 yx.cf.090227.xyz
 wallpaperflare.com
 yong.m123.org
 jojolsj.jojojing.top
 cf.qq.ms
 assets.bizclikmedia.net
-bizclikmedia.com
-cn.vuejs.org
