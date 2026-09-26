@@ -37,7 +37,12 @@ jobs:
               sys.exit(1)
               
           try:
-              response = requests.get(url, timeout=15)
+              headers = {
+                  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                                "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+              }
+              response = requests.get(url, headers=headers, timeout=15)          
+
               if response.status_code != 200:
                   print(f"请求失败，状态码: {response.status_code}")
                   sys.exit(1)
