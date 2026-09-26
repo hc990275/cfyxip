@@ -45,7 +45,6 @@ ct.721660.xyz
 www.vastnovel.com
 cf.92555.xyz
 www.deepl.com
-cf.090227.xyz
 cu.877774.xyz
 cf.130519.xyz
 cf.3666888.xyz
@@ -57,6 +56,7 @@ www.dg22.top
 www.giannidelprete.it
 edgeone.gh-proxy.org
 cf.xreak.top
+cf.090227.xyz
 cdns.doon.eu.org
 cf.877771.xyz
 guide.for.edu.sg
@@ -147,12 +147,10 @@ easylist.to
 cdn.cf.3666888.xyz
 4.cf.3666888.xyz
 yg5.ygkkk.dpdns.org
-yx.oracle-img.eu.org
 worldvectorlogo.com
 s.ee
 lt.1930812.xyz
 chat.hashi.sbs
-singapore.com
 www.ventusky.com
 11.cf.3666888.xyz
 yg3.ygkkk.dpdns.org
@@ -161,6 +159,7 @@ www.government.is
 js.org
 www.nomios.com
 cloudflare.182682.xyz
+www.hugedomains.com
 www.bis.gov
 9mod.com
 builtbybuffalo.com
@@ -175,6 +174,7 @@ hentaiverse.org
 cf.777791.xyz
 cu.zxy88.eu.org
 ip.sb
+singapore.com
 www.jsdelivr.com
 networksolutions.com
 helium.computer
@@ -193,8 +193,8 @@ yx.cf.090227.xyz
 yong.m123.org
 jojolsj.jojojing.top
 cf.qq.ms
+yx.oracle-img.eu.org
 assets.bizclikmedia.net
 bizclikmedia.com
 cdn.jwcmdr.top
 cn.vuejs.org
-w3.org
