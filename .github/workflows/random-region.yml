@@ -17,7 +17,9 @@ jobs:
 
       - name: 安装依赖
         run: |
-          pip install "curl_cffi>=0.7.0"
+          pip install playwright
+          playwright install chromium
+          playwright install-deps chromium
 
       - name: 执行数据处理脚本
         id: process_data
@@ -29,25 +31,61 @@ jobs:
           import sys
           import json
           import random
-          import curl_cffi
-          from curl_cffi import requests as crequests
+          from playwright.sync_api import sync_playwright
 
           url = os.environ.get("MY_PROXY_URL")
           if not url:
               print("错误: 未在 GitHub Secrets 中配置 PROXY_URL 变量！")
               sys.exit(1)
 
-          print("curl_cffi 版本:", curl_cffi.__version__)
-
+          data = None
           try:
-              response = crequests.get(url, impersonate="chrome124", timeout=15)
+              with sync_playwright() as p:
+                  browser = p.chromium.launch(
+                      headless=True,
+                      args=[
+                          "--no-sandbox",
+                          "--disable-blink-features=AutomationControlled",
+                      ]
+                  )
+                  context = browser.new_context(
+                      user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                                 "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+                      locale="zh-CN",
+                      viewport={"width": 1366, "height": 768},
+                  )
+                  page = context.new_page()
 
-              if response.status_code != 200:
-                  print(f"请求失败，状态码: {response.status_code}")
-                  print("响应头:", dict(response.headers))
-                  print("响应内容前 800 字符:", response.text[:800])
+                  print("正在打开页面...")
+                  page.goto(url, wait_until="domcontentloaded", timeout=60000)
+
+                  # 等待 Cloudflare Challenge 自动通过，最多等 30 秒
+                  print("等待 Cloudflare 验证...")
+                  for i in range(30):
+                      content = page.content()
+                      if "Just a moment" not in content and "challenge" not in content.lower():
+                          break
+                      page.wait_for_timeout(1000)
+
+                  # 再等页面稳定
+                  page.wait_for_timeout(2000)
+
+                  # 取页面内容，尝试解析 JSON
+                  body_text = page.evaluate("() => document.body.innerText")
+                  browser.close()
+
+              if not body_text or not body_text.strip():
+                  print("页面内容为空，可能验证未通过。")
                   sys.exit(1)
-              data = response.json()
+
+              try:
+                  data = json.loads(body_text)
+              except Exception:
+                  # 如果不是纯 JSON，尝试从 <pre> 里取
+                  print("页面内容不是纯 JSON，前 800 字符:")
+                  print(body_text[:800])
+                  sys.exit(1)
+
           except Exception as e:
               print(f"数据获取异常: {e}")
               sys.exit(1)
