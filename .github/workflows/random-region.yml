@@ -17,7 +17,7 @@ jobs:
 
       - name: 安装依赖
         run: |
-          pip install requests
+          pip install "curl_cffi>=0.7.0"
 
       - name: 执行数据处理脚本
         id: process_data
@@ -29,24 +29,17 @@ jobs:
           import sys
           import json
           import random
-          import requests
+          from curl_cffi import requests as crequests
 
           url = os.environ.get("MY_PROXY_URL")
           if not url:
               print("错误: 未在 GitHub Secrets 中配置 PROXY_URL 变量！")
               sys.exit(1)
-              
+
+          print("curl_cffi 版本:", crequests.__version__)
+
           try:
-              headers = {
-                  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                                "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                  "Accept": "application/json, text/plain, */*",
-                  "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-                  "Referer": url,
-                  "Origin": url.rsplit("/", 1)[0],
-                  "Connection": "keep-alive",
-              }
-              response = requests.get(url, headers=headers, timeout=15)          
+              response = crequests.get(url, impersonate="chrome124", timeout=15)
 
               if response.status_code != 200:
                   print(f"请求失败，状态码: {response.status_code}")
@@ -64,7 +57,7 @@ jobs:
 
           country_order_dict = data.get("list", {}).get("country", {})
           items = data.get("list", {}).get("nodes", []) if "nodes" in data.get("list", {}) else data.get("list", [])
-          
+
           if not isinstance(items, list):
               if isinstance(data, dict) and "nodes" in data:
                   items = data["nodes"]
@@ -101,16 +94,16 @@ jobs:
               if country in ["CN", "Unknown"]:
                   continue
               country_cn = meta.get("country_cn", country)
-              
+
               colo_info = meta.get("colo", {})
               iata = colo_info.get("iata") if isinstance(colo_info, dict) else meta.get("iata", "UNK")
 
               port = select_port(ports)
               line = f"{ip}:{port}#地区随机 | {country_cn} {country} | {iata} | {ip}:{port}"
-              
+
               if country not in country_map:
                   country_map[country] = set()
-              
+
               country_map[country].add(line)
 
           mix_blocks = {}
@@ -137,13 +130,13 @@ jobs:
 
           all_mix_lines = []
           all_mix2_lines = []
-          
+
           for country in country_order_dict.keys():
               if country in mix_blocks:
                   all_mix_lines.extend(mix_blocks[country])
               if country in mix_blocks2:
                   all_mix2_lines.extend(mix_blocks2[country])
-          
+
           for country, lines in mix_blocks.items():
               if country not in country_order_dict:
                   all_mix_lines.extend(lines)
@@ -153,7 +146,7 @@ jobs:
 
           if all_mix_lines:
               with open(os.path.join(base_dir, "mix.txt"), "w", encoding="utf-8") as f:
-                  f.write("\n".join(all_mix_lines) + "\n")     
+                  f.write("\n".join(all_mix_lines) + "\n")
           if all_mix2_lines:
               with open(os.path.join(base_dir, "mix2.txt"), "w", encoding="utf-8") as f:
                   f.write("\n".join(all_mix2_lines) + "\n")
@@ -164,26 +157,25 @@ jobs:
                   if country_code in ["CN", "Unknown"]:
                       continue
                   country_list_lines.append(f"{country_code}|{count}")
-          
+
           if country_list_lines:
               with open(os.path.join(base_dir, "list.txt"), "w", encoding="utf-8") as f:
                   f.write("\n".join(country_list_lines) + "\n")
 
           print("数据处理成功完成。")
           '
-        
+
       - name: 检查文件是否有变动并提交推送
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add random-region/
-          
+
           if git diff --cached --quiet; then
             echo "没有发现任何内容变动，跳过提交。"
           else
             echo "发现内容更新，准备推送库。"
             git commit -m "random-region"
-            # 使用 pull --rebase 保障并发拉取时的绝对安全，最后推送
             git pull --rebase origin ${GITHUB_REF##*/}
             git push origin HEAD
           fi
