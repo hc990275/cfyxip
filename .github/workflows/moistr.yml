@@ -13,29 +13,101 @@ jobs:
       - name: 检出代码
         uses: actions/checkout@v4
 
+      - name: 设置 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 安装 Playwright
+        run: |
+          pip install playwright
+          playwright install chromium
+          playwright install-deps chromium
+
       - name: 请求订阅并校验数据
         env:
           MOISTR_URL: ${{ secrets.MOISTR_URL }}
         run: |
           echo "开始请求目标链接..."
-          
+
           if [ -z "$MOISTR_URL" ]; then
             echo "错误：未检测到 MOISTR_URL"
             exit 1
           fi
-          
-          if ! curl -sS -L -A "Clash" --retry 3 --retry-delay 3 "$MOISTR_URL" -o raw_nodes.txt; then
-            echo "错误：请求目标链接失败！"
-            exit 1
-          fi
+
+          python -c '
+          import os
+          import sys
+          from playwright.sync_api import sync_playwright
+
+          url = os.environ.get("MOISTR_URL")
+          if not url:
+              print("错误：未检测到 MOISTR_URL")
+              sys.exit(1)
+
+          content = None
+          try:
+              with sync_playwright() as p:
+                  browser = p.chromium.launch(
+                      headless=True,
+                      args=[
+                          "--no-sandbox",
+                          "--disable-blink-features=AutomationControlled",
+                      ]
+                  )
+                  context = browser.new_context(
+                      user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                                 "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+                      locale="zh-CN",
+                      viewport={"width": 1366, "height": 768},
+                  )
+                  page = context.new_page()
+
+                  print("正在打开页面...")
+                  page.goto(url, wait_until="domcontentloaded", timeout=60000)
+
+                  # 等待 Cloudflare Challenge 自动通过，最多等 30 秒
+                  print("等待 Cloudflare 验证...")
+                  for i in range(30):
+                      html = page.content()
+                      if "Just a moment" not in html and "challenge" not in html.lower():
+                          break
+                      page.wait_for_timeout(1000)
+
+                  page.wait_for_timeout(2000)
+
+                  # 订阅内容通常直接在 <body> 或 <pre> 里
+                  content = page.evaluate(
+                      "() => (document.querySelector(\"pre\")?.innerText) || document.body.innerText"
+                  )
+                  browser.close()
+          except Exception as e:
+              print(f"浏览器获取异常: {e}")
+              sys.exit(1)
+
+          if not content or not content.strip():
+              print("错误：获取到的内容为空！")
+              sys.exit(1)
+
+          with open("raw_nodes.txt", "w", encoding="utf-8") as f:
+              f.write(content)
+
+          print("已写入 raw_nodes.txt，长度:", len(content))
+          '
 
           if [ ! -s raw_nodes.txt ]; then
             echo "错误：下载的内容为空！"
             exit 1
           fi
 
+          echo "===== raw_nodes.txt 前 5 行 ====="
+          head -5 raw_nodes.txt
+
+          echo "===== raw_nodes.txt 总行数 ====="
+          wc -l raw_nodes.txt
+
           NODE_COUNT=$(grep -c -E '[0-9a-zA-Z\.-]+:[0-9]+' raw_nodes.txt || true)
-          
+
           echo "检查完毕，当前下载的文件中包含有效节点数量: $NODE_COUNT"
 
           if [ "$NODE_COUNT" -lt 3 ]; then
@@ -47,30 +119,29 @@ jobs:
           fi
 
           mkdir -p moistr
-          
+
           cat raw_nodes.txt > moistr/all.txt
-          
+
           if [ "$(tail -c1 moistr/all.txt)" != "" ]; then
             echo "" >> moistr/all.txt
           fi
-          
+
           echo "数据校验通过，all.txt 文件生成成功！"
 
       - name: 提交并推送文件
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
-          # 核心改动：智能排除带有特定标志的动态广告/时间行进行增量比对
+
           HAS_CHANGES=false
           TARGET_FILE="moistr/all.txt"
 
           if [ -f "$TARGET_FILE" ] && git ls-files --error-unmatch "$TARGET_FILE" >/dev/null 2>&1; then
             echo "比对文本..."
-            
+
             git show HEAD:"$TARGET_FILE" | grep -v "BestCF.pages.dev" > old_clean.tmp || true
             grep -v "BestCF.pages.dev" "$TARGET_FILE" > new_clean.tmp || true
-            
+
             if diff -q old_clean.tmp new_clean.tmp >/dev/null 2>&1; then
               echo "优选未发生变化，跳过本次提交。"
               HAS_CHANGES=false
@@ -78,7 +149,7 @@ jobs:
               echo "检测到核心节点发生实质性更新！"
               HAS_CHANGES=true
             fi
-            
+
             rm -f old_clean.tmp new_clean.tmp
           else
             echo "新文件或首次初始化，直接标记为有更新。"
