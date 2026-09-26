@@ -29,6 +29,7 @@ jobs:
           import sys
           import json
           import random
+          import curl_cffi
           from curl_cffi import requests as crequests
 
           url = os.environ.get("MY_PROXY_URL")
@@ -36,7 +37,7 @@ jobs:
               print("错误: 未在 GitHub Secrets 中配置 PROXY_URL 变量！")
               sys.exit(1)
 
-          print("curl_cffi 版本:", crequests.__version__)
+          print("curl_cffi 版本:", curl_cffi.__version__)
 
           try:
               response = crequests.get(url, impersonate="chrome124", timeout=15)
