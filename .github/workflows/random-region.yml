@@ -39,12 +39,19 @@ jobs:
           try:
               headers = {
                   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                                "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                                "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                  "Accept": "application/json, text/plain, */*",
+                  "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+                  "Referer": url,
+                  "Origin": url.rsplit("/", 1)[0],
+                  "Connection": "keep-alive",
               }
               response = requests.get(url, headers=headers, timeout=15)          
 
               if response.status_code != 200:
                   print(f"请求失败，状态码: {response.status_code}")
+                  print("响应头:", dict(response.headers))
+                  print("响应内容前 800 字符:", response.text[:800])
                   sys.exit(1)
               data = response.json()
           except Exception as e:
