@@ -89,7 +89,6 @@ uspto.gov
 www.dg22.top
 cf.xreak.top
 cf.130519.xyz
-da.mfa.gov.ua
 www.dentoncounty.gov
 china-telecom.cname.cloudflare.468123.xyz
 cdn.091224.xyz
@@ -100,6 +99,7 @@ www.090902.xyz
 cloudflare.19931110.xyz
 cf-cname.xingpingcn.top
 ip.skk.moe
+da.mfa.gov.ua
 www.postman.com
 www.hugedomains.com
 kwiat.com
@@ -120,7 +120,6 @@ www.broadcom.com
 ct.hw.090227.xyz
 cf.468123.xyz
 yx.cf.090227.xyz
-cdn.2x.nz
 dongbanghong.com
 cfip-cu.stoeaves.us.ci
 cfip-cm.stoeaves.us.ci
@@ -168,7 +167,7 @@ www.timbuktutravel.com
 china.mfa.gov.ua
 xx.knit.bid
 01-qq.com
-cdn.ddeed.de
+cdn.2x.nz
 codexradar.com
 ex.warspite.dpdns.org
 hentaiverse.org
@@ -196,5 +195,6 @@ cfdl.3666888.xyz
 cfyx.qdqqd.com
 eteaf.cf.3666888.xyz
 carpt.net
-yg8.ygkkk.dpdns.org
-wppaunz.com
+shanghai.mfa.gov.ua
+zen-browser.app
+oxylabs.io
