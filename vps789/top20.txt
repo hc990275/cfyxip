@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 09-27 08:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 09-27 09:13 | BestCF.pages.dev
 4gxb7l7p40.cloudflare-gateway.com:443#VPS789优选 | 4gxb7l7p40.cloudflare-gateway.com
 linear.app:443#VPS789优选 | linear.app
 greim.no:443#VPS789优选 | greim.no
@@ -8,13 +8,13 @@ cf.godns.cc:443#VPS789优选 | cf.godns.cc
 ahrefs.com:443#VPS789优选 | ahrefs.com
 cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
 www.broadcom.com:443#VPS789优选 | www.broadcom.com
+www.carousell.sg:443#VPS789优选 | www.carousell.sg
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
 play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
 funko.com:443#VPS789优选 | funko.com
 openai.com:443#VPS789优选 | openai.com
 fn.130519.xyz:443#VPS789优选 | fn.130519.xyz
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
-store.ubi.com:443#VPS789优选 | store.ubi.com
 staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
 cfyx.aliyun.20237737.xyz:443#VPS789优选 | cfyx.aliyun.20237737.xyz
 constitution.congress.gov:443#VPS789优选 | constitution.congress.gov

@@ -7,13 +7,13 @@ cf.godns.cc
 ahrefs.com
 cfyx.qdqqd.com
 www.broadcom.com
+www.carousell.sg
 www.akasantech.com
 play.mc.js.cool
 funko.com
 openai.com
 fn.130519.xyz
 cfsaas.080112.xyz
-store.ubi.com
 staticdelivery.nexusmods.com
 cfyx.aliyun.20237737.xyz
 constitution.congress.gov
@@ -27,11 +27,10 @@ ctlmt.info
 uspto.gov
 china-telecom.cname.cloudflare.468123.xyz
 cdn.091224.xyz
-www.carousell.sg
 www.sloomb.com
 prompt.gzcrtw.com
-cf.92555.xyz
 www.shopify.com
+store.ubi.com
 gh-proxy.com
 nexusmods.com
 spring.io
@@ -46,7 +45,7 @@ markmonitor.com
 ctsg.cfyx.aliyun.20237737.xyz
 ct.721660.xyz
 www.vastnovel.com
-www.deepl.com
+cf.92555.xyz
 cu.877774.xyz
 cf.130519.xyz
 cf.3666888.xyz
@@ -56,6 +55,7 @@ www.bangbenjiaju.com
 www.dg22.top
 www.giannidelprete.it
 edgeone.gh-proxy.org
+www.deepl.com
 cf.xreak.top
 cdns.doon.eu.org
 cf.877771.xyz
@@ -68,7 +68,6 @@ www.xflash.vip
 prizepicks.com
 cfip-cm.stoeaves.us.ci
 www.090902.xyz
-53.fs1.hubspotusercontent-na1.net
 b3.cfyx.20237737.xyz
 www.dentoncounty.gov
 www.crazygames.fr
@@ -82,6 +81,7 @@ cf.468123.xyz
 dongbanghong.com
 codexradar.com
 cloudflare.19931110.xyz
+53.fs1.hubspotusercontent-na1.net
 yxip.xxxxxxxx.tk
 www.mastervolt.com
 mvnrepository.com
@@ -106,6 +106,7 @@ www.whoer.net
 www.postman.com
 virtualcommtraining.verizon.com
 www.mc.js.cool
+moodle.org
 www.jimdo.com
 fictiv.com
 youxuan.cf.090227.xyz
@@ -115,11 +116,9 @@ cf.cf.3666888.xyz
 img.css.sd
 yg13.ygkkk.dpdns.org
 www.blibli.com
-cfip-ct.stoeaves.us.ci
 cfip-cu.stoeaves.us.ci
 www.whatismyip.com
 www.ox.ac.uk
-moodle.org
 cf.v8.longsays.com
 da.mfa.gov.ua
 encryptedsni.com
@@ -129,6 +128,7 @@ youxuan.cf.3666888.xyz
 yg1.ygkkk.dpdns.org
 investor.apple.com
 shanghai.mfa.gov.ua
+cfip-ct.stoeaves.us.ci
 worldvectorlogo.com
 rargb.to
 lt.1930812.xyz
@@ -139,7 +139,6 @@ www.libvio.site
 mox.moxing.lol
 zen-browser.app
 visa.com.tw
-oxylabs.io
 a.pub.network
 ct.090227.xyz
 ping.pe
@@ -152,6 +151,7 @@ codeforces.com
 cdn.cf.3666888.xyz
 yg5.ygkkk.dpdns.org
 yg6.ygkkk.dpdns.org
+oxylabs.io
 cf.cloudflare.182682.xyz
 chat.hashi.sbs
 www.jsdelivr.com
@@ -165,6 +165,7 @@ www.nomios.com
 cdn.nodeimage.com
 www.wto.org
 www.hugedomains.com
+egov.uscis.gov
 www.bis.gov
 9mod.com
 builtbybuffalo.com
@@ -186,7 +187,6 @@ xiaoqi.de
 moegirl.icu
 t.213891.xyz
 japan.com
-egov.uscis.gov
 cf1s.cf.3666888.xyz
 carpt.net
 pttime.org
@@ -195,6 +195,6 @@ wppaunz.com
 www.mlkj888.com
 ct.hw.090227.xyz
 yx.cf.090227.xyz
-wallpaperflare.com
 yong.m123.org
 jojolsj.jojojing.top
+cf.qq.ms
