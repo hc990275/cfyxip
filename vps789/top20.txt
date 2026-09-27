@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 09-28 01:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 09-28 02:11 | BestCF.pages.dev
 spring.io:443#VPS789优选 | spring.io
 www.mastervolt.com:443#VPS789优选 | www.mastervolt.com
 www.leics.police.uk:443#VPS789优选 | www.leics.police.uk
@@ -12,7 +12,7 @@ ct.721660.xyz:443#VPS789优选 | ct.721660.xyz
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 m.iyf.tv:443#VPS789优选 | m.iyf.tv
-sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
+vip.cf.3666888.xyz:443#VPS789优选 | vip.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
 greim.no:443#VPS789优选 | greim.no
 cdn.7zz.cn:443#VPS789优选 | cdn.7zz.cn
