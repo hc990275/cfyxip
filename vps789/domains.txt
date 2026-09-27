@@ -144,6 +144,7 @@ yg6.ygkkk.dpdns.org
 cf.553314.xyz
 worldvectorlogo.com
 example.com
+xbjzcdn.sjzhk.top
 cf.cf.636949.xyz
 hitcon.org
 buyshoes.shop
@@ -153,7 +154,6 @@ api2-ide.imgnxa.com
 cf.v8.longsays.com
 v.recipes
 cdnjs.com
-cdn.nodeimage.com
 fn.130519.xyz
 cn.vuejs.org
 dx.doi.org
@@ -173,7 +173,7 @@ hentaiverse.org
 lt.1930812.xyz
 cf.yj250.bond
 db-ip.com
-xbjzcdn.sjzhk.top
+cdn.nodeimage.com
 w3.org
 www.botafogo.com.br
 www.redboxtools.com
@@ -187,7 +187,6 @@ www.whoer.net
 www.libvio.site
 egov.uscis.gov
 encryptedsni.com
-ovpnspider.com
 mvnrepository.com
 www.bis.gov
 sellerlogic.com
@@ -198,3 +197,4 @@ eteaf.cf.3666888.xyz
 carpt.net
 shanghai.mfa.gov.ua
 zen-browser.app
+oxylabs.io
