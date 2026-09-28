@@ -59,7 +59,6 @@ ctsg.cfyx.aliyun.20237737.xyz
 www.xflash.vip
 www.vastnovel.com
 www.dg22.top
-cf.553314.xyz
 cfip-avg.stoeaves.us.ci
 yfvsdf.cf.3666888.xyz
 top-fast.cf.3666888.xyz
@@ -77,6 +76,7 @@ hfqek.cf.3666888.xyz
 3.cf.3666888.xyz
 9.cf.3666888.xyz
 www.blibli.com
+cf.553314.xyz
 cfip-ct.stoeaves.us.ci
 play.mc.js.cool
 www.deepl.com
@@ -115,9 +115,11 @@ cdn.091224.xyz
 cloudflare.468123.xyz
 cfip-cu.stoeaves.us.ci
 nist.gov
+mfa.gov.ua
 8.cf.3666888.xyz
 china-telecom.cname.cloudflare.468123.xyz
 ex.warspite.dpdns.org
+www.090902.xyz
 cf.xreak.top
 cloudflare.19931110.xyz
 www.postman.com
@@ -131,7 +133,6 @@ moondroplab.com
 cfyx.qdqqd.com
 www.xiaoshuofen.com
 hzytjy.cn
-www.090902.xyz
 db-ip.com
 ip.sb
 aandd.co.jp
@@ -153,20 +154,20 @@ singapore.com
 www.whoer.net
 serviceshub.samsclub.com
 9mod.com
+help.kolet.com
 crinacle.com
 hk.cf.3666888.xyz
 china.mfa.gov.ua
 yg1.ygkkk.dpdns.org
 yg3.ygkkk.dpdns.org
-yg11.ygkkk.dpdns.org
 chinwa.cf.090227.xyz
 img.856518.xyz
 www.dbs.com.sg
 js.org
 53.fs1.hubspotusercontent-na1.net
+cdn.jwcmdr.top
 visa.com
 www.ventusky.com
-help.kolet.com
 www.botafogo.com.br
 japan.com
 cf.130519.xyz
@@ -174,7 +175,7 @@ www.wto.org
 jobsdb.com
 www.petronaftco.com
 www.canadatype.com
-yg8.ygkkk.dpdns.org
+yg11.ygkkk.dpdns.org
 cf-cname.xingpingcn.top
 store.ubi.com
 uptimerobot.com
@@ -187,6 +188,7 @@ thebeat.gehealthcare.com
 dango.co
 cf.254301.xyz
 youxuan.cf.636949.xyz
+yg8.ygkkk.dpdns.org
 c-power.com.cn
 cdn.fiatnorm.us.kg
 mail.notion.com
@@ -196,5 +198,3 @@ cloudflare.com
 cf.090227.xyz
 p.etime.vip
 coreweave.com
-w3.org
-www.bis.gov
