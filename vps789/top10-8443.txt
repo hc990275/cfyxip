@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP10 | 09-30 00:11 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP10 | 09-30 00:41 | BestCF.pages.dev
 funko.com:8443#VPS789优选 | funko.com
 greim.no:8443#VPS789优选 | greim.no
 cfgo.timelate.com:8443#VPS789优选 | cfgo.timelate.com
@@ -8,5 +8,5 @@ www.gov.il:8443#VPS789优选 | www.gov.il
 www.carousell.sg:8443#VPS789优选 | www.carousell.sg
 edgeone.gh-proxy.org:8443#VPS789优选 | edgeone.gh-proxy.org
 4gxb7l7p40.cloudflare-gateway.com:8443#VPS789优选 | 4gxb7l7p40.cloudflare-gateway.com
-www.mastervolt.com:8443#VPS789优选 | www.mastervolt.com
+store.ubi.com:8443#VPS789优选 | store.ubi.com
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
